@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>City of Caesarea</title>
+		<subtitle>Capital of Roman Mauretania</subtitle>
+        <text> @G[c3 stills_137.png]@L
+		@H Historical Background @L
+		The Romans established many colonies named Caesarea across the Mediterranean. This was obviously an homage to the Gaius Julius Caesar. After his death, his name was enshrined and he received a god-like reverence. One could argue that it was the first case where cult of personality would develop. This tradition carried on when Rome became an Empire and even Augustus's name received the same treatment, virtually becoming synonymous with "hegemon". @L@L
+		Caesarea in Roman Mauretania was originally the Phoenician city of Iol, later coming under the rule of Carthage and then Numidia after the Punic Wars ended. Following the assassination of Julius Caesar, the city was ruled by King Juba II, a Berber prince whom Caesar had taken prisoner as a child and had educated in Italy as a Roman citizen. @L@L
+		Juba II fought alongside Octavian, the future emperor Augustus, and married Cleopatra Selene, daughter of the infamous Marc Anthony and Cleopatra VII of Egypt. Juba and his wife were given rule over Mauretania and renamed their capital Caesarea to honor their benefactor and rebuilt the city using both Roman and Egyptian stylistic features. Greek, Punic, Roman, and Berber cultures lived together in the city in relative harmony during this period. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, take command of the city and build it into a splendid Roman colony. This assignment will present a new type of challenge: there is no viable food source in Caesarea, so to ensure supply for your garrison and prosperity for your city, you will have to rely entirely on imports from the wider Republic. @L@L
+		Fortunately, the climate favors cultivation of olives and vines near local oases. Additionally, gold and stone may be extracted from the surrounding mountains, so the export industry promises to be very lucrative. The terrain around the city is not overly rugged, but local raiders will take an interest in the city. @L@L
+		You must repel their constant attacks on a regular basis. You should consider investing into substantial patrols all along the outskirts of the city. The more quickly each wave of raiders is defeated, the sooner you can continue expanding your city further. @L@L
+		You should start with a prebuilt city in this assignment but since this would force a similar design for every player, it was abandoned to promote more original designs. @L@L
+		
+		@H Edicts @L@
+		Piracy - Local pirates will often attack merchant ships and disrupt trade. Significant military buildup can prevent this via an event later. @L@L
+		@Impossible @Self-Sufficiency - Foodstuffs and certain other goods are only available via imports. A future event will offer a way to gain some additional food for free. @L@L
+		@H Additional Information @L
+		At the time of the mission, Rome was a republic so treat requests from "Caesar" as if they were from the Roman Senate instead.@L
+		@H Persistent Events @L@L
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<background_music filename="ROME2.wav"/>
+        <media type="speech" filename="Caesarea1.mp3"/>
+		<media type="background_image" filename="augustus18.png"/>
+	</message>
+	
+	<message uid="objective 1">
+		<title>(!) Food Program (!)</title>
+		<subtitle>Supporting the Population</subtitle>
+		<text> @G[c3 stills_144.png]@L
+		@H Message @L
+		Governor, we require rations to support our military and population. You can apply for a subsidy with the Republic, exchanging some of our political favor for monthly shipments of food. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L@L
+		Build a caravanserai to start receiving shipments of 96 fruit in exchange for favor falling by an additional 1 point every 12 months.  @L@L
+		For future development, to import as much food as possible, you should consider building a full highway from entry to the exit point, selecting the caravanserai capacity policy; and also the Grand Temple to Mercury which provides 50% additional capacity for traders. @G[Food_Program.png] @G[decorative objetive .png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Caesarea no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="objective 1 completed">
+		<title>(!) Shipments (!)</title>
+		<subtitle>Securing Food Supply</subtitle>
+		<text> @G[c3 stills_144.png]@L 
+		@H Message @L
+		Governor, let it be known that henceforth your city shall receive a food subsidy, as the surrounding lands do not offer agricultural or fishing opportunities to sustain the city. @L@L
+		@H Reward @L
+		Shipments of 96 fruit will arrive every 12 months in exchange for losing 1 favor. Be sure to have sufficient space available (96 units equates to 3 full granaries). @G[Securing_Food_Supply.png]
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="Pirates Raid trade routes">
+		<title>(!) Pirate Activity (!)</title>
+		<subtitle>Rising Extortion</subtitle>
+		<text> @G[c3 stills_51.png]@L 
+		@H Message @L
+		Dire news, governor! A trade expedition inbound to Caesarea was ambushed and captured by pirates, who demanded an immediate ransom payment. In order to preserve the traders' lives, I authorized the payment out of the city treasury. These loathsome acts of piracy could be thwarted if our city had a lighthouse and a large complement of troops to protect our coastlines properly.  @L@L
+		Your faithful commander,@L
+		Ioannes Caseus Piscator@L
+		@G[decorative objetive .png]
+		@H New Development @L
+		@G[less_funds.png] 
+		@L The city has lost 1500 denarii. This event could occur again unless a lighthouse is operational within the city along with@ 80 @active @troops. @G[lighthouse.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+
+	<message uid="Pirates wiped out">
+		<title>(!) Coastline Secured (!)</title>
+		<subtitle>Troops Drive Away Pirates</subtitle>
+		<text> @G[c3 stills_103.png]@L 
+		@H Message @L
+		Your garrison commander reports that Caesarea is now safe from further pirate raids. Several hideouts have been destroyed, ensuring trade lanes will now be secure. Consider the unexpected ransom demand a thing of the past. @G[more_funds.png] @L@L
+		@H Historical Background @L@L
+		When Caesar invaded North Africa with 6 legions, a storm had scattered his forces leaving him with only 3000 infantry. His former legate named Labienus was commanding some of the Pompeian forces that opposed him. Numidian cavalry, and 120 war elephants under King Juba were used to harass the Romans, and Caesar nearly faced defeat. Eventually, Caesarean forces were victorious at the Battle of Thapsus. In the aftermath, most of the Pompeian leadership took their life or fled Africa; Labienus and many others died on the battlefield. @L@L
+		King Juba would later be killed after losing a duel with the Roman mercenary commander Publius Sittius. @L@L
+		Afterwards, Caesar took the young child successor Juba II captive in order to present him in his triumph in Rome. Captive monarchs in the triumph would be ritualistically strangled in front of the temple to Jupiter Optimus Maximus. While Romans despised human sacrifice, this was the one case where one could compare their practices to it. @L@L
+		During triumph, crowds in Rome would be presented with paintings on wagons for propaganda reasons in the processions. Spoils of war would be shown and some shared with the public. Soldiers would sing disrespectful songs and the triumphator would be dressed in purple and ride a chariot in front of the crowds. @L@L
+		After the civil war ended, Caesar enjoyed four triumphs. One for the Gallic Wars, one for the victory over Pontus in Asian Minor, one for his Egyptian campaign, and one for his North African campaign. @L@L
+		During the North African triumph, Caesar presented the occasion as fighting against the Numidians as celebrating the deaths of Romans during the civil war would not be seen favorably nor would allow for a triumph. @L@L
+		In the paintings, however, it was depicted how Cato took his own life by disemboweling himself and how the Pompeian commander-in-chief Metellus Scipio stabbed himself and was cast into the sea. @L@L
+		This turned the crowds against the triumph and when the child king was shown, they demanded and screamed at Caesar that the child king be released. Caesar obliged and enrolled Juba II into a prestigious Roman school. A similar demand was later pressed regarding Cleopatra's sister Arsinoe IV, who was freed and put to serve in a Roman temple. @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="plaza">
+	<title>(!) Plaza Unlocked (!)</title>
+	<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Thriving Caesarea</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		Excellent performance governor, it was no easy feat sustaining a large Roman city entirely on imported provisions. @L@L In Damascus, you will oversee large-scale mining operations once more. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus18.png"/>
+		<background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Caesarea2.mp3"/>
+	</message>
+
+</messages>

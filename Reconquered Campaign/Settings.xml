@@ -1,0 +1,65 @@
+<campaign version="1">
+<description title="Campaign Reconquered" author="CommissarMarek">All 20 original assignments remade using Augustus features. More difficult than the original but not a hardcore experience.</description>
+<missions starting_rank="architect">
+<mission title="First Roman Colony" max_personal_savings="2000">
+<scenario file="RC01 Ostia.mapx" name="Ostia 706BC" x="90" y="25" briefing_image="augustus01.png" description="Establish Rome's first colony at the shores of the Tyrhennian sea." fanfare="peaceful"/>
+</mission>
+<mission title="Colony at Brundisium" max_personal_savings="2000">
+    <scenario file="RC02 Brundisium.mapx" name="Brundisium 245BC" x="90" y="100" briefing_image="augustus05.png" description="Develop a profitable city in Magna Graecia." fanfare="peaceful"/>
+    </mission>
+    <mission title="City of Capua" max_personal_savings="2000">
+        <scenario file="RC03 Capua.mapx" name="Capua 350BC" x="90" y="175" briefing_image="augustus03.png" description="Establish an important city in central Italy." fanfare="peaceful"/>
+        </mission>
+        <mission title="Conquest of Tarentum" max_personal_savings="2000">
+            <scenario file="RC04 Tarentum.mapx" name="Tarentum 272BC" x="90" y="250" briefing_image="augustus30.png" description="Manage Roman Legions at Tarentum to resist local Greeks." fanfare="military"/>
+            </mission>
+            <mission title="Supply Base at Tarraco" max_personal_savings="2000">
+                <scenario file="RC05 Tarraco.mapx" name="Tarraco 270BC" x="90" y="325" briefing_image="augustus09.png" description="Establish a crucial supply hub in Hispania." fanfare="peaceful"/>
+                </mission>
+                <mission title="Roman Syracusae" max_personal_savings="2000">
+                    <scenario file="RC06 Syracusae.mapx" name="Syracusae 212BC" x="250" y="25" briefing_image="augustus08.png" description="Repel Carthaginean attempts to control the largest city in Sicily." fanfare="military"/>
+                    </mission>
+                    <mission title="Inclusion of Miletus" max_personal_savings="2000">
+                        <scenario file="RC07 Miletus.mapx" name="Miletus 133BC" x="250" y="100" briefing_image="augustus11.png" description="Build a prosperous city amidst harsh conditions of Asia Minor." fanfare="peaceful"/>
+                        </mission>
+                        <mission title="City of Mediolanum" max_personal_savings="2000">
+                            <scenario file="RC08 Mediolanum SAVE.svx" name="Mediolanum 222BC" x="250" y="175" briefing_image="augustus13.png" description="Defend Italy from its greatest foe, Hannibal Barca and his massive army." fanfare="military"/>
+                            </mission>
+                            <mission title="Colony of Lugdunum" max_personal_savings="2000">
+                                <scenario file="RC09 Lugdunum.mapx" name="Lugdunum 43BC" x="250" y="250" briefing_image="augustus21.png" description="Establish a cultured and profitable city in Roman Gaul." fanfare="peaceful"/>
+                                </mission>
+                                <mission title="Roman Carthago" max_personal_savings="2000">
+                                    <scenario file="RC10 Carthago SAVE.svx" name="Carthago 48BC" x="250" y="325" briefing_image="augustus17.png" description="Choose your side in the civil war, and rebuild Carthago to its former glory." fanfare="military"/>
+                                    </mission>
+                                    <mission title="City of Tarsus" max_personal_savings="2000">
+                                        <scenario file="RC11 Tarsus SAVE.svx" name="Tarsus 67BC" x="390" y="25" briefing_image="augustus25.png" description="Manage many imports and exports in the mining region of Tarsus." fanfare="peaceful"/>
+                                        </mission>
+                                        <mission title="Colony at Tingis" max_personal_savings="2000">
+                                            <scenario file="RC12 Tingis.mapx" name="Tingis 70BC" x="390" y="100" briefing_image="augustus27.png" description="Establish a city at the edge of the known world." fanfare="military"/>
+                                            </mission>
+                                            <mission title="Metropolis of Valencia" max_personal_savings="2000">
+                                                <scenario file="RC13 Valencia.mapx" name="Valencia 138BC" x="390" y="175" briefing_image="augustus09.png" description="Manage large quotas of raw exports and combat corruption in Hispania's largest city." fanfare="peaceful"/>
+                                                </mission>
+                                                <mission title="Roman Lutetia" max_personal_savings="2000">
+                                                    <scenario file="RC14 Lutetia SAVE.svx" name="Lutetia 11BC" x="390" y="250" briefing_image="augustus29.png" description="Build a large city and overcome many difficulties that await you in Gaul." fanfare="military"/>
+                                                    </mission>
+                                                    <mission title="Colony of Caesarea" max_personal_savings="2000">
+                                                        <scenario file="RC15 Caesarea.mapx" name="Caesarea 10BC" x="390" y="325" briefing_image="augustus32.png" description="Establish a city without any local food production." fanfare="peaceful"/>
+                                                        </mission>
+                                                        <mission title="City of Damascus" max_personal_savings="2000">
+                                                            <scenario file="RC16 Damascus.mapx" name="Damascus 64BC" x="530" y="25" briefing_image="augustus18.png" description="Secure vital water supply and develop Damascus into a large profitable city." fanfare="military"/>
+                                                            </mission>
+                                                            <mission title="Metropolis of Londinium" max_personal_savings="2000">
+                                                                <scenario file="RC17 Londinium SAVE.svx" name="Londinium 47AD" x="530" y="100" briefing_image="augustus33.png" description="Establish an economy scale and despite many difficulties, develop a huge city in Roman Brittain." fanfare="peaceful"/>
+                                                                </mission>
+                                                                <mission title="Colony of Sarmizegetusa" max_personal_savings="2000">
+                                                                    <scenario file="RC18 Sarmizegetusa.mapx" name="Sarmizegetusa 102AD" x="530" y="175" briefing_image="augustus20.png" description="Build a city of Roman standards on the Dacian frontier of the Empire." fanfare="military"/>
+                                                                    </mission>
+                                                                    <mission title="City of Lindum" max_personal_savings="2000">
+                                                                        <scenario file="RC19 Lindum SAVE.svx" name="Lindum 122AD" x="530" y="250" briefing_image="augustus07.png" description="Assist Emperor Hadrian in building his massive wall while you manage Lindum." fanfare="military"/>
+                                                                        </mission>
+                                                                        <mission title="Metropolis of Massilia" max_personal_savings="2000">
+                                                                            <scenario file="RC20 Massilia.mapx" name="Massilia 218BC" x="530" y="325" briefing_image="augustus21.png" description="Assimilate local Greeks and defeat Carthaginean forces for one last time in Massilia." fanfare="peaceful"/>
+                                                                            </mission>
+</missions>
+</campaign>

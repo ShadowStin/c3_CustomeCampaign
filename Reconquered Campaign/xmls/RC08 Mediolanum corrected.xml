@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>Conquest of Mediolanum</title>
+		<subtitle>Gallia Cisalpina Expands</subtitle>
+        <text> @G[c3 stills_104.png]@L  
+		@H Historical Background @L
+		Mediolanum, modern day Milan, was founded around 600 BC by the Insubrian peoples, a Celtic cultural group. Romans conquered the city in 222 BC, and it quickly became a local trade hub and major population center. By its conquest, Romans established a province of Gallia Cisalpina. @L@L
+		Mediolanum was one of the most important cities in the Republic and later the Empire due to its location as a hub in the road network of northern Italy. Polybius describes the country as abounding in wine and every kind of grain and in fine wool. Herds of swine, both for public and private supply, were bred in its forests, and the people were well known for their generosity. @L@L
+		Contrary to what is depicted in this scenario, the Mediolanum garrison did not in fact prevent the Carthaginian army from crossing the Alps, and Hannibal Barca continued to defeat one army after another while sacking small cities along the way. @L@L
+		Ultimately, Hannibal's tactical victories did not turn into a strategic one and the Second Punic War ended in Rome's favor. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, welcome to Mediolanum and its new province. Your task will be to transform this rugged northern landscape into a city worth its place as a provincial capital. @L@L
+		Trade is limited to land caravans, but this should not pose a problem as there are plentiful Roman cities in close vicinity. There has also been talk of a trade pact amongst some of the eastern cities, so keep a close eye on the price of their trade permits, otherwise you might find yourself swiftly running out of available funds due to their extortionate practices. @L@L
+		The local area is rich in marble, stone, and timber. Clay and sand can also be excavated with relative ease. Additionally, wheat can be grown; however, the northern climate does not suit the crop, and its yields are therefore low. Due to the rocky soils, the local land can support vegetables and vines as well. @L@L
+		Speaking of trade, due to the ongoing conflict, weapons are demanded by almost every city. It is really a shame then that Mediolanum does not hold any deposits of iron ore. If you want to expand onto this profitable market or equip legionary cohorts, you will have to invest into imports of iron ore and manufacture weapons locally. @L@L
+		Lastly, our surveyors told us that the site will be suitable for 8000 residents. This will no doubt rely on rapid expansion of food imports, but a governor skilled as you are will surely not fail in this endeavor. @L@L
+		After talking about the economy, there are the matters of state and military. Our republic is locked in its great struggle against the Carthaginians for the second time in its history. Legions are few and far between in Italia and every city should care for its defense. Mediolanum will have the great barrier of the Alps between it and any potential danger, but your troops might be tasked with helping other cities. However, we do not expect any substantial force to trouble you and so cannot afford more than a small military presence in the region. @L@L
+		Our legions must be tasked to defending the rest of the Republic; consequently, you will not build more than 2 legion forts in Mediolanum. Your city will also not have access to our military engineers and so will not be able to build towers or fortifications. Should matters change we will revisit this particular issue at a later date. @L@L
+		One last note is that Pontifex Maximus, the chief priest of Rome, has decreed that no small shrine will be built; we must construct momentous constructions to the gods to foster religious zeal and dedication from all our citizens. He has forbidden the construction of small temples. He also sees the science of medicine as a distraction from the importance of pious worship; as such, you shall not construct any clinics. @L@L
+		Good luck governor and remember your duties. We shall ask much of your fledgling city in the years to come. @L@L@L
+		
+		@H Edicts @L@
+		Protected @by @the @Alps - You cannot build walls or towers until later events occur. If you build more than 2 forts, you will lose favor rapidly. @L@L@
+		Pontifical @Edict - You cannot build small temples or doctor's clinics. Swift construction of large temples or, better yet, oracles/mausolea will be necessary to avoid the wrath of the gods (your city starts with resources ready for use in warehouses). @L@L
+		
+		@H Additional Information @L
+		There are 8 invasion points; these are only on exposed edges of the map though, never on entry and exit points directly. Use chokepoints to wall one off and leave the other open as a kill zone so enemies path towards a single point of defense. @L@L
+		At the time of the mission Rome is still in its republic stage, so treat requests from Caesar as if they were from the Roman Senate instead.@L@L
+		As is customary, even though from a historical perspective you should start with a pre-built city on this map, few players would like that, so it will be up to you to build everything from scratch. @L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidy lasts until 10 prosperity is achieved and gives 100 dn. monthly until it expires, workshops only unlock after subsidy expires. Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed.@L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus15.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Mediolanum1.mp3"/>
+	</message>
+	
+	<message uid="Militarization">
+		<title>(!) Emergency (!)</title>
+		<subtitle>Senate Approves Recruitment</subtitle>
+		<text> @G[c3 stills_102.png]@L 
+		@H Message @L
+		Governor, dire news has reached the Senate that Hannibal Barca, the feared Carthaginian general, is in Hispania and is searching for a path into Italia. Carthaginian scouts are reported to be investigating the Alpine passes that lead towards you in Mediolanum.@L@L
+		For the sake of the Republic, make any preparations that are necessary and fortify the city. Engineers have been dispatched along with this missive, ready to construct defensive works. Raise new legions and mobilize every able citizen. If Hannibal crosses the Alps, this could spell disaster for the Republic! @L@L
+		Our treasury is depleted, and the Senate cannot offer any additional future support, so raise funds by any means necessary. May Jupiter watch over us all. @L@L
+		@H New Development @L
+		"Protected by the Alps" Edict Revoked: All military restrictions have been eliminated and you have gained +15 favor to offset potential debts which might stem from funding the military. @G[Military_Emergency.png] @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="trade permit">
+		<title>(!) Trade Permits (!)</title>
+		<subtitle>Eastern Cities Offer Membership</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		Governor, representatives of the prominent trade guild to our east have arrived. They say that Mediolanum has great potential and have extended an offer to grant league membership to your merchants...for a price. If you agree to their barter proposal, they will guarantee reduced prices on trading permits within the league and extend their invitation to us. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Stockpile 32 units of marble and wine to purchase membership in the eastern trade league. These goods will be sent over as tribute and as a reward, prices on opening trade routes to the east will be lowered. Note that this will not earn you any friends in Rome; factionalism is sabotaging the war effort. @G[Trade_Permits.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="gifts accepted">
+		<title>(!) Membership (!)</title>
+		<subtitle>Newest Member of the Trade League</subtitle>
+		<text> @G[c3 stills_04.png]@L 
+		@H Message @L
+		Hail, Governor,@L
+		We are pleased to announce that your merchant guild and thus the whole city of Mediolanum, is now an authorized member of the eastern trade league! @L
+		As such, you do not need to pay the higher non-member price for a trade permit but enjoy the reduced permit costs that are reserved for members. @L
+		Welcome to the League! @L@L
+		- Marecus Vasnius, High Guildmaster @L@L
+		@H Reward @L
+		Prices on opening trade routes to the east have been lowered but you will lose an extra -1 favor per year going forward. @G[gifts_accepted.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="Mars GT">
+		<title>(!) Desperate Measures (!)</title>
+		<subtitle>Mars, Patron of Mediolanum</subtitle>
+		<text> @G[c3 stills_122.png]@L 
+		@H Message @L
+		The Carthaginian invasion is imminent! Mediolanum is in the best position to resist their incursion, and the enemy forces are far from their supply lines. Local elites have requested that you dedicate the city to Mars, the god of war. Go, fully militarize our populace, and levy additional legions. @L@L
+		Pontifex Maximus Crassus acknowledges the dire situation and will grant you some additional freedoms in religious matters after the formal temple dedication. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build the Grand Temple to Mars and as a reward clinics will be enabled. Expect very large attacks, even simultaneous ones later, so it is recommended to build your forces to the maximum extent allowed and use heavy defenses. @G[gt_mars_med.png] @G[decorative objetive .png] @L@L
+		
+		@H Historical Background @L
+		During the crossing of the Alps, the Carthaginian army suffered unimaginable attrition but even after losing most of its strength, it was still capable of surprising the Romans and winning many battles. Their ranks were boosted by many local disgruntled Celtic tribesmen, eager to take revenge on the Romans for their past conquests. @L@L
+		Hannibal Barca is regarded as one of the best generals in history, his tactical skill was unparalleled at the time and was in stark contrast to the rigid Roman way of fighting. He used ambushes and wide flanking maneuvers as well as hiding part of his forces to achieve surprise during battle. @L@L
+		Romans suffered heavy defeats at Lake Trasimene and Cannae, even losing both consuls who led the armies. As with the Pyrrhic War in the past, the Roman war machine was very resilient, however. Even after tremendous losses, legions were rebuilt, tactics were improved, and enemies were overcome. @L@L
+		Due to the lack of proper siege capabilities, the Carthaginians had to withdraw from Italy without achieving strategic victories and Hannibal later suffered his only defeat in the battle of Zama, when Scipio Africanus invaded North Africa. @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+	
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="favor">
+		<title>(!) Insolence (!)</title>
+		<subtitle>Recruitment Worries Senators</subtitle>
+		<text> @G[c3 stills_57.png]@L 
+		@H Message @L
+		Governor, loyal elements have reported to us that your city is raising legions in excess of those permitted. We do not wish for you to siphon off soldiers necessary to the war to defend your backwater province. Disband the extra legions or be declared a traitor and judged in absentia. @L@L
+		@H New Development @L
+		You have lost 20 favor. This will reoccur in one year if not resolved. You may only have 2 forts. @G[favor_menos.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="clinic">
+		<title>(!) Medicine (!)</title>
+		<subtitle>Pontifex Maximus Grants Exception</subtitle>
+		<text> @G[c3 stills_123.png]@L 
+		@H Message @L
+		Governor, the birds flew over Capitoline Hill and settled on the roof of Jupiter Optimus Maximus, this is a sure sign from the gods. I have heard of your dedication to Mars and your struggle against the Carthaginian menace. Consider the decree to limit medical facilities relaxed in your city. They shall surely be needed to deal with the casualties of war. @L@L
+		May Jupiter grant you strength, @L@L
+		- Publius Licinius Crassus, Pontifex Maximus Romae @L@L
+		@H Reward @L
+		Clinics unlocked. @G[medic.png]
+		
+		@H Historical Background @L
+		Pontifex Maximus was the chief elected religious official in Rome and ruled over a college of pontiffs that interpreted omens and oversaw the Roman calendar, where days had to be manually assigned as holidays to keep the years even. @L@L 
+		This position was not mutually exclusive with offices on the Cursus Honorum, however, so even this posting became highly sought after as a political power tool. Public holidays or bad omens would disrupt Senate meetings whenever hostile agenda was being proposed. @L@L
+		Later in his life, Julius Cesar would hold the position of Pontifex Maximus which would generally be held for life. He used it to invent the Julian calendar and fix the many issues with the old system, taking away the power of assigning holidays and disrupting the Senate with bad omens, and turning the position into a non-political religious posting. @L@L
+		During Caesar's year as consul, his co-consul Bibulus held the position of Pontifex Maximus. Bibulus was a conservative and intended to veto any legislation proposed by Caesar. @L@L
+		In an incident when a meeting went nowhere after proposing direly needed reforms and the opposition showing little or no support, Ceasar bypassed the Senate and proceeded to read the bill of the expanded grain dole to the public assembly, where citizens would hear out a law being proposed and raise their hands to show support or opposition. @L@L 
+		While Caesar was reading the bill, Bibulus and conservative tribunes of the plebs came to veto the proposal. Since the grain dole was to directly benefit the urban poor, a citizen mob descended on the senators and dumped manure on Bibulus' head. This shook the man to his core, and he refused to show up in public or in Senate meetings from that point on, leaving Caesar to pursue his agenda virtually unopposed. @L@L
+		Since Bibulus was Pontifex Maximus, he declared bad omens constantly but after the incident he became a laughing stock of the Roman public and was just ignored. @L@L
+		One reason for such staunch hatred from the conservative faction against Caesar was that he terrified the Senate. At some point, rich and influential senators Marcus Licinius Crassus and Pompey Magnus were at odds with each other and the Senate. Unable to push through their own agenda even though they had served the Republic, they decided to create the first triumvirate by having Caesar as an olive branch between themselves, throwing their political support behind him and funding his endeavours. @L@L
+		When conservatives saw this, they were horrified that such a power block is now in control of the Assembly. Many conservatives such as Cato the Younger would oppose Caesar for life after the show he made of his power, which made a mockery of the institutions and established rule.@L@L
+		This tension only highlighted the issues inherent in the Roman political system and civil wars would eventually follow, which led to rise of popular politicians inspired by Caesar's school of thought. Eventually, Rome was turned from a Republic into an Empire; many people think that the first emperor of Rome was Augustus who was an adoptive son of Julius Caesar, but he never held the title officially. One could certainly argue that he was an emperor in all but name, but the first official emperor was Tiberius. Augustus' full name was Augustus Julius Caesar after his adoptive father, and Tiberius was named Tiberius Julius Caesar Augustus, continuing the tradition of enshrining Caesar's name as sovereign. @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Mediolanum, Shield of the Republic</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		 @H Assignment Completed @L
+		Governor, the whole Republic is grateful for defeating Hannibal. You have saved countless Roman lives and proved that our ingenuity will overcome any foe and stop at nothing for our people and civilization to fulfill its destiny. @L@L
+		I salute you for this incredible performance. In Lugdunum, you will test your skills in logistics once more. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus14.png"/>
+		<background_music filename="WinAssignment.wav"/>
+		<media type="speech" filename="Mediolanum2.mp3"/>
+	</message>
+
+    <message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Mediolanum no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+</messages>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1">
+    <message uid="intro">
+        <title>First Roman Colony</title>
+        <subtitle>Founding of Ostia</subtitle>
+        <text> @G[c3 stills_92.png]@L
+        @H"Speech" setting alters briefing volume. Set "music" lower to avoid drowning out the briefings as well. @L@L
+        @H Historical Background @L
+        The year is 706 BC and Rome is a kingdom that has been at war with its Etruscan neighbors almost constantly throughout its history. In order to increase its influence and profits to be able to assert its local dominance, @Rome will need better access to trade. @L@L
+        Since the only access to profitable sea routes is the river of Tiber, Romans have decided to establish their first true colony. This new site is to be called @Ostia and will be located close to the shores of the Tyrrhenian Sea.@L@L The biggest enemy of Rome at this time of its history was the Etruscan city of Veii. Its distance of only 16 km (9.9 mi) from Rome made it a very threatening contender for regional dominance. Romans eventually conquered Veii after many wars in 396 BC. @L@L
+		
+		@G[c3 instructions icon.png]
+        @H Instructions @L@L
+        Welcome governor, I have entrusted you with a very important assignment: our city needs to grow rich and prosperous. To achieve this, we will establish a colony that will facilitate trade with our more distant neighbors. @L@L
+        I believe that you have been picked from the candidates as a very promising and talented individual. Therefore, I will refrain from instructing you on the complete basics of building a proper Roman city. @L@L
+        Details of this assignment are as follows: setup a profitable trading colony by extracting local @clay and @timber and grow @wheat for export. I will ask you often for subsidizing our war effort against the Etruscans as well, so make sure to retain my favor by promptly fulfilling these requests. @L@L
+        After the city has reached 800 @population, I will allow Ostia to enjoy some perks of Roman culture which is your first and most @important @objective. Good luck governor. May Jupiter guide your talent to greatness. @L@L
+		
+		@H Edicts: @L
+        @First @Roman @Colony - Rome will send you 100 denarii monthly to fund your city's expansion. @L@L
+        @Agrarian @Origins - Workshops are unavailable for the whole duration of this scenario. Educational as well as entertainment buildings are locked until the first objective of 800 population is achieved. @L@L@L
+		
+        @H Essential Tips @L
+        To avoid @sentiment issues, make sure to keep unemployment low and pay extra wages if necessary. To prevent @disease, provide your housing coverage from a @barber, @clinic, and @bathhouse as soon as possible. @L@L
+        Each @small @temple provides a worship capacity of 750 citizens to that god. @Raw @resource production buildings such as clay pits produce 9.6 cartloads of resources per year at peak capacity. @L@L
+        Your priorities should be to set up housing, provide essential health and risk protection services, start exports for gaining additional funds, and only then water and feed your people to avoid unemployment spikes and bankruptcy. @L@L
+        This is to be done in this order. Feeding your citizens before the city makes any profit was poor advice given by the original game.  @L@L
+        Even after achieving an objective like the 800 population, you will still need to wait for an @in-game @month to roll over for the game to check for the conditions. @L@L@L
+        
+		@H Additional Information @L
+		The "Historical Background" in messages can be safely skipped if you are not interested; it is there to provide context and give some interesting information to historical fans. Each message usually has a section that will be called "Message" that is also flavor text and can be skipped, for example when replaying the maps. For hard numbers and objectives, there is usually the "New Objective" or "Reward" sections. @L@L 
+        @Edicts are mission-specific modifiers that alter how you approach each map. They are there to provide variety and offer challenges to make each map unique and memorable. Some edicts can have positive effects, and some will be restrictive in nature but there is often more than one way to approach everything. For example, you might go with more smaller patricians rather than feeding all plebs a second food type on some maps. @L@L
+        Note that the @campaign has been designed with using the global labor pool @setting in mind, but it is possible to beat even without using it. @L@L
+        Important objectives and messages will have a @(!) symbol next to them for you to easily navigate the messages menu. Due to the limitation of 1000 maximum messages, you should delete unnecessary messages that might clog up the messages menu if you play a map for a very long time. There are no time limits for any of the Reconquered assignments but @requests and @invasions will repeat to keep the scenario reacting to your longer playtime. @L@L
+        This campaign is made for @veteran @players who have beaten the regular campaign before; custom map knowledge will be useful but not necessary. If you are new to Caesar 3 you are advised to play through the vanilla campaign or play the Governors Academia @Minicampaign @Tutorial that will introduce you to the basics of city building as well as the Augustus mechanics. @L@L
+        Be advised that this campaign does not offer a sandbox experience. Do not go in with the expectation to build whatever you want wherever you want whenever you want. @Terrain is used to limit but not completely negate regular block design. The goal is to @innovate, @adapt, and @overcome. Maps generally offer 1/3 extra space and food, at minimum, so everything can be achieved and not a single city will end up looking the same. @L@L
+        The ultimate housing block size for coverage by a single set of services that use the walkers to their full potential is 22x6 (24x8 counting roads). This is the optimal design without the risk of services breaking. @L@L 
+        If you wish, you can and often will be tasked with building unorthodox designs that adapt and tailor to the terrain by incorporating rocks or obstacles. Using forced walkers is no longer beneficial in Augustus since their costs and setup time far outweigh the benefits of this exploit. Now, with cart depots, logistics and distribution are much easier to manage in a controlled fashion. If you wish, play how you want but I do not endorse or advise the use of forced walkers. @L@L
+        Generally, there will be no need for @labor @sponging. Instead of building artificial services, you can always expand the trade industry to accommodate extra population, as long as you do not stray too far from the map objectives. @L@L
+        Overall, expect things to be harder but not brutally unfair. You have been granted the rank of @architect which you will keep for the rest of the campaign. Due to balance reasons, this rank will not get any higher in order for favor to remain a threat throughout the game. @L@L
+        Private funds up to 2000 denarii do carry over to the other missions. The base costs of each rank are scaled up by a factor of 10 which does not affect the favor gain from gifts. This is done for games in the colosseum to be viable even on a relatively low rank. Note that the new salary levels affect the cost of bribes, with a lavish gift needing a minimum of 2000dn. Take a good look a the map and don't take anything that you know from the original campaign for granted.@L@L
+
+        @H Credits @L
+        Scenarios featured in this campaign are made by @CommissarMarek and are based on the original campaign maps. Huge thanks to the wonderful Augustus dev team that made this all possible. Also credit and thanks to all testers and community members who participated in the creation process. For tutorials/tips and tricks, see CommissarMarek's channel on YouTube.@L@L@L@L  </text>
+        <media type="background_image" filename="augustus03.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Ostia1.mp3"/>
+		</message>
+	
+	<message uid="Drought">
+        <title>(!) King Requests Wheat (!) </title>
+        <subtitle>Drought in the Tiber Valley</subtitle>
+        <text>@G[c3 stills_43.png]@L
+        @H Message @L
+        Governor, crops have failed, and citizens of Rome are starving. I command that you stockpile 32 cartloads of @wheat in Ostia for immediate dispatch. This will bring some measure of relief to the city and avoid violent turmoil. @L
+		@L@L @G[decorative objetive .png] @H New objective @L
+		When you stockpile 32 cartloads of @wheat it will automatically be sent to Rome. This will grant you 15 @favor, 1500 @denarii, and Rome will start buying more wheat @quota per year. This is a one-time event and will not repeat. Until you fulfill this objective, you will lose 1 @favor every 2 months. @G[wheat_ware.png] @G[decorative objetive .png] @L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+    
+	<message uid="Drought avoided">
+        <title>(!) Starvation Avoided (!)</title>
+        <subtitle>King is Pleased</subtitle>
+        <text>@G[c3 stills_95.png]@L
+        @H Message @L
+        Governor, thanks to Ceres, farmers report that harvests should return to normal. I thank you for your prompt dispatch and inform you that Rome will buy any excess production from Ostia to prevent future incidents like this. @L
+		@L@L @H Reward @L Rome buys more wheat @quota per year, 1500 @denarii, and 15 @favor acquired. @G[Drought_avoided.png] @L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+    
+	<message uid="Croton">
+        <title>(!) Overseas Trade (!)</title>
+        <subtitle>Greek Colony of Croton Establishes Contact</subtitle>
+        <text>@G[c3 stills_122.png]@L
+		@H Message @L 
+		To the Roman governor of Ostia: I, Tyrant of Croton, in my great wisdom have decided that both of our peoples would benefit from mutual trade and exchange of goods. Our traders have been instructed to make necessary preparations and your ships will always be welcome in our harbors, assuming you pay us a trading permit fee of course. @L@L
+		@H New Trading Partner Unlocked @G[ruta_nueva.png] @L 
+		The city of @Croton, which can be found in southern Italy, offers trade relations and docks have been unlocked. @L@L
+		@H Historical Background @L
+		Before Rome's ascension as the sole power in Italy, the south was predominantly occupied by myriads of Greek city-states/colonies. Some of these would have been established as far back as the Bronze Age. Socrates described Greeks as "frogs around a pond", referring to their proliferation throughout the Mediterranean as well as the Black Sea. @L@L
+		One reason the Greeks were so expansionist was pragmatism. Instead of solving political strife with violence, it was common for the stronger of the two powers to fund an expedition to send the opposition into an exile of sorts. This way, violence was avoided, and the city-state gained a new colony. @L@L
+		Overtime these colonies would often break free from their overlords and develop a regional culture, often being ruled by a tyrant. @L@L
+		We might imagine a tyrant being a cruel dictator but to the Greeks and ancient peoples, tyrant was referring to "absolute ruler". In some cases, this did indeed result in brutal power politics but generally many tyrants ruled over their people prosperously and without excessive oppression; and some were very successful city-states. Association with political oppression comes from the modern understanding of the word. @L@L
+		</text>
+        <media type="sound" filename="fanfare_nu3.wav"/>
+        </message>
+    
+	<message uid="Schools and Entertainment">
+        <title>(!) Proper Roman Colony (!)</title>
+        <subtitle>Entertainment and Education</subtitle>
+        <text>@G[c3 stills_123.png]@L
+        @H Message @L
+        Governor, so far Ostia has been a @great @success under your guidance. I decree that educated citizens are to be sent from Rome to educate and entertain the people of Ostia and promote proper Roman culture. @L@L
+        Furthermore, you can now levy taxes from the local population to fund further expansion. Continue to excel at your duties and bring the citizens of Ostia a higher standard of living. @L@L@L
+		@H Reward @L 
+		Unlocked buildings: theater, amphitheater, actor colony, gladiator school, school, plaza, statues, and forum. @G[Schools_and_Entertainment.png] @L@L@L
+		To achieve victory, it's not necessary to evolve houses past @small @casa level, but if you wish, the Greek city of Croton can sell you pottery to facilitate small insula level which grants extra tax rate and higher prosperity rating. @L@L
+		@G[decorative objetive .png] @H New Objective @L
+		Achieve 1250 @population and have an active @theater and @school to reach a @prosperity level of 35. @G[Proper_Roman_Colony.png] @G[decorative objetive .png] @L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+    
+	<message uid="Victory">
+        <title>Colonia Ostia</title>
+        <subtitle>You are Victorious</subtitle>
+        <text>@G[c3 stills_127.png]@L
+        @H Assignment Completed @L
+        Governor, that was a remarkable performance! With Ostia supporting the Roman economy, there can be no doubt about the future success of Rome as a regional power. @L@L
+        However, your talents would be wasted governing such a rudimentary settlement - onwards to Brundisium! @L@L@L
+		</text>
+        <media type="video" filename="Victory_Senate.smk"/>
+        <media type="background_image" filename="augustus09.png"/>
+        <background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Ostia2.mp3"/>
+    </message>
+</messages>

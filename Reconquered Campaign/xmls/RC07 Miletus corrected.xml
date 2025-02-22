@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1">
+    <message uid="intro">
+        <title>Inclusion of Miletus</title>
+        <subtitle>Asia Minor Submits</subtitle>
+        <text>@G[c3 stills_44.png]@L 
+        @H Historical Background @L
+		Miletus was first settled by Minoan peoples from the island of Crete around 2000 BC, with evidence of even earlier settlements during the Neolithic period. Like most settlements of this era, it was destroyed several times but successively rebuilt, usually by a different group of peoples each time. After the Bronze Age, inhabitants of Miletus included Greeks, Achaemenid Persians, Macedonians, and Seleucids. @L@L
+		Miletus and other holdings in the Anatolian region have been awarded to the Roman Republic after its victory in the Third Punic War. This brought many new peoples and lands under Roman rule, and so the new Roman province of Asia Minor was created. @L@L
+		This area in Asia Minor was always contested, and Greeks and Persians fought for dominance often. In some places this also resulted in cultural acceptance and some Greeks even enjoyed the perks of living in the Persian Empire during the times of Alexander the Great. @L@L
+		In addition to many other sites, the legendary site of Troy is believed to be in Asia Minor. Archeologists have discovered remnants of a settlement from the period in present-day Hisarlik, Turkey. This settlement featured stone walls, ramps, and bastions. Much as other sites in the general area, it has been successively rebuilt and resettled after its destruction. @L@L 
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, the Republic has acquired a new province and there is dire need for competent administrators. Your task is to build Miletus into a sprawling metropolis, prospering from ready access to trade and plentiful fishing grounds. @L@L
+		There are, however, signs of trouble in Asia Minor. The nearby city of Pergamum was excluded from the treaty and is recruiting mercenaries to attack Roman assets in the area. Pergamum is expected to field archers and light infantry only in modest numbers, but even so, you cannot let your guard down. Miletus will need a defensive garrison force if it is to survive. @L
+		The economic situation after the Third Punic War is complicated; weapons are facing a decline in value, while common goods and luxuries are on the rise. Unfortunately, Miletus lacks the soil fertility to grow wheat, and arable land in general is not particularly abundant. The climate does, however, favor the cultivation of olives and vines. @L@L
+		If your city is to prosper, you will also need to be cautious about the local sources of fresh water. There is a threat of disease, and your settlement might suffer severe worker shortages unless you take proper precautions. @L@L
+		Additionally, the province is freshly incorporated and thus soldiers and educated workers from the rest of the Republic see assignment there as punishment. You will have to entice them to serve your city. @L@L
+		
+		@H Edicts @L
+		@Undesirable @Assignment - For each fort of soldiers (troop of 16), you will expend an additional 25 dn. per month in upkeep. Each library or academy in the city will cost 75 dn. per month in upkeep. @L@L
+		@Unpleasant @Climate - Miletus has issues with contamination in the water supply due to unfavorable environmental conditions. You should expect prevalent reports of sickness and build facilities to handle outbreaks.@L@L
+		
+		@H Additional Information @L
+		On this map, you will have to house patricians for the first time (assuming you haven't done so yet in the previous missions). Evaluate the land carefully to preserve a decent spot for a villa district. Note that in the desert climate, there is usually no access to local clay or sand, ironically. Fire risk also accumulates faster, and the range of fountains and reservoirs is reduced. @L@L
+        To prevent disease, the usual bathhouse, doctor, and barber may not be sufficient. You may need to consider providing food and evolving houses sooner than you normally would. The addition of a hospital in housing areas can be beneficial, and is encouraged. @L@L
+		There are 2 invasion points on the map. As always, look around for exposed edges (but never on entry and exit points directly).@L@L
+		As is customary, from a historical perspective you should start with a pre-built/ruined city, but few players would like that. It will be up to you to build everything from scratch. @L@L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed.
+		@L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus12.png"/>
+        <background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Miletus1.mp3"/>
+    </message>
+	
+    <message uid="Climate">
+        <title>(!) Spoilage (!)</title>
+        <subtitle>Perishable Goods</subtitle>
+        <text>@G[c3 stills_04.png]@L 
+        @H Message @L
+        The local climate does not favor the stockpiling of some goods, particularly our fish which is spoiling at a rapid rate!@L (Up to 8 units of fish rots away and is removed from storage every month.) @G[bad_fish.png]
+		@L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="subsidy">
+        <title>(!) Subsidy Expires (!)</title>
+        <subtitle>Workshops Unlocked</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+        @H Message @L
+        The colonial subsidy has expired, and Miletus no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L
+        @L@L@L
+        </text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="disease">
+        <title>(!) Plague (!)</title>
+        <subtitle>Unknown Disease Causes Mass Sickness</subtitle>
+        <text> @G[c3 stills_05.png]@L 
+        @H Message @L
+        Governor, disaster has struck, and many people are sick with an unknown disease. It appears to be spreading by water and is causing lethal symptoms. We must provide new facilities to handle the situation and be ready for the future. @L@L
+		In addition to contaminated water, every couple of years there will be an additional spike in health issues within the city. Provide extra healthcare such as hospital access or build mausolea to put the dead to rest safely away from the living. Mausolea give a small health benefit to the entire city when built, up to 10 small or 5 large mausolea or the combination of the two. The Grand Temple to Neptune also reduces the spread of disease by 50%.@L @G[Plague.png] @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+    <message uid="wine">
+        <title>(!) Aqua Vitae (!)</title>
+        <subtitle>Wine Consumption</subtitle>
+        <text>@G[c3 stills_122.png]@L  Governor, our advisors have come up with an unusual solution to the problem of hygiene and sickness. Since water is unsafe to drink, we could provide wine to at least partially prevent the spread of disease in the city.  @L@L
+        @H New Development @L
+        Every 3 months, 4 units of wine will be taken from warehouses if available which will raise the health rating of the city slightly. @G[Wine_Consumption.png] @L@L
+        @H Historical Background @L
+        Aqua vitae is an archaic name for distilled ethanol. Its usage was widespread during the Medieval Age but its origins date much earlier to Roman times. It was typically prepared by distilling wine which is commonly known today as "brandy".
+		@L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="plaza">
+        <title>(!) Plaza Unlocked (!)</title>
+        <subtitle>Tiles and Mosaics</subtitle>
+        <text> @G[c3 stills_04.png]@L
+        @H Message @L
+        As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+        @H Reward @L
+        Plaza unlocked. @G[plaza.png] @L@L
+        </text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="victory">
+		<title>Stable Miletus</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		Truly spectacular performance governor! Not only did you succeed in Miletus, but you have endured a crisis and managed the many difficulties perfectly. @L@L
+        In Mediolanum, you will test your mettle against our greatest foe: Hannibal Barca is at the gates! @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus11.png"/>
+        <background_music filename="WinAssignment.wav"/>
+		<media type="speech" filename="Miletus2.mp3"/>
+	</message>
+	
+</messages>

@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1">
+    <message uid="intro">
+        <title>City of Tarsus</title>
+        <subtitle>Capital of Roman Cilicia</subtitle>
+        <text>@G[c3 stills_129.png]@L 
+        @H Historical Background @L
+        Tarsus had been settled for over 6,000 years starting with the Hittites during the Bronze Age. The city played a key role as a trade hub for many of its former owners and was a point of contention during the times of Alexander and would continue to be a highly sought-after prize to control for many future cultures. @L@L
+        In the year 67 BC, Pompey Magnus defeated Cilician pirates and in one of his most brilliant strategic, military, and political moves annexed the whole region into the Roman Republic. For this he received a triumph and was celebrated for years to come even though, as previously mentioned, he still failed politically to have the claims recognized quickly. @L@L
+        There is no doubt that Pompey was a very competent strategic thinker. The Cilician pirates operated from small bases mostly on the Aegean and Dalmatian coasts and islands, as well as in Asia Minor. These pirates would prey upon Roman merchant ships and kidnap to extort rich Romans. During his young age, Caesar once found himself kidnapped by the pirates (since the story is widely known, I will refrain from going over it here). @L@L
+        Before Pompey was given the job to pacify the area, his predecessor, asked for years to achieve this task, was given a large naval force and immense amounts of money was spent. Unfortunately, this did not lead to any developments, as raiding a pirate base would see them flee to only establish themselves elsewhere. Large and cumbersome maneuvers were easily evaded by small groups of raiding ships. @L@L
+        Pompey took the task on and in mere weeks managed to achieve what others could not do in years, done all with smaller forces. Surprise was achieved by landing marines some distance away and attacking the pirates from land while blockading them from fleeing with ships at the same time was preferable. @L@L
+        Surrender was accepted and pirates granted mercy under condition that they would be resettled elsewhere. This broke down the piratical local cultural ties and safeguarded the Roman vital sea lanes for trade and transport. @L@L
+		
+		@G[c3 instructions icon.png]
+        @H Instructions @L
+        Governor, travel to Cilicia. Your new assignment is the Romanization of the city of Tarsus. It is to become a capital of the new province of Cilicia, and it will fall onto your shoulders to make it into a truly great city in the Roman east. On the details of the assignment, it might prove the most challenging thus far. @L@L
+        First, the good. The area around the city is rich in all manner of ores, metals, and precious stones. Extracting them might prove difficult but it will be the foundation of the economy in Tarsus. Unfortunately, Tarsus has no farmland to speak of or deposits of clay. Local trees are also not suitable for use as timber for most projects. This leaves the city in a precarious position. It will be vital to establish a wide-ranging trade network and manage the many imports and exports that pass through your city. @L@L 
+		If that was not enough, we are also still struggling to convince the Greeks that the Roman faith and pantheon are superior to their own. To demonstrate the superiority of Roman gods, your city will only be able to construct a few small shrines initially. Instead, as the city grows, construct immense monuments to the glory of Rome and her gods. @L@L
+		As for military matters, the Parthians are testing our defenses, and you can expect raids into our territory to be frequent. Fortunately for us, these barbarians know nothing about proper warfare and as long as you keep at least several garrisoned legions, you should not need to worry too much about their activities. @L@L@L
+		
+        @H Edicts @L
+        @Cultural @Tensions - Your city is only allowed to build 10 small temples of any kind. After they have been built, they get disabled and if you exceed this limit by using exploits, you will lose favor and denarii rapidly. @L@L
+        @Mining @Magnate - The map has all mining resources available. The first mine of each kind will generate +1 resources every 2 months directly into stockpiles. @L@L
+        
+		@H Additional Information @L
+		There are 2 invasion points on the map, and it has some military activity. Mining spots are marked with circular road patterns on the map - look for mining spots in the mountains. This map has been changed more than some of the others, since in the base game it's so flat and boring that it was not worth keeping most of its "features." @L@L
+        This map will try to teach you that you do not have to go for all grand insula housing for plebs. When a second food type is rare, it's acceptable to keep them lower and compensate by using more or higher evolved patrician housing instead. With a full highway, caravanserai, and/or Grand Temple to Mercury bonuses, you can still manage to have all plebian housing evolved up to grand insula. @L@L
+        @H Persistent Events @L
+        Grand Temple to Mercury unlocks plaza. Subsidy lasts until 10 prosperity is achieved and gives 100 dn. monthly until it expires. Workshops only unlock after the subsidy expires. @L@L
+        Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L@L</text>
+        <media type="background_image" filename="augustus25.png"/>
+        <background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Tarsus1.mp3"/>
+    </message>
+	
+    <message uid="caravenserai">
+        <title>(!) Crassus (!)</title>
+        <subtitle>Trade Emporium</subtitle>
+        <text>@G[c3 stills_36.png]@L 
+        @H Message @L
+        Governor, the Republic is prospering yet your city, blessed with deposits of gold and other metals, is still a backwater not able to even process its own goods. @L@L
+		Let me introduce myself, my name is Marcus Licinius Crassus. Patricians in the Senate call me the wealthiest man in Rome, but I would say it is not my chief quality as fortunes do not build themselves: I look at the burned out insulae and see potential. @L@L
+        I look at Tarsus and see all that it could become. Let me sponsor your endeavor. @L@L
+        I will acquire construction materials and see them transported to your warehouses, while you in turn build a caravanserai to accommodate traders. Exports of local metals will help my other industrial assets greatly. @L@L
+        Any materials left over from the construction are of course yours to use as you please. The only thing I ask in return is that, when the time comes, you will reciprocate and assist me in one of my endeavors. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L 
+		Option 1 - Place a caravanserai foundation to accept the deal. If you do so, you will receive the promised materials: prepare storage space for 32 timber, stone, and bricks. Once accepted, you must finish the construction within 3 years or face the wrath of Crassus.  @L@L
+        Option 2 - Do not place a caravanserai foundation within a year to ignore the deal. This will upset Crassus moderately. @L@L
+        Option 3 - Accept the deal by building a caravanserai, take the materials, but do not build the monument, effectively backstabbing Crassus. This will cause a single attack from Roman forces.  @G[caravanserai.png] @G[decorative objetive .png] @L@L
+        @H Historical Background @L
+        Crassus was known as the richest man in Rome at this time of his life. He was heavily involved with land ownership, renting, and tax collection. Famously, he funded his own fire watch who would only help fight fires if the person sold the rights to Crassus. @L@L
+        Roman tax collection was not as centralized as we might think as governors would often collect tariffs and tax, and corruption and embezzlement were rampant and even expected. @L@L
+        Politicians mostly wanted either profitable eastern assignments to harvest trade tariffs, or provinces that had the potential of conquests, as war could be extremely profitable due to enslaving prisoners of war. @L@L
+        On the topic of tax collection, it was contracted out to private companies who would try to estimate how much tax they would be able to collect from an area of the Republic. This led to companies purposely overestimating to get the contract, which ended up with massive debts. Crassus as well as other influential Romans were heavily involved with these companies. @L@L
+        Rome was not exclusive in this however, as many if not all ancient societies had poor understanding of economics as we know them today. A solution to accumulated debts was to abolish all debt after a time to clean the books and reset the economy. This was unpopular with landowners but often a necessary mechanism; you can think of it as an amnesty of indebted people. @L@L
+        Citizens could even become enslaved if they had too much debt. Slaves would be considered the property of their master, without any repercussions for harming or exploiting them. This topic is highly unpleasant for us to think about today, but it deserves a mention as it was a vital part of Roman society and in fact most ancient civilizations had similar systems. @L@L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="favor event start">
+        <title>(!) Hard Bargain (!)</title>
+        <subtitle>Returning the Favor</subtitle>
+        <text> @G[c3 stills_123.png]@L 
+        @H Message @L
+        Governor, I hope things are going well for you and your city is turning a healthy profit from the new caravanserai. @L@L 
+		The time has come for you to keep your end of our bargain. I seek concessions from some within the Senate as my own tax collectors are being pushed into debt due to the ever-growing demands for additional gifts. Having a friend to support my agenda will help immensely. I am sure you would be happy to speak to those within the Senate of the excellent support you have received from my agents. @L@L
+        My conservative enemies will undoubtedly resent your open support, but it is necessary to secure greater concessions from more moderate parties. @L@L
+		@H New Development @L
+		For the next 5 years you will lose an additional 2 favor per year (building and staffing a city mint would give extra salary on this mission that can be used for gifts). @G[favor_menos.png]
+		@L@L@L
+		</text> 
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="subsidy">
+        <title>(!) Subsidy Expires (!)</title>
+        <subtitle>Workshops Unlocked</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+        @H Message @L
+        The colonial subsidy has expired, and Tarsus no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L@L
+        </text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="favor repayed">
+        <title>(!) Favor Repaid (!)</title>
+        <subtitle>Political Kickbacks</subtitle>
+        <text>@G[c3 stills_125.png]@L 
+        @H Message @L
+        It's been a pleasure working with you Governor. I have solidified my position within the Senate, so you may consider your personal debt repaid. I'm looking for a governor's assignment in the East myself; Parthia seems ripe for the picking and my name is lacking in conquerors laurels for yet more political clout. We might see each other again. @L@L
+		
+	    @H New Development @L
+        Favor reduction event ends. @G[favor.png] @L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="alexandria">
+        <title>(!) Traders (!)</title>
+        <subtitle>Breadbasket of the Republic</subtitle>
+        <text>@G[c3 stills_74.png]@L 
+        @H Message @L 
+        Governor, Alexandria, the capital city of the Egyptian Kingdom, seeks trade with us. They have much to offer us, especially their wheat surpluses which could prove decisive in feeding our populace. @G[ruta_nueva.png] @L@L
+		
+		@H Historical Background @L
+        At this time, Egypt has been indebted to the Roman Republic and effectively turned into a client state. This did not mean direct Roman control however; Egypt would still be ruled directly by the Ptolemaic dynasty, named after Ptolemy, who was one of Alexander the Great's commanders and founder of the dynasty. @L@L
+        Egypt, after Alexander's conquest, was a hybrid society of natives and Greek and Macedonian immigrants, where the pharaoh would be merged with kingly titles, and armies and society reflected the new rulers by embracing new traditions, organization and economics. During this time, Egypt was again in heavy decline, however, and was completely annexed at the end of the final civil war. @L@L
+        Even though it was in decline, Egypt would continue to produce much of the wheat that was used to fill up Roman granaries and supplement the grain dole for the urban poor. @L@L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="plaza">
+        <title>(!) Plaza Unlocked (!)</title>
+        <subtitle>Tiles and Mosaics</subtitle>
+        <text> @G[c3 stills_04.png]@L
+        @H Message @L
+        As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+        @H Reward @L
+        Plaza unlocked. @G[plaza.png] @L@L
+        </text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+    
+	<message uid="temples">
+        <title>(!) Cultural Tensions (!)</title>
+        <subtitle>Situation Worsens</subtitle>
+        <text>@G[c3 stills_126.png]@L
+        @H Message @L
+        Governor, we as Romans are laughed at due to our city still relying upon small shrines to honor our gods. We cannot let this stand, and your decision has affected the stability of the whole republic. @L@L
+        @H New Development @L
+        Lost 1000 dn. and 20 favor due to having more than the 10 small temples allowed. This can occur again if not resolved within a year. @G[menos_favor_money.png] @L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+    
+	<message uid="scam">
+        <title>(!) Powerful Enemy (!)</title>
+        <subtitle>Crassus Sends an Expedition</subtitle>
+        <text> @G[c3 stills_98.png]@L
+        @H Message @L
+        You insist on breaking the terms of our agreement! Do you take me for a fool Governor? Well, while you wasted the provided materials, I sought a more direct solution to my need for funds. The Senate has empowered me to bring you to Rome to be judged for your blatant mismanagement. You have few friends left in the Senate and can now consider me your personal enemy. @L@L
+        @H New Development @L
+        Crassus has sent a small force to invade the city, they will arrive within a year. If the city survives, there will be no further ramifications. @G[civil_war_caesar_attack.png] @L@L
+		</text>
+        <media type="sound" filename="fanfare_nu2.wav"/>
+    </message>
+	
+    <message uid="ignored">
+        <title>(!) Offer Refused (!)</title>
+        <subtitle>Face Crassus</subtitle>
+        <text>@G[c3 stills_04.png]@L
+        @H Message @L
+        Governor, I came to you seeking friendship. You have spurned me. Sometimes, I see a burned out insulae... and know its greatest potential is to be carted away as the refuse it is. You have gained an enemy within the Senate this day. @L@L
+		@H New Development @L
+        You have lost 15 favor. @G[favor_menos.png] @L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="victory">
+        <title>Roman Tarsus</title>
+        <subtitle>You are Victorious</subtitle>
+        <text> @G[c3 stills_127.png]@L
+        @H Assignment Completed @L
+        I hope you enjoyed your time in the east Governor. Your work here is done as I have a greater need for your talent elsewhere. @L@L
+        Tingis needs a competent hand to guide it to greatness! @L@L
+        </text>
+        <media type="video" filename="Victory_Senate.smk"/>
+        <media type="background_image" filename="augustus25.png"/>
+        <background_music filename="WinAssignment.wav"/>
+		<media type="speech" filename="Tarsus2.mp3"/>
+    </message>
+	
+</messages>

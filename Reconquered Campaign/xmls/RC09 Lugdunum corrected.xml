@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>City of Lugdunum</title>
+		<subtitle>Biggest City in Roman Gaul</subtitle>
+        <text> @G[c3 stills_116.png]@L 
+		@H Historical Background @L
+		Lugdunum, modern day Lyon, was founded in 43 BC by the Romans and was initially named Colonia Copia Felix Munatia. Only much later around first century AD is there mention of people calling it Lugdunum. @L@L
+		Roman Gaul was established as a province after the conclusion of its subjugation by Gaius Julius Caesar in his campaigns known as the Gallic Wars in the year 50 BC. Until that point, any conquered territory legally went into the province of Transalpine Gaul or Cisalpine Gaul. @L@L
+		Gaul was not a unified nation but rather a collection of tribes that shared common culture and were of Celtic ethnicity. While the Gaulic civilization was certainly less advanced than the Roman one, Gauls still had their own niche advancements. It is said that Romans learned the art of making chainmail, or lorica hamata, from the Celts in northern Italy for example. @L@L
+		Gaulic armies would be comprised of mounted or foot troops consisting of armored nobility along with their retainers. The bulk of the forces would be a massed levy of spearmen with shields and skirmishers. There is some evidence that unlike Romans, the Gauls favored using the bow and arrow more than the sling. @L@L 
+		Gauls were also fond of using light cavalry for raiding, as scouts, and to disrupt enemy supply lines. Caesar himself bested many armies by using superior discipline and tactics. Other times he would construct fortifications before the main clash occurred, using ditches, spikes and spike traps, as well as palisade walls and towers with scorpion light artillery. @L@L 
+		Famously this would be brought to an extreme during siege of Alesia, when Caesar's army constructed two sets of walls to enclose the fort and defend against relief forces from the outside. When Alesia was besieged, the Gaulic civilians were driven into the no-mans-land between the walls where they suffered a horrific death from hunger and exposure. Since Vercingetorix's forces refused to let them back into the fort to preserve supplies and the Romans did not want the civilians to inform other enemies of the siege, they were trapped. @L@L
+		We may see these occurrences as simply numbers, in this case several hundred met their fate in this manner, but history without context is doing it an injustice. People such as this had their own lives, worries, and motivations. Looking at the tragedy through empathy will allow us to better understand these events in detail. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Welcome to Gaul governor. The weather here is too cold for vines or olives, the natives are stuck in their old ways, and the economy is stagnating. Your task will be to fix most of these issues, except for the weather of course. Most cities in the area offer their excess raw goods for export; using this we can turn Lugdunum into a manufacturing center. @L@L
+		Some cities might still want to trade for Lugdunum's excellent iron, clay, or sand. There are even rumors of gold veins in the rocky areas around the future city. In order to somewhat supplement the lackluster economy, you are to set up a city mint to manufacture the city's own coinage. As a governor, feel free to take parts of it to be able to fund some local ludi, the plebs are surely to be rowdy with this bleak landscape. @L@L
+		One last note is about the locals. They have thus far avoided Romanization efforts. This must not be allowed to continue as this is undermining our potential city planning. Make sure to teach them some Latin and offer goods to trade to show them the benefits of Roman rule. @L@L@L
+		
+		@H Edicts @L
+		@Barbaric@ Province - Wages will rise to substantial levels, the landscape is rugged, and natives or wolves occupy vital space for expansion.@L@L Vines and wine are unavailable until your city reaches 5000 population. @L@L
+		@Civil @Wars - Requests for weapons, gold, money, and wheat are common. At this time Rome is still embroiled in civil war between Marcus Anthonius and Gaius Octavius, later known as first citizen Augustus. @L@L
+		@H Additional Information @L
+		There is no military activity on Lugdunum, unless you cause Roman Legions to collect debts. The map is usually hard enough as it for a lot of players, so events are going to be quite lenient overall. @L@L
+		At the time of the mission Rome is still (but not for much longer) in its republic stage and so treat requests from "Caesar" as if they were from the Roman Senate instead. @L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidy lasts until 10 prosperity is achieved and gives 100 dn. monthly until it expires. Workshops only unlock after subsidy expires. Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L
+		As is customary, even though from a historical perspective you should start with a pre-built city on this map, few players would like that, so it will be up to you to build everything from scratch.@L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus21.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Lugdunum1.mp3"/>
+	</message>
+	
+	<message uid="mint">
+		<title>(!) Coinage (!)</title>
+		<subtitle>City Mint</subtitle>
+		<text> @G[c3 stills_123.png]@L 
+		@H Message @L
+		Governor, the local gold is presenting us with a unique opportunity. If we establish a city mint, the gold can be used to bolster the economy of our city. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build and staff a city mint for a reward. If the mint is active and you have gold in the city warehouses you will gain an additional 100 dn. per month on top of its usual function. @G[city_mint_full.png] @G[decorative objetive .png] @L@L Having a governor's residence and an operating mint will also grant a small amount of extra personal funds. @G[gob_house.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="mint done">
+		<title>(!) Mint Completed (!)</title>
+		<subtitle>Additional Income</subtitle>
+		<text> @G[c3 stills_04.png]@L 
+		@H Message @L
+		Good work governor, the city mint is operational, and we will soon see the benefits. @L@L
+		@H Reward @L
+		From now on you gain 100 dn. extra per month as long as there is gold in warehouses and the mint is active. @G[more_funds.png] @L@L@L 
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Lugdunum no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="civil war">
+		<title>(!) Civil War (!)</title>
+		<subtitle>Struggle for Dominance</subtitle>
+		<text> @G[c3 stills_109.png]@L 
+		@H Message @L
+		Governor, the civil war has resumed. We are not in a position to pick sides, but we will provide the Senate all that is asked of us. Let us hope that the crisis is soon over. @L@L
+		@G[decorative objetive .png] @H New Development @L
+		Requests for weapons, gold, and wheat will start to occur more frequently. @G[Struggle_for_Dominance.png] @G[decorative objetive .png] @L
+		
+		@H Historical Background @L
+		In order to explain the civil wars, it's best that we start with the Roman military systems. Last time, we talked about the maniple system, where soldiers would still be citizens funding their own equipment and their main loyalty would be to the city of Rome. After many Italic cities gained Roman citizenship, Roman identity would shift to becoming a cultural group or as we know it today, a nation. @L@L
+		Politicians in Rome would still frown upon anyone born outside the city as a foreigner but this shift, while necessary, caused a wider societal issue. In the year 107 BC reforms likely put into effect by Gaius Marius meant to standardize the Roman army and better equip its troops for the larger scale conflicts that Rome increasingly found itself in. @L@L
+		Universal adoption of the eagle standard was imposed and citizen cavalry and skirmishers/velites were abolished. No longer would there be hastati, principes, and triarii. Under the new system, the Roman state would fund and produce equipment for all troops and even the poorest citizens could become a legionary. For a service of at least 25 years, veterans would be given land to settle on and a one-time pension payment from the state. @L@L
+		This had the consequence of often tying the loyalty of the armies directly to the general, however, as it depended solely on him to push the Senate to give out good land in Italy and not in backwater provinces to his retired troops. Acknowledging conquests would also prove difficult for many successful governors, and they would see their achievements eroded away by inaction of the Senate. @L@L
+		In a way this directly led to many of the civil wars and increasing tensions in the Roman political system. Roman soldiers would also be issued standardized kit to build encampments on the march, sometimes achieved in a mere day. The Roman army had every soldier be a worker and an engineer. Building roads, bridges, and public projects during times of peace and becoming an unstoppable force that overcame any enemy it could find in the known world, the Roman war machine became an instrument of unparalleled conquest. 
+		@L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="natives">
+		<title>(!) Stubborn Locals (!)</title>
+		<subtitle>Local Barbarians Resist Roman Influence</subtitle>
+		<text> @G[c3 stills_76.png]@L 
+		@H Message @L
+		Governor, it seems that all our efforts thus far have been fruitless. The natives are proving most stubborn in their backwards ways, but a solution has come to mind. If we were to send them a gift of Roman goods, they might see the merit of opening trade relations. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Stockpile 16 oil and 16 furniture. These goods will be consumed to win over the locals and unlock the mission post. @L 
+		@G[Stubborn_Locals.png] @G[decorative objetive .png] @L@L@L
+		
+		@H Historical Background @L
+		Caesar's campaigns were at first centered around protecting Gaulic allies from the expansionist Germans from across the Rhine by going after rough tribes who migrated into allied territory, such as the Helvetii, and generally establishing a Roman presence in terms of mediating disputes and building garrison forts. @L@L
+		As the wars progressed, more tribes started to join a unified faction to oppose the Romans, eventually uniting under the tribal leader Vercingetorix. Caesar had been building up his forces and raising new legions at personal expense, employing the use of German auxiliary cavalry and securing Roman influence when the revolt broke out. @L@L
+		Caesar often dealt brutally with tribes that opposed the Romans and for even relatively minor diplomatic incidents would invade their territory and raze their villages to the ground. Enslaving the inhabitants was a common practice of war at the time. It is estimated that during the Gallic Wars, Caesar's forces razed 800 villages to the ground, killed one million Gauls and Germans, and enslaved another million. The numbers are hotly debated by historians and bibliographer D.P. Hennige claims that all contemporary sources are not credible. @L@L
+		While it is true that that ancient sources tend to inflate numbers of enemy soldiers in defeated armies or overall destruction, there is no dispute that the Gallic Wars severely reduced the population of ancient Gaul and untold number of people were killed, lost their homes, or were enslaved. @L@L
+		Many people argue that Caesar's actions during the Gallic Wars could be labeled as genocide. While it is correct that Caesar specifically targeted certain tribes in order to make them cease to exist, we must remember that the contemporary practice of waging war accepted such behavior and given the chance, the Gauls would likely behave the same way towards the Romans. @L@L
+		As a counterargument, there is also the fact that Romanized Gauls and allies were left alone and some nobles were even given a seat in the Roman Senate, so ethnicity was not a chief cause for eradication. At most, the cultural destruction of whole groups of peoples could be argued for. As previously mentioned, though, our customs and values today are entirely different from ancient people and such actions were certainly not exclusive to the Romans at the time. @L@L
+		The intention here is not to brand Caesar with modern concepts but also not act as an apologist. I only present the information and let you be the judge. @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="natives done">
+		<title>(!) Mission Posts (!)</title>
+		<subtitle>Locals Admire Roman Craftsmanship</subtitle>
+		<text> @G[c3 stills_70.png]@L
+		@H Message @L
+		The local barbarians have come to us seeking more goods. We can use this opportunity to send envoys and translators in an effort to Romanize them. @L
+		@H Reward @L
+		Mission posts unlocked. @G[missionary_post.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="vines">
+		<title>(!) Ceres Worship (!)</title>
+		<subtitle>Goddess of Fertility</subtitle>
+		<text> @G56 
+		@H Message @L
+		Unfortunately, there seems to be no way to attain vines for our city. This will complicate attracting patricians, which is a vital step in our development. If we were to build a grand temple to Ceres, the goddess of fertility, perhaps we might hope that vines could grow locally with her blessing. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Building the Grand Temple to Ceres will unlock local cultivation of vines. @G[gt_ceres_med.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="temple_love.wav"/>
+		</message>
+		
+	<message uid="vines done">
+		<title>(!) Vines and Wine (!)</title>
+		<subtitle>Ceres is Pleased by our Dedication</subtitle>
+		<text> @G56
+		@H Message @L
+		Ceres has given us her blessing; grape plants seem to be sprouting and ready for cultivation. 
+		@H Reward @L
+		Unlocked vines and wine. @G[obj_wine.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="victory">
+		<title>Profitable Lugdunum</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L
+		@H Assignment Completed @L
+		Task very well performed governor. Lugdunum is a prosperous and educated colony, an example to all cities in Roman Gaul. @L@L
+		Be ready for Carthago to test your management skills next. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus16.png"/>
+		<background_music filename="WinAssignment.wav"/>
+		<media type="speech" filename="Lugdunum2.mp3"/>
+	</message>
+	
+</messages>

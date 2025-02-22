@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>City State of Massilia</title>
+		<subtitle>Together Against Carthago</subtitle>
+        <text>  @G[c3 stills_84.png]@L 
+		@H Historical Background @L
+		Massilia, modern day Marseille, was founded around the year 600 BC by Ionian Greek settlers as a colony which later became a self-governing city state that benefited from its prime location for trade. The local Greeks also coexisted with the local Celts relatively peacefully and some of the locals eventually embraced Greek culture. @L@L
+		Later, during the Second Punic War, Massilia joined forces with Rome against Carthage in an official alliance. This had eventually resulted in Massilia becoming a true Roman city that abandoned its old Greek cultural roots. The exact date for this is not known but the status of civitas was granted to Massilia at the latest by 300 AD. For gameplay reasons this assignment will, however, be set during the Second Punic War. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, an important assignment has been granted to your family. Your ancestors of noble lineage have overseen construction of countless colonies and ruled with competence, dignity and military prowess fit for true Romans, in accordance with our traditions and ethos. Do not fail the Senate in this final and monumental assignment. @L@L
+		Embark on a journey to Massilia, which is a city state ruled by Greeks that lies on the coast of the Mediterranean Sea. The local tyrants have recently accepted an official alliance with our great Republic in our joint struggle to contain and overcome the Carthaginian menace. @L@L
+		You are to assume a position of a governor and to potentially transition Massilia to become a Roman colony. @L@L
+		The Greeks in Magna Graecia have adjusted well to becoming Roman citizens and our hope is that the Massilian people can peacefully do the same. @L@L
+		You will need to observe the local customs and only try to propose Romanization when and where it makes sense and does not offend the locals. The Greeks find our ludi, games with animals and gladiators, repugnant. This is a custom that will be the hardest to impose on the locals, but if you succeed, it will surely mark a milestone which will signify the Massilians are ready to be granted Roman citizenship. @L@L
+		As for the challenges ahead, Massilia has no access to mineral ores or usable stone. It does however possess a rich fertile land that allows for the cultivation of vines and olives; this farmland can be found on the many islands near the Massilian coast. Otherwise, the economy will rely on the production of bricks and pottery to export to other cities in the Republic. @L@L
+		A resourceful governor would also establish the processing of imported goods such as iron and timber into exportable finished products. This will prove necessary as Massilia is a Roman ally and we cannot levy any tax on its citizens unless they embrace their new identity. @L@L
+		If such matters were not enough, Massilia has few water sources suitable for consumption. Look for springs to draw water from on cliffsides or build the city up near the coast for ready access to water. Otherwise, you will find yourself pleading to Neptune to satiate your thirsty city. @L@L
+		Matters of military nature are also of a concern, as the Second Punic War has Massilia enter on the side of Rome so expect Carthaginian raids and attacks to test your city's defenses. Establish sufficient garrison forces to repel such attacks. @L@L
+		Good luck governor. May the gods watch over your steady hand as you guide Massilia to greatness. @L@L
+		
+		@H Edicts @L@
+		Greek @City @State - Lion pits, gladiator schools, arenas, the colosseum, forums, and statues are unavailable. If your city reaches 1000 patrician residents, Massilia will lose its autonomy, granting you access to some of the restricted buildings. @L@L
+		@Final @Assignment - Restrictions of all kinds are to be expected along with ramping military activity. As this is the final assignment, Grand Temple to Mars and full 10 forts along with heavy defenses are recommended. @L@L
+		
+		
+		@H Additional Information @L 
+		Road tiles at the coast mark possible bridge locations. @L@L
+		Plan your expansion carefully. Some areas will require "water" from the Grand Temple to Neptune in order to be suitable for housing. @L@L
+		At the time of the mission, Rome was a republic so treat requests from "Caesar" as if they were from the Roman Senate instead. @L@L
+		@H Persistent events @L 
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. perx month. Workshops only unlock after the subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus30.png"/>
+		<media type="speech" filename="Massilia1.mp3"/>
+		<background_music filename="ROME2.wav"/>
+	</message>
+	
+	<message uid="large temples">
+		<title>(!) Cultural Ties (!)</title>
+		<subtitle>Increase in Trade</subtitle>
+		<text>  @G[c3 stills_141.png]@L 
+		@H Message @L
+		Governor, the other cities in the Republic have some reservations about supporting a Greek city with their full trade potential. If we were to erect temples to Roman gods, we would be better able to convince our trade partners that Massilia is on its way to integrate within the Republic. @L@L
+		@G[decorative objetive .png] @H New Objective @L
+		Build and staff 15 large temples in the city to increase several trade quotas. @G[large_temples.png] @G[decorative objetive .png] @L@L@L@L
+		</text>
+		<media type="sound" filename="temple_love.wav"/>
+	</message>
+	
+	<message uid="large temples done">
+		<title>(!) Temples (!)</title>
+		<subtitle>Temples to Roman Gods</subtitle>
+		<text> @G[c3 stills_123.png]@L 
+		@H Message @L
+		Governor, we are pleased to inform you that our trading partners within the Republic have recognized our dedication to Romanize the locals.
+		@H Reward @L
+		Quota for several goods has increased. @G[temples_done.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="garum">
+		<title>(!) Garum Production (!)</title>
+		<subtitle>Culinary Miracle</subtitle>
+		<text> @G[c3 stills_138.png]@L 
+		@H Message @L
+		Governor, it has come to our attention that we could utilize local access to plentiful fish to our favor. Other cities in the Republic have a big appetite for garum (a fermented fish sauce), but currently, the supply for it is limited. If we set up local production, we could exploit this gap in the market. @L@L
+		@G[decorative objetive .png] @H New Development @L
+		Stockpile fish in your warehouses and 64 units will be converted into 700 denarii once every 6 months. This event can repeat. @G[fish_ware.png] @G[decorative objetive .png] @L@L
+		@H Historical Background @L
+		Garum was a real Roman condiment, as the following description from a 10th century AD Byzantine source describes it: @L@L
+		What is called liquamen is thus made: the intestines of fish are thrown into a vessel, and are salted; and small fish, especially atherinae, or small mullets, or maenae, or lycostomi, or any small fish, are all salted in the same manner; and they are seasoned in the sun, and frequently turned; and when they have been seasoned in the heat, the garum is thus taken from them. A small basket of close texture is laid in the vessel filled with the small fish already mentioned, and the garum will flow into the basket; and they take up what has been percolated through the basket, which is called liquamen; and the remainder of the feculence is made into allec. @L@L
+		There is some evidence that Greeks might have invented and used garum even before the Romans. Additionally, other cultures developed similar condiments even as far as the Far East. @L@L
+		Today, you will mostly find similar sauces referred to as "fish sauce" in Asia. @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="patrician objective done">
+		<title>(!) Colonia Massilia (!)</title>
+		<subtitle>Romanization Completed</subtitle>
+		<text> @G[c3 stills_84.png]@L 
+		@H Message @L
+		Governor, our long efforts have come to fruition. The locals have sufficiently embraced Roman culture to now be able to enjoy ludi and be taxed as Roman citizens. @L
+		@H Reward @L
+		Forum and gladiator school unlocked. @G[patrician_objective_done.png] @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="second wine">
+		<title>(!) Dubious Bargain (!)</title>
+		<subtitle>Variety of Wine</subtitle>
+		<text> @G[c3 stills_15.png]@L 
+		@H Message @L
+		There is a choice to be made governor. We have plentiful access to our own wine production, but if we are to support the expensive tastes of future patricians within our city, we need additional types of imported wine. A trade route to Brundisium could be opened which would allow us access to more types of wine, but with the tradeoff of having to bribe their officials. @L@L
+		@G[decorative objetive .png] @H New Development @L
+		Option 1 - If you build an academy within a year, you will unlock this new trade route but it will permanently add a monthly expense of 150 denarii (this event decision is early on purpose, making you opt to slow your economy for long term benefit).@L@L
+		Option 2 - If you do not build an academy within a year, nothing happens. You can still build them later without triggering this event. @G[second_wine.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Massilia no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+		</message>
+	
+	<message uid="poem">
+		<title>(!) Poem of the Sea (!)</title>
+		<subtitle>Easter Egg Discovered</subtitle>
+		<text>
+		@H Get a Life
+		@H Brick by brick structure tall, was desired by the call.@L
+		@H Call of mind that is hell bent, places buildings with intent.@L
+		@H Intent whisper, stone by stone. You could perhaps leave your home.@L
+		@H In the water cod and bass, you my friend, should touch more grass.@L
+		@G[decorative objetive .png]
+		@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+
+	<message uid="victory">
+		<title>Roma Victrix</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_129.png]@L @L 
+		@H Congratulations on Completing the Reconquered Campaign. @L
+		You have succeded once again, from the sun kissed shores of Africa to the wildest regions of Gaul, your skill and determination has seen many splendid cities established and the known world now lies at your feet. Hail Caesar, Victor Imperator! @L@L
+		If you enjoyed the campaign, post a comment and leave a review on Caesar 3 Heaven. The campaign is not made to be extremely challenging but in comparison to the original, it should have prepared you for very hard custom maps that can be found on Caesar 3 Heaven. @L@L
+		</text>
+		<media type="background_image" filename="augustus08.png"/>
+		<media type="video" filename="RCCredits.mpeg"/>
+		<media type="speech" filename="Victory1.mp3"/>
+		<background_music filename="WinAssignment.wav"/>
+	</message>
+
+</messages>

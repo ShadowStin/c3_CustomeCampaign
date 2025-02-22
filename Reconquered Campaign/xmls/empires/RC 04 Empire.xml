@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE empire>
+<empire version="1" show_ireland="true">
+   <ornament type="all" />
+   <border density="28">
+      <edge x="873" y="614" />
+      <edge x="859" y="606" />
+      <edge x="850" y="580" />
+      <edge x="819" y="569" />
+      <edge x="799" y="544" />
+      <edge x="776" y="550" />
+      <edge x="680" y="455" />
+      <edge x="666" y="404" />
+      <edge x="702" y="385" />
+      <edge x="700" y="385" />
+      <edge x="723" y="400" />
+      <edge x="725" y="383" />
+      <edge x="745" y="370" />
+      <edge x="757" y="400" />
+      <edge x="795" y="430" />
+      <edge x="815" y="480" />
+      <edge x="833" y="497" />
+      <edge x="820" y="525" />
+      <edge x="888" y="555" />
+      <edge x="895" y="540" />
+      <edge x="997" y="605" />
+      <edge x="989" y="625" />
+      <edge x="973" y="603" />
+      <edge x="935" y="592" />
+      <edge x="924" y="612" />
+      <edge x="880" y="600" />
+   </border>
+   <cities>
+      <city name="Tarentum" x="947" y="575" type="ours">
+         <sells>
+            <resource type="meat" />
+            <resource type="vines" />
+            <resource type="vegetables" />
+            <resource type="iron" />
+            <resource type="clay" />
+            <resource type="sand" />
+            <resource type="stone" />
+            <resource type="timber" />
+
+         </sells>
+      </city>
+
+      <city name="Asculum" x="893" y="557" trade_route_cost="150" trade_route_type="land">
+         <buys>
+            <resource type="iron" amount="60" />
+            <resource type="stone" amount="10" />
+            <resource type="weapons" amount="10" />
+         </buys>
+         <sells>
+            <resource type="marble" amount="40" />
+            <resource type="gold" amount="16" />
+         </sells>
+      </city>
+      <city name="Beneventum" x="850" y="564" type="future_trade" trade_route_cost="1500"
+         trade_route_type="land">
+         <buys>
+            <resource type="weapons" amount="30" />
+            <resource type="iron" amount="90" />
+         </buys>
+         <sells>
+            <resource type="fruit" amount="2800" />
+         </sells>
+         <trade_points>
+            <point x="892" y="598" />
+         </trade_points>
+      </city>
+
+      <city name="Sipontum" x="862" y="518" trade_route_cost="900" trade_route_type="sea">
+         <buys>
+            <resource type="wine" amount="16" />
+            <resource type="timber" amount="50" />
+            <resource type="stone" amount="50" />
+         </buys>
+         <sells>
+            <resource type="oil" amount="110" />
+         </sells>
+         <trade_points>
+            <point x="970" y="623" />
+            <point x="985" y="635" />
+            <point x="1005" y="630" />
+            <point x="1010" y="613" />
+            <point x="1005" y="586" />
+            <point x="924" y="530" />
+            <point x="915" y="507" />
+            <point x="880" y="500" />
+         </trade_points>
+
+      </city>
+      <city name="Ariminium" x="771" y="420" type="future_trade" trade_route_cost="3500"
+         trade_route_type="land">
+         <buys>
+            <resource type="weapons" amount="30" />
+            <resource type="bricks" amount="30" />
+            <resource type="furniture" amount="30" />
+         </buys>
+         <sells>
+            <resource type="fish" amount="3200" />
+         </sells>
+         <trade_points>
+            <point x="897" y="564" />
+            <point x="861" y="530" />
+            <point x="813" y="478" />
+            <point x="792" y="432" />
+         </trade_points>
+      </city>
+      <city name="Rome" x="787" y="526" trade_route_cost="2000" trade_route_type="sea">
+         <buys>
+            <resource type="iron" amount="80" />
+            <resource type="wine" amount="30" />
+            <resource type="timber" amount="40" />
+         </buys>
+         <sells>
+            <resource type="fruit" amount="3200" />
+         </sells>
+         <trade_points>
+            <point x="950" y="630" />
+            <point x="950" y="670" />
+            <point x="936" y="696" />
+            <point x="905" y="730" />
+            <point x="892" y="735" />
+            <point x="880" y="730" />
+            <point x="880" y="725" />
+            <point x="888" y="673" />
+            <point x="873" y="632" />
+            <point x="826" y="600" />
+            <point x="800" y="580" />
+            <point x="777" y="557" />
+         </trade_points>
+      </city>
+      <city name="Syacusae" x="860" y="762" type="distant" />
+      <city name="Croton" x="932" y="659" type="distant" />
+      <city name="Carthago" x="662" y="775" type="distant" />
+      <city name="Alalia" x="624" y="527" type="vulnerable" />
+      <city name="Athenae" x="1211" y="717" type="distant" />
+      <city name="Apollonia" x="1067" y="619" type="distant" />
+
+
+   </cities>
+   <invasion_paths>
+      <path>
+         <battle x="903" y="640" />
+         <battle x="897" y="609" />
+         <battle x="912" y="592" />
+      </path>
+      <path>
+         <battle x="1050" y="627" />
+         <battle x="1014" y="607" />
+         <battle x="980" y="601" />
+      </path>
+   </invasion_paths>
+   <distant_battle_paths>
+      <path type="roman" start_x="1140" start_y="385">
+         <waypoint num_months="2" x="1080" y="340" />
+         <waypoint num_months="3" x="1145" y="290" />
+      </path>
+      <path type="enemy" start_x="1256" start_y="280">
+         <waypoint num_months="6" x="1145" y="290" />
+      </path>
+   </distant_battle_paths>
+
+</empire>

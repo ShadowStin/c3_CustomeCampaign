@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>Subjugation of Syracusae</title>
+		<subtitle>The Second Punic War</subtitle>
+        <text> @G[c3 stills_61.png]@L 
+		@H Historical Background @L
+		Syracusae has been inhabited by Greeks and ruled by their tyrants since its establishment as a Greek colony in 734 BC. The locals kept their Hellenic cultural ties, and the city-state was mostly prosperous in the centuries prior to rise of Rome and Carthage, becoming the most powerful Doric Greek settlement in Magna Graecia. @L@L
+		This prosperity came to an end when these two ancient superpowers struggled for control of the island of Sicily and its largest city. The siege of Syracusae proved grueling for the Romans, but gave them valuable insights into siege warfare, given the massive Syracusan fortifications and war machines, some of them designed by the famed Archimedes. @L@L
+		As with many other things, Romans learned the art of siege craft and use of war machines from the Greeks. Greeks were very fond of using scorpions, a precursor to the medieval ballista, which use a torsion engine. Power was accumulated by ropes and animal sinew in its mechanism, like a medieval crossbow, and could launch large spear projectiles. @L@L
+		Other torsion engines such as catapults would also be popular, even Alexander the Great used a lot of these contraptions during his conquests. Due to the nature of these machines, they were expensive to make and maintain and were slow to transport. Even so, Roman armies would often have siege as part of their baggage train and would often be vital. Sometimes siege engines would also be used in field battles but this use was much rarer. @L@L
+		Other siege weapons would often be built on site near the city that was being besieged including ladders, siege towers, ramps of earth, battering rams, and protective shields. These would often be covered with animal hide to prevent fires. One neglected use of the siege tower is that it could be used as an elevated skirmishing platform to sweep the enemy walls from a higher position making it unsafe for defenders to man the walls. Only in the final assault would the towers be used to directly access enemy walls. @L@L
+		
+		@G[c3 instructions icon.png]	
+		@H Instructions @L
+		Governor, the Second Punic War is in full swing. Rome has just conquered and sacked the city of Syracusae so your task will be to rebuild and fortify it against the Carthaginians who are surely going to attempt to take it back. The terrain should prove decisive in coming battles, especially if you use the high ground to set up defenses from which your soldiers can attack approaching enemies. @L@L
+		Do not neglect the economic situation. Syracusae does not have abundant farmland, but the climate is well-suited for growing olives. Olives and olive oil are extremely profitable if traded in bulk, as they are a Roman culinary staple. The Roman Republic has depleted her stocks of oil, meaning that you can expect several requests for this resource. @L@L
+		Do not underestimate the enemy governor, they will likely throw everything thay can muster to take back the city. @L@L
+		
+		@H Edicts @L
+		@Oil @Shortages - Rome will ask for olives and oil in high quantities as time goes on. Prices for these goods are higher but other goods are not as valuable. @L@L
+		@Carthaginian @Blockade - Sea trade routes have low reliability, as ships tend to get lost at sea while taking irregular routes to avoid the blockade and may, despite these measures, still be captured by the enemy. Building a lighthouse will help alleviate these issues. @L@L
+		@Dry @Climate - Gardens, trees, paths and most parks are unavailable for this assignment. @L@L
+		
+		@H Additional Information @L 
+		@L There are 3 invasion points; these are only on exposed edges of the map, though never on entry and exit points directly.@L@L The empire map is bit more fleshed out but not comprehensive by any means. @L
+		As is customary, from a historical perspective you should start with a pre-built/ruined city, but few players would like that. It will be up to you to build everything from scratch. @L
+		If you wish to train and equip legionaries, you will need an armory to cart weapons from warehouses to your barracks with a road connection. @L@L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus08.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Syracusae1.mp3"/>
+	</message>
+	
+	<message uid="Blockade">
+		<title>(!) Blockade (!)</title>
+		<subtitle>Sea Trade Interruptions</subtitle>
+		<text> @G[c3 stills_51.png]@L
+		@H Message @L
+		Governor, the enemy fleet has intercepted merchant ships heading to our port. We will have to wait until more are dispatched before sea trade can be conducted again. @L@L
+		@G[decorative objetive .png] Building a lighthouse would make it less likely for enemies to harass the sea lanes. @G[lighthouse.png] @G[decorative objetive .png] @L@L
+		
+		@H Historical Background @L
+		Romans were generally considered poor sailors, which is counterintuitive considering their future control over so many seas. @L@L
+		As with land armies, the Roman navy did learn from their defeats and mistakes and developed new designs and tactics to counter their enemies. @L@L
+		Ship combat would often revolve around a small complement of marines for boarding actions and defense, while most of the capability would be centered around war machines and skirmishers. @L@L
+		This benefited the Greeks and Carthage who had long naval traditions. Romans developed rams and boarding bridges to turn naval combat into melee fighting which much more suited their capabilities. @L@L
+		Most ships of the time would be powered mainly by oars since wind power was often unreliable. Ships had sails but could not be used in all circumstances. @L@L
+		@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="side objective 1">
+		<title>(!) Spoils of War (!)</title>
+		<subtitle>Nautical Salvage</subtitle>
+		<text> @G[c3 stills_47.png]@L
+		@H Message @L
+		News has arrived that local citizens have observed Carthaginian ships beached and abandoned on the shore not far from the city. There is also a substantial amount of nautical wreckage to be collected on the shores from the destroyed vessels. @L@L
+		Once you have mustered sufficient troops, you can use them to scout these shipwrecks safely and see what valuables might be salvaged from them. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Have 48 troops (3 full forts) to gain 4 timber and between 50 and 200 denarii every 1 to 3 months directly into stockpiles. @G[fort.png] @G[decorative objetive .png] @L@L
+		@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Syracusae no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+		</message>
+		
+	<message uid="side objective 1 completed">
+		<title>(!) Salvage (!)</title>
+		<subtitle>Repurposed Materials</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		Good news governor, the area around the city appears to be safe and the locals have started to collect the salvage for us to reuse as we see fit. 
+		@H Reward @L
+		Every 1 to 3 months you gain 4 timber and between 50 and 200 denarii into stockpiles. @G[Repurposed_Materials.png] @L@L@L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+		
+	<message uid="victory">
+		<title>Roman Syracusae</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		Once again you have bested the enemies of Rome and built a magnificent city. @L@L
+		In the next assignment, you will be tasked to build in the rugged environment of Asia Minor. Onwards to Miletus! @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus30.png"/>
+		<background_music filename="WinAssignment.wav"/>
+		<media type="speech" filename="Syracusae2.mp3"/>
+	</message>
+	
+	<message uid="workers">
+		<title>(!) Unemployment (!)</title>
+		<subtitle>Public Works Program</subtitle>
+		<text> @G[c3 stills_43.png]@L @L 
+		@H Message @L
+		Governor, we have urgent need for more jobs to keep our people happy and productive. Unfortunately, local resources might not allow fully-localized production to entirely provide the jobs needed. @L@L
+		@H New Side Objective @L
+		Option 1 - Create a patrician district to offset the surplus workforce. (300 patrician population will grant you +1 prosperity gain per month) @L@L
+		Option 2 - Process imported iron and timber into weapons and furniture which can be used for exports to offset the larger workforce. (12 stockpiled weapons and furniture will grant you +1 iron and timber per month)@L@L
+		Note that you can achieve both options; they are not mutually exclusive. There will be no confirmation message once they are achieved but the benefits will repeat each month. Some future maps will require you to creatively solve these problems on your own so it's here to teach players about solutions. @L@L
+		If your city is aging, it's possible you will not have any surplus labor left. @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+</messages>

@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>Lutetia</title>
+		<subtitle>Dominating Gaul</subtitle>
+        <text> 
+		@G[c3 stills_108.png]@L
+		@H Historical Background @L
+		Lutetia, modern day Paris, derives its name from the Celtic word "lut" which means swamp. The area had been settled for over 4,500 years. For most of the city's history it had been inhabited by Celtic peoples. Romans annexed the area along with the rest of Gaul after Gaius Julius Caesar waged his campaign of conquests known as the Gallic Wars. The Roman settlement there was only founded in the late 1st century BC during the reign of first citizen Caesar Augustus. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, I have an important assignment for you:  you are to oversee the founding of a Roman colony in Gaul. The city is to be called Lutetia, and the local area is rich in quality timber, iron, and clay. I'm assigning this task to you as the difficulties that will need to be overcome are substantial. 
+		Firstly, wild beasts still roam the forests of Gaul and Lutetia is not an exception. Clear out their dens and secure vital farmland in the forest cleanings they inhabit. The locals are numerous and still hostile to Roman presence. Your task will be to seek cooperation but before we can make them conform to Roman ways, they need to be shown strength. @L@L
+		Recruit local legions to break their will and show them the futility of resistance. Native peoples also dwell near the potential hidden forest paths, from which still hostile Gallic tribes are sure to attack your city in the future. 
+		@L@L
+		Designate defensive works to be built in such places and consider strategic matters from where the enemy can approach the city. If you can ensure the security of Lutetia, you are to also assist friendly cities in Roman Gaul, as our grip needs to be solidified. Unfortunately, the long and bloody civil war has left scars on Rome's image as a bringer of stability. @L@L
+		Good luck governor, I will be watching your progress closely. @L@L@L
+
+		@H Edicts @L@
+		Lengthy @Trade @Routes - Olives or vines would spoil before arriving in our ports. We need to import wine and oil as finished products. Wine will be attained by completing a side objective. @L@L
+		@Wilderness - Lots of wolves and natives cover the map. Other cities use their leverage to make your city pay extra for imports like marble. The tax rate for the city is reset to 5% each month. @L@L
+		
+		@H Additional Information @L
+		This is the first very difficult mission of the campaign. It's still not in the level of a very hard custom map but suffice to say the campaign will ramp up from this point. Use every tool at your disposal to deal with challenges present. There are a lot of invasion points on the map, and it has high military activity. This map is one that has been changed more substantially than some of the others.  @L@L
+		Try to use walls, bridges, and forts to funnel enemies into one or two points on the map where you can set up kill zones. Defending everywhere will likely lead to getting overwhelmed as your legions cannot respond to all places on the map quickly. @L@L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus27.png"/>
+		<background_music filename="ROME2.wav"/>
+        <media type="speech" filename="Lutetia1.mp3"/>
+    </message>
+		
+	<message uid="rome route">
+		<title>(!) Luxury Goods (!)</title>
+		<subtitle>Lane to the Capital</subtitle>
+		<text> 
+		@G[c3 stills_138.png]@L
+		@H Message @L
+		Governor, if we are to attract patricians to our city, we need to negotiate a trade license to import wine from Rome. It's the only city willing to send ships this far distant for reasonable prices. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build a lighthouse to unlock a trade route to Rome which sells wine. (Note that after new resources such as wine becomes available, you will need to open the dock special orders menu and allow its trade to be conducted there). @G[lighthouse.png]  @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="natives">
+		<title>(!) Hostile Locals (!)</title>
+		<subtitle>Persuasion Through Show of Force</subtitle>
+		<text> 
+		@G[c3 stills_122.png]@L
+		@H Message @L
+		Governor, our military advisor recommends recruitment of additional troops. The locals are hostile to our presence and are already negotiating with the enemy to coordinate attacks. If we are to bring them to our side, we need to show them that the city has sufficient defenses to discourage any raids. We assume that if we were to field at least 80 troops, we could start negotiations with the natives from a stronger position. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Field 5 full forts of any troop type to unlock mission posts. @G[fort.png] @G[decorative objetive .png] @L@L@L
+		@H Historical Background @L
+		In Lugdunum, we discussed humanitarian impacts of the Gallic Wars from the native perspective; this time we will focus on the Roman point of view. @L@L
+		By now, you should understand the underlying reasons for seeking conquest; but one neglected topic is that Gauls were often conducting raids on Roman trade outposts and caravans. During an occupation, Gallic armies would also often massacre any Romans that could be captured including civilians and merchants. @L@L
+		In a way, these actions were even more targeted since the Romans often fought to prevent Germans from crossing the Rhine and would fiercely oppose any enemy who wished to intrude on their land or the land of their client states or allies. One cannot say that they dealt with one ethnic or cultural group harsher just for these reasons. Usually, for example, a massacre of traders would trigger a brutal response in return, and depending on how the reaction to an occupation unfolded, measures would be taken accordingly. @L@L
+		One notable example of brutality was after the siege of Alesia, where the city of Uxellodunum, being the last in Gaul that resisted Roman occupation, was subjected to extreme brutality by Julius Caesar. After the siege, all captives were blinded, had their hands and ears cut off, and then released into the countryside. One could consider this a pure terror tactic used to control the remaining populace of Gaul. @L@L
+		On the other hand, it might have been this very harsh treatment which prevented Gaul from rising in revolt even though Rome itself was heavily embroiled in civil wars very soon after Gaul's subjugation. @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> 
+		@G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Lutetia no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="mission post unlocked">
+		<title>(!) Translators (!)</title>
+		<subtitle>Locals Open Negotiations</subtitle>
+		<text> 
+		@G[c3 stills_145.png]@L 
+		@H Message @L
+		Governor, we are pleased to inform you that the locals have agreed to send us hostages as a show of good faith and appear to finally accept our presence. We should employ translators and diplomats to persuade the natives sharing their resources with our city. @L
+		@H Reward @L
+		Mission posts unlocked.  @G[missionary_post.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="Augustus dies">
+		<title>(!) Augustus Dies (!)</title>
+		<subtitle>Caesar is dead, long live Caesar.</subtitle>
+		<text> @G[c3 stills_133.png] 
+		@H Message @L
+		Governor, sad tidings reached us today. First Citizen Caesar Augustus has passed away. Political turmoil will surely follow. @L@L
+		This is a historical note of no gameplay significance. Feel free to skip if you are not interested. @G[cesar.png]@L@L
+		@H Historical Background @L
+		Augustus never held an official title of "Emperor" or "King". He effectively had unlimited power, in the same way that Gaius Julius Caesar did after he managed to get control over the Senate and Rome. His succession was difficult as he willed titles to his grandsons, but a series of deaths followed the succession until finally in 14 AD Tiberius Julius Caesar Augustus became the first official Roman Emperor. @L@L
+		After Caesar's death, Augustus officially adopted his name and, in the eyes of Caesar's assassins and critics, he effectively became not only inheritor of his vast estates, but also of his political mindset and clout. @L@L
+		At first, Augustus held a junior role in partnership with Marcus Antonius and Marcus Lepidus in the second triumvirate. This changed later, however, when he asserted his dominance over the Senate. Augustus himself was generally disinterested and bored with command and most matters to do with military or naval warfare. @L@L
+		There is no doubt that he was a brilliant statesman and administrator, but most of the command tasks would fall upon Marcus Vipsanius Agrippa, who was his lifelong friend and an extremely talented general. @L@L
+		On a final note, unlike how Julius Caesar never created proscription lists or persecuted his enemies, Augustus had no such restraints and proscriptions were used widely. @L@L@L@L
+		</text>
+		<media type="sound" filename="HORN4.WAV"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Powerful Lutetia</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		I'm once again impressed by your skills governor. Thanks to your efforts Lutetia is a bustling metropolis in the midst of Gaul. @L@L
+		In Caesarea you will face your biggest challenge yet...a province without local food production. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus08.png"/>
+		<background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Lutetia2.mp3"/>
+	</message>
+	
+</messages>

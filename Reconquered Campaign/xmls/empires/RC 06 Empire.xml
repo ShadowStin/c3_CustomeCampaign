@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<!DOCTYPE empire>
+<empire version="1" show_ireland="true">
+	<ornament type="all" />
+	<border density="28">
+		<edge x="873" y="614" />
+		<edge x="859" y="606" />
+		<edge x="850" y="580" />
+		<edge x="819" y="569" />
+		<edge x="799" y="544" />
+		<edge x="776" y="550" />
+		<edge x="680" y="455" />
+		<edge x="666" y="404" />
+		<edge x="600" y="380" />
+		<edge x="580" y="405" />
+		<edge x="555" y="380" />
+		<edge x="608" y="317" />
+		<edge x="703" y="327" />
+		<edge x="760" y="318" />
+		<edge x="780" y="312" />
+		<edge x="815" y="365" hidden="true" />
+		<edge x="760" y="318" />
+		<edge x="740" y="335" />
+		<edge x="750" y="370" />
+		<edge x="757" y="400" />
+		<edge x="795" y="430" />
+		<edge x="815" y="480" />
+		<edge x="833" y="497" />
+		<edge x="870" y="515" />
+		<edge x="905" y="515" />
+		<edge x="895" y="540" />
+		<edge x="997" y="605" />
+		<edge x="989" y="625" />
+		<edge x="973" y="603" />
+		<edge x="935" y="592" />
+		<edge x="920" y="633" />
+		<edge x="945" y="650" />
+		<edge x="940" y="670" />
+		<edge x="900" y="723" />
+		<edge x="870" y="733" />
+		<edge x="860" y="777" />
+		<edge x="755" y="740" />
+		<edge x="765" y="711" />
+		<edge x="794" y="715" />
+		<edge x="824" y="727" />
+		<edge x="863" y="714" />
+		<edge x="900" y="690" />
+		<edge x="905" y="668" />
+		<edge x="891" y="628" hidden="true" />
+		<!-- Sardinia, Corsica -->
+		<edge x="635" y="457" />
+		<edge x="604" y="490" />
+		<edge x="617" y="540" />
+		<edge x="621" y="562" />
+		<edge x="590" y="575" />
+		<edge x="605" y="678" />
+		<edge x="645" y="655" />
+		<edge x="640" y="563" />
+		<edge x="633" y="530" />
+		<edge x="635" y="457" hidden="true" />
+		<!-- Illyria -->
+		<edge x="1012" y="475" />
+		<edge x="1060" y="510" />
+		<edge x="1070" y="550" />
+		<edge x="1117" y="650" />
+		<edge x="1086" y="666" />
+		<edge x="1040" y="603" />
+		<edge x="1042" y="523" />
+		<edge x="1007" y="494" hidden="true" />
+		<!-- Iberia -->
+		<edge x="413" y="455" />
+		<edge x="417" y="515" />
+		<edge x="378" y="547" />
+		<edge x="342" y="567" />
+		<edge x="315" y="613" />
+		<edge x="300" y="644" />
+		<edge x="317" y="682" />
+		<edge x="284" y="743" />
+		<edge x="245" y="772" />
+		<edge x="150" y="786" />
+		<edge x="128" y="805" />
+		<edge x="105" y="770" />
+		<edge x="121" y="725" />
+		<edge x="155" y="708" />
+		<edge x="220" y="696" />
+		<edge x="265" y="660" />
+		<edge x="300" y="595" />
+		<edge x="314" y="565" />
+		<edge x="315" y="530" />
+		<edge x="358" y="505" />
+		<edge x="390" y="452" hidden="true" />
+		<!-- <edge x="1000" y="1000" /> -->
+		<!-- <edge x="" y="" /> -->
+		<!-- <edge x="1000" y="300" hidden="true"/>  -->
+	</border>
+	<cities>
+		<city name="Syracusae" x="841" y="741" type="ours">
+			<sells>
+				<resource type="wheat" />
+				<resource type="olives" />
+				<resource type="vines" />
+				<resource type="vegetables" />
+				<resource type="clay" />
+				<resource type="sand" />
+
+			</sells>
+		</city>
+
+		<city name="Rhegium" x="903" y="699" trade_route_cost="250" trade_route_type="land">
+			<buys>
+				<resource type="olives" amount="30" />
+				<resource type="clay" amount="50" />
+				<resource type="pottery" amount="10" />
+			</buys>
+			<sells>
+				<resource type="marble" amount="24" />
+				<resource type="stone" amount="50" />
+			</sells>
+			<trade_points>
+				<point x="885" y="705" />
+			</trade_points>
+		</city>
+		<city name="Brundisium" x="964" y="580" trade_route_cost="700" trade_route_type="sea">
+			<buys>
+				<resource type="oil" amount="24" />
+				<resource type="olives" amount="60" />
+			</buys>
+			<sells>
+				<resource type="timber" amount="80" />
+				<resource type="furniture" amount="40" />
+			</sells>
+			<trade_points>
+				<point x="877" y="750" />
+				<point x="900" y="745" />
+				<point x="925" y="725" />
+				<point x="950" y="690" />
+				<point x="975" y="655" />
+				<point x="1000" y="630" />
+				<point x="1007" y="608" />
+				<point x="993" y="588" />
+			</trade_points>
+
+		</city>
+
+		<city name="Capua" x="853" y="566" trade_route_cost="1750" trade_route_type="sea">
+			<buys>
+				<resource type="bricks" amount="40" />
+				<resource type="pottery" amount="40" />
+			</buys>
+			<sells>
+				<resource type="iron" amount="60" />
+				<resource type="weapons" amount="24" />
+			</sells>
+			<trade_points>
+            <point x="875" y="745" />
+            <point x="880" y="730" />
+            <point x="880" y="725" />
+            <point x="888" y="673" />
+            <point x="873" y="632" />
+            <point x="845" y="605" />
+			</trade_points>
+
+		</city>
+		<city name="Rome" x="787" y="526" trade_route_cost="3400" trade_route_type="sea">
+			<buys>
+				<resource type="wine" amount="24" />
+				<resource type="oil" amount="24" />
+				<resource type="olives" amount="50" />
+			</buys>
+			<sells>
+				<resource type="gold" amount="20" />
+				<resource type="fish" amount="3800" />
+			</sells>
+			<trade_points>
+				<point x="875" y="755" />
+				<point x="875" y="775" />
+				<point x="860" y="785" />
+				<point x="815" y="775" />
+				<point x="780" y="765" />
+				<point x="745" y="740" />
+				<point x="743" y="722" />
+				<point x="755" y="695" />
+				<point x="790" y="685" />
+				<point x="835" y="675" />
+				<point x="855" y="645" />
+				<point x="845" y="620" />
+				<point x="806" y="585" />
+				<point x="790" y="558" />
+			</trade_points>
+		</city>
+		<city name="Himera" x="813" y="721" type="future_trade" trade_route_cost="2400"
+			trade_route_type="land">
+
+			<buys>
+				<resource type="furniture" amount="30" />
+				<resource type="weapons" amount="30" />
+			</buys>
+			<sells>
+			</sells>
+			<trade_points>
+				<point x="813" y="752" />
+			</trade_points>
+		</city>
+
+		<city name="Caralis" x="618" y="644" type="roman" />
+		<city name="Mastia" x="295" y="687" type="distant" />
+		<city name="Carthago" x="662" y="775" type="distant" />
+		<city name="Emporiae" x="399" y="500" type="roman" />
+		<city name="Hippo Regius" x="569" y="776" type="distant" />
+		<city name="Leptis" x="837" y="929" type="distant" />
+		<city name="Ariminium" x="786" y="428" type="roman" />
+		<city name="Athenae" x="1209" y="719" type="distant" />
+		<city name="Croton" x="911" y="619" type="distant" />
+		<city name="Apolonia" x="1045" y="579" type="roman" />
+		<city name="Asculum" x="865" y="525" type="vulnerable" />
+		<city name="Malaca" x="160" y="759" type="distant" />
+		<city name="Tarraco" x="341" y="550" type="roman" />
+
+
+	</cities>
+	<invasion_paths>
+		<path>
+			<battle x="688" y="777" />
+			<battle x="742" y="773" />
+			<battle x="804" y="755" />
+		</path>
+		<path>
+			<battle x="849" y="916" />
+			<battle x="848" y="852" />
+			<battle x="855" y="788" />
+		</path>
+	</invasion_paths>
+	<distant_battle_paths>
+		<path type="roman" start_x="1140" start_y="385">
+			<waypoint num_months="2" x="1080" y="340" />
+			<waypoint num_months="3" x="1145" y="290" />
+		</path>
+		<path type="enemy" start_x="1256" start_y="280">
+			<waypoint num_months="6" x="1145" y="290" />
+		</path>
+	</distant_battle_paths>
+
+</empire>

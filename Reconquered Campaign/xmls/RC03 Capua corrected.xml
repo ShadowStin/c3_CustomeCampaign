@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1">
+    <message uid="intro">
+        <title>Integration of Capua</title>
+        <subtitle>The Samnite Rivalry</subtitle>
+        <text>@G[c3 stills_71.png]@L
+		@H Historical Background @L
+		Capua was founded around 600 BC, and the original settlement was established by the Etruscans at the height of their power. Capua's name in the Etruscan language, "Capeva" meant "city of marshes". A Samnite invasion in the year 424 BC led to Capua being occupied and broken free from its Etruscan ties. @L@L
+		Rome had been at war with the Samnites and various other affiliated tribes in central Italy during a period known as the Samnite Wars. Samnites were a very warlike Italic people who lived in south-central Italy. Some cities have been recognized as Roman allies, even being granted citizenship in certain cases. These events demonstrated that Rome was a significant regional power capable of protecting its allies. The independent city of Capua found the possibility of renewed Samnite aggression most troubling. @L@L Accordingly, the Roman Senate had extended diplomatic overtures to Capua to make them a Roman ally. In the year 343 BC, Capua accepted the terms, regarding themselves as more closely aligned with the Latins than the Samnites. This was certain to increase tensions in the area, but Rome was confident in her military prowess and that the economic benefits from controlling Capua outweighed the risks.@L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, take charge of the local area and develop it into a true regional trade hub and economic powerhouse. Due to our mighty legions, you do not need to worry about city defenses; and even with Samnite aggression being so high, it's unlikely they will invade Capua directly. Instead, your city will support our @war @effort and I will often demand shipments of wheat and weapons to be sent to our legions. @L@L
+		The land near Capua does not have deposits of suitable stone or marble so you will need to import these if you want to build larger civic projects. On the bright side, the land around Capua is quite fertile, so you can expect easy cultivation of @vines, @olives, and other @foodstuffs. The only challenge will be in logistics, transporting goods and provisions from the farmlands to your marketplaces in a timely fashion. A wise governor should make good use the of the sturdy local oxen to arrange transport via @cart @depots.@L@L
+		Locals are also very fond of ludi, or games. You will be tasked with carefully managing the entertainment venues in Capua. @L@L
+		Even though there are difficulties awaiting you in Capua, I expect a relatively high level of overall prosperity to be achieved. @L@L
+		Good luck on your assignment governor. @L@L
+		
+		@H Edicts @L
+		@City @of @Blood @Sports - For entertainment, you will need to rely on taverns, arenas, and a colosseum (a side objective may expand these options). @L@L
+		@Samnite @Wars - Cheap iron can be imported to produce weapons, which you will be tasked with sending frequently to support the war effort. @L@L@L
+		
+		@H Additional Information @L 
+		Rome is still in its republic stage, so treat requests from "Caesar" as if they were from the Roman Senate instead. The campaign's timeline is highly varied, so some creative liberties were taken, especially regarding the empire map. Numerous Greek trading cities were, at this time, not under Roman suzerainty. @L@L
+		Keep in mind that taverns can serve as a supplement to theaters although you may need to import meat or fish to increase its service quality. Taverns can only access meat or fish from a granary, not a warehouse. Taverns will always require wine to provide entertainment which is consumed per walker spawned by the building. @L@L
+		If dock sites are crowded and you wish for more industry, it's useful to bring imported raw resources such as iron elsewhere on the map for processing and sending the finished goods back to sell by using cart depots. Depots especially excel at transporting food to housing areas located further away.@L@L
+		If you wish, constructing a Grand Temple to Venus with the Genetrix epithet would also grant all houses with access to Venus priests increased entertainment and desirability, bypassing the other options. @L@L
+		Note that the campaign will often have a map further in history come later; the timeline was originally poorly placed, even hundreds of years before the city you play on would be founded. This is no longer the case and dates reflect this, but creative liberty needed to be taken and the obvious nonsensical Caesar and immortal governor narrative is still used in order to preserve the feel of the game. @L@L
+		The general narrative with historical background will however try to follow the natural timeline of Roman innovation and happenings. @L@L
+		@H Persistent Events @L 
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus32.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Capua1.mp3"/>
+    </message>
+    
+	<message uid="side objective 1">
+        <title>(!) Colosseum (!)</title>
+        <subtitle>Greasing the Palms of Trade</subtitle>
+        <text>@G[c3 stills_118.png]@L
+		@H Message @L
+		Some influential Romans would like to purchase land in and around Capua for leisure and profit. The locals, however, may not look too kindly on sweeping changes to local land ownership. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Constructing a grand @colosseum could appease the populace, and you would benefit from the land transactions, thus gaining additional leverage on our trade partners and increasing overall trade quotas. @G[coliseum.png] @G[decorative objetive .png]@L@L@L
+		</text>
+        <media type="sound" filename="fanfare_nu3.wav"/>
+    </message>
+	
+    <message uid="side objective 2">
+        <title>(!) Exotic Animals (!)</title>
+        <subtitle>Entertainment Variety</subtitle>
+        <text>@G[c3 stills_83.png]@L
+		@H Message @L
+		You have received news of trade guilds to the south willing to sell us @exotic @animals from old Phoenician lands in northern Africa. If you build a @lighthouse to guide their ships, you could use these fierce creatures to increase the quality of our entertainment.@L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build a lighthouse to unlock lion pits. @G[lighthouse.png] @G[decorative objetive .png] @L@L@L
+		@H Historical Background @L
+		Capua was known as the proverbial home of gladiatorial combat. Romans used the same word ludi to denote gladiatorial games, as well as the schools which saw to the practice of such games. Ludi would be owned by a lanista who would be responsible for the training of new gladiators and arranging games with the elite. At first, gladiatorial combat was exclusive to funerary feasts and private celebrations of the upper class, but later became a staple of Roman entertainment. @L@L
+		Dealing with a lanista was seen as unsavory and unpleasant, since they often tried to hedge bets or bargain for better deals. They were seen by most Romans in much the same way as brothel-keepers. @L@L
+		We might imagine gladiators fighting to the death, but this was a rather uncommon occurrence. If a fight was to the death, it would be advertised as such and therefore was a rare sight that drew much attention. While a lot of people certainly did meet their end in this fashion, if a gladiator was defeated but fought valiantly, they would often be spared. Lanistae would also be reluctant to lose their expensive gladiators in a fight that was not worth the investment. @L@L
+		Another common misconception is that all gladiators were slaves. While prisoners of war, criminals, and slaves in general would become gladiators, it was not uncommon for ordinary citizens to enter the arena via contract, either to pay off debts or to try and become famous. Roman women were famously known to elope with gladiators even though they were often disfigured and uneducated. @L@L
+		It was in Capua where the famous Spartacus was trained and started his uprising in 73 BC. @L@L
+		</text>
+        <media type="sound" filename="fanfare_nu3.wav"/>
+    </message>
+	
+    <message uid="subsidy">
+        <title>(!) Subsidy Expires (!)</title>
+        <subtitle>Workshops Unlocked</subtitle>
+        <text>@G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Capua no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="side objective 1 completed">
+        <title>(!) Masses Calmed (!)</title>
+        <subtitle>Additional Trade Opportunities</subtitle>
+        <text>@G[c3 stills_17.png]@L
+		@H Message @L
+		Wealthy Romans have started to appropriate local lands to increase their personal holdings, but they have also sponsored the inaugural games at the new local colosseum. The locals may grumble at the redistribution of wealth, but the bread and circuses provided will ensure this is of no long-term concern. @L@L
+		As a reward for your efforts, your new patrician friends have used their influence to make your existing @trade opportunities even more lucrative. @L@L
+		@H Reward @L
+		Various trade quotas have been increased. @G[Masses_Calmed.png]
+		@L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="side objective 2 completed">
+        <title>(!) Lighthouse Completed (!)</title>
+        <subtitle>Exotic Animals for our Shows</subtitle>
+        <text>@G[c3 stills_82.png]@L
+		@H Message @L
+		The new lighthouse is guiding ships safely to our harbors from afar. Their captains no longer need to follow the coastline as diligently, decreasing their navigational burden. Trade ships with cargoes of exotic animals have begun to arrive in Capua. @L@L
+		@H Reward @L 
+		Lion pits unlocked. @G[lion_house.png]
+		@L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="weapon requests start">
+        <title>(!) Samnite Wars (!)</title>
+        <subtitle>Senate Requisitions Weapons</subtitle>
+        <text>@G[c3 stills_98.png]@L
+		@G[decorative objetive .png] @H Message @L
+		After Roman suzerainty over Capua was ratified, the Samnite Wars resumed in earnest. The Roman Republic needs supplies of weaponry for the war effort, and Capua must act. From now on, officers of the Republic will ask for frequent shipments of @weapons and @wheat to supply legions in the field. @G[Samnite_Wars.png] @G[decorative objetive .png] @L
+		@H Historical Background @L
+		Capua was a very important major city for most of Rome's history. For example, during the Second Punic War, it was able to raise and equip 30000 infantry and 4000 cavalry by its own to contribute to the war. In terms of economy, Capua was famed for its grain production as well as its manufacturing of various bronze objects of which both the elder Cato and the elder Pliny spoke highly of in terms of quality. @L@L@L@L@L
+		</text>
+        <media type="sound" filename="fanfare_nu2.wav"/>
+    </message>
+	
+    <message uid="plaza">
+        <title>(!) Plaza Unlocked (!)</title>
+        <subtitle>Tiles and Mosaics</subtitle>
+        <text>@G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="depots">
+        <title>(!) Wheels of Change (!)</title>
+        <subtitle>Robust Transport System</subtitle>
+        <text> @G[c3 stills_04.png]@L
+		@H Message @L
+		The terrain in this province is proving to be much rougher than expected. You should invest in the construction of oxcart depots in order to swiftly transport goods over long distances. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build and staff 4 cart depots for a @secret reward. @G[dpot.png] @G[decorative objetive .png] @L@L
+	    </text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="depots dcompleted">
+        <title>(!) Abundant Surpluses (!)</title>
+        <subtitle>Efficient Supply System</subtitle>
+        <text>@G[c3 stills_95.png]@L
+		@H Message @L
+		Thanks to the efficient use of trained oxen, Capua's logistics teams are now able to quickly transport all the produce from our farms and estates. This means that fresh fruits are no longer sitting in storage for extended periods, leading to a reduction in spoilage.
+		@H Reward @L
+		Receive +2 @vines, @olives, @wheat, and @fruit per month directly into stockpiles, if there is space for them. @G[obj_supp_cap.png] @L@L
+	    </text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="victory">
+        <title>Prosperous Capua</title>
+        <subtitle>You are Victorious</subtitle>
+        <text>@G[c3 stills_127.png]@L 
+		@H Assignment Completed @L
+		Not only have you managed to supply our troops, but thanks to your efforts Capua now stands as a cornerstone of Roman civilization there to be of help against any enemy. Tarentum will be a true test of your skills, not just in terms of city development but also in managing the Roman legions. @L@L
+		</text>
+        <media type="video" filename="Victory_Senate.smk"/>
+        <media type="background_image" filename="augustus32.png"/>
+        <background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Capua2.mp3"/>
+    </message>
+</messages>

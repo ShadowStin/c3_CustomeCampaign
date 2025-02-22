@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>City of Lindum</title>
+		<subtitle>Safeguarding Britannia</subtitle>
+        <text> @G[c3 stills_73.png]@L  
+		@H Historical Background @L
+		Lindum was initially established as a fortress for Roman legionaries. Later, around 86 AD, it converted to a Colonia settled by the many retired soldiers and their families. The era for this mission is circa 122 AD during the reign of Emperor Hadrian. @L@L
+		While the Roman Empire certainly saw a decline in celebration of merit, it had other benefits. Imperial authority meant centralization of power and for ancient and medieval societies later, it meant that things could be done quickly without political maneuvering. @L@L
+		Some emperors were also highly educated, skilled, and had the genuine good of their people at heart. This was not a given, however, as a bad emperor could cause immense damage, and this happened more and more often during the times of the Late Empire. @L@L
+		One notable example of misunderstood behavior is Emperor Caligula, who allegedly appointed a horse as consul. @L@L
+		If this is based on reality, for which there is no real proof, it was likely an action to show to everyone how the position of consul no longer held any power and no longer matters. Julius Caesar behaved similarly by appointing new consuls from senators who did not have the merit for such a position. @L@L
+		Even when Caesar did not hold a consular office after the civil war, he sat on a decorated chair/throne during senate meetings and, as mentioned previously, openly wore a purple toga which was normally granted only to triumphators on their day of triumph. Purple was commonly associated with the old Etruscan monarchy and thus was considered offensive to wear by a politician. @L@L
+		To avoid concerns of the public, Caesar made a gesture where during Saturnalia festival in Rome, Marcus Antonius, dressed as one of the priests of Saturn, would offer him a crown which he refused in front of a large crowd of people. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, you are to travel to Colonia Domitiana Lindensium and, in my name, massively improve its fortifications to safeguard Roman Britain for all time. Rome must separate the barbaric lands of Caledonia from the civilized remainder of the island or else my subjects in Britannia will never truly know peace. @L@L
+		It is imperative that you dedicate a significant labor force towards extracting the resources required for construction of walls and outposts, as I have tasked you and the colony at Lindum to be the primary source for all building materials for my project. @L@L
+		Lindum is a city with great potential in trade and local production. However, its position as one of the northernmost cities of the Empire means it will be a frequent target for Pictish military aggression. @L@L
+		These people are fierce warriors and have observed Roman military tactics, so they know what to expect from our legions. My generals report that the Picts have adopted tactics such as enveloping their targets by approaching from multiple directions, thus overwhelming and demoralizing their foes. You should maintain substantial forces at Lindum, as barbarian attacks may increase in both size and frequency. @L@L
+		For its main staple of trade, Lindum is an excellent source of clay and there is high demand for pottery, both in Roman Britain and further afield. Build industry and utilize the Roman trade network to make Lindum into a dominant city in the regional market. Be aware that fertile land is at a premium in Lindum, and that the local terrain offers varied positions for either defenses or industrial/residential zones. @L@L
+		A wise governor such as yourself can use the terrain to their advantage, evaluating where settlements can be sited with or without walls, and using fortifications to route enemy attacks into a single area. @L@L
+		Do not disappoint me, governor. The wall must stand, and you bear the responsibility for its materials. Fail to meet my expectations and you will find yourself swiftly replaced. Britannia must be secured against the barbarian threat from the north. @L@L
+		
+		@H Edicts @L@
+		Hadrian's @Wall - Caesar will frequently request large amounts of building materials to fund construction of the wall. Special messages will show up as the construction progresses as to the requested materials. If the wall is completed, it will reduce the number of incoming attacks but will require a constant supply of weapons as upkeep. @L@L
+		@Roman @Britain - Many hostile natives inhabit the map. Attacks will eventually reach very large scale. The prices on most goods are lowered but they can be traded in bulk. This was the final map of the original military campaign branch so expect a significant challenge. @L@L
+		@Decisions - You will be presented with 2 options on how to approach the map: one more economically focused with less attacks, or one with less restrictions but with more attacks. If you choose the path of increased military activity, you will be tasked with building and evolving houses in the "stone circles" present on the map, so plan your starting block's location accordingly. @L@L
+		@H Additional Information @L
+		There are 8 invasion points; these are only on exposed edges of the map though, never on entry and exit points directly. It's still possible to use pathing and chokepoints to great benefit. @L@L
+		As is customary, even though from a historical perspective you should start with a pre-built city on this map, few players would like that so it will be up to you to build everything from scratch. @L@L
+		@H Persistent Events @L Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus16.png"/>
+		<media type="speech" filename="Lindum1.mp3"/>
+		<background_music filename="ROME2.wav"/>
+	</message>
+	
+	<message uid="Choice">
+		<title>(!) Local Tribesmen (!)</title>
+		<subtitle>Different Approaches</subtitle>
+		<text> @G[c3 stills_77.png]@L  
+		@H Message @L
+		Governor, the area near our city is occupied by local tribes. You may interact with them by trying to teach them Latin and offering Roman goods for trade, but this attempt to integrate their local economies and assert Roman authority carries the risk of potentially antagonizing both the locals and their kinsmen to the north. The manner in which you approach the locals will have lasting consequences. @L@L
+		@G[decorative objetive .png] @H New Development @L
+		You have a choice in how the map will be played: @L@L
+		Option 1 - If you build a mission post within one year, you will choose to pacify the natives, unlocking mission posts and an event chain for clearing some of their settlements. The downside will be increased enemy military activity, with some massive attacks later on. @L@L
+		Option 2 - If you do not build a mission post within a year, you will lose access to mission posts, and the prices of goods will decrease. This path has less of a military challenge, but more difficult city management due to the irremovable native presence. @G[Local_Tribesmen.png] @G[decorative objetive .png] @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+	
+	<message uid="Stone circles">
+		<title>(!) Shrines (!)</title>
+		<subtitle>Circles of Stone</subtitle>
+		<text> @G[c3 stills_91.png]@L  
+		@H Message @L
+		Governor, your ambassadors have gathered enough information from natives who acknowledge the dominance of the Roman Empire to devise a plan. The locals revere these ancient stone circles, which act as shrines to their gods. If you were to clear out the woodlands and erect residential buildings in their place, this would assert Roman cultural hegemony over the local tribes, assimilating them into the colony. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Find 3 locations where natives worship their deities and construct at least one small insula therein (look for stone circles with road circles in the middle). For each one you complete, the native presence on the map will be reduced. Note that idea is not to build and evolve a single house, but rather to plan block incorporating the circles. @G[Circles_of_Stone.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="Fish or Vines">
+		<title>(!) Rivalry (!)</title>
+		<subtitle>Blessings and Curses</subtitle>
+		<text> @G[c3 stills_126.png]@L 
+		@H Message @L
+		Governor, your chief priests report their visions and omens: Neptune, the god of the sea, and Ceres, the goddess of fertility, are in a feud; with us mere mortals caught in between. Each deity wants to be the patron of Lindum so you must decide whom to honor. You can build grand shrines to other gods at a later point, but the first temple is the most important in terms of prestige and dedication as Lindum's chief patron. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Option 1 - If you build a grand temple to Neptune first, you will unlock fish. @L@L
+		Option 2 - If you build a grand temple to Ceres first, you will unlock vines. @L@L
+		You may only have one of these bonus resources. Consult the empire map to decide which resource is of greater value to your city. @G[Fish_or_Vines.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="temple_love.wav"/>
+	</message>
+	
+	<message uid="Neptune">
+		<title>(!) Fish (!)</title>
+		<subtitle>Neptune's Blessing</subtitle>
+		<text> @G[c3 stills_138.png]@L  
+		@H Message @L
+		Governor, Lindum has been dedicated to Neptune. You can now reliably harvest fresh fish from the local rivers. 
+		@H Reward @L
+		Wharves and shipyards unlocked. @G[fish_first.png] @L@L@L
+		</text>
+		<media type="sound" filename="temple_love.wav"/>
+	</message>
+	
+	<message uid="Military path">
+		<title>(!) Natives (!)</title>
+		<subtitle>Military Challenge Selected</subtitle>
+		<text> @G[c3 stills_108.png]@L  
+		@H Message @L
+		You have chosen the military challenge for Lindum. Invasions will be significantly more challenging with additional incursions by local barbarians. Trade will remain unrestricted, and you have access to mission posts. Note that as you build up additional legions, the locals will become more aggressive. Walls and towers with patrols should take priority over fort count, at least for the initial phase. @G[Military_path.png] @L@L
+		@G[decorative objetive .png] @H New Development @L
+		An additional native objective will become available when you reach 2500 population. @G[Natives.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+	
+	<message uid="Economic path">
+		<title>(!) Autonomy (!)</title>
+		<subtitle>Economic Challenge Selected</subtitle>
+		<text> @G[c3 stills_04.png]@L  
+		You have selected the economic challenge for Lindum. Trade will be significantly more challenging including caravan disruptions, lowered prices, and you have lost access to mission posts. As a benefit, attacks will not occur quite as often, however. @G[Economic_path.png]@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="Ceres">
+		<title>(!) Vines (!)</title>
+		<subtitle>Blessing from Ceres</subtitle>
+		<text> @G[c3 stills_139.png]@L  
+		@H Message @L
+		Governor, the city has been dedicated to Ceres. Priests are out blessing the fields and distributing new saplings and seeds to the farmers. 
+		@H Reward @L
+		Vine farms unlocked. @G[obj_wine.png] @L@L@L
+		</text>
+		<media type="sound" filename="temple_love.wav"/>
+	</message>
+	
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Lindum no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="raid attacks">
+		<title>(!) Blood Feud (!)</title>
+		<subtitle>Raiders Spotted</subtitle>
+		<text> @G[c3 stills_39.png]@L 
+		@H Message @L
+		Governor, due to the assimilation of local tribes, the larger Pictish clans have declared a blood feud against the ones who joined us and embraced Roman identities. As a result, Lindum is going to be targeted by persistent attacks. @L@L
+		@H New Development @L
+		Raids will happen roughly every 2 years from all attack points. To survive, you will need to establish chokepoints and patrols to deal with these raiders. It will be possible with adequate patrols to defeat these raiders without deploying legions. @G[gt_mars_med.png] @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+	
+	<message uid="natives cleared 1">
+		<title>(!) Assimilation (!)</title>
+		<subtitle>Absorbing the Local Populace</subtitle>
+		<text> @G[c3 stills_67.png]@L 
+		@H Message @L
+		Governor, a group of the local natives have joined our city and accepted Roman citizenship. They have torn down their former dwellings in favor of proper Roman lodgings. You may now freely expand into the now-vacant lands. @L@L
+		Check for ruins on the abandoned native villages.@L @G[collapsed.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Prosperous Lindum</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		Brilliant performance governor! Lindum has been developed into a large prosperous city despite all the difficulties. @L@L
+		My final and most important assignment awaits you; Massilia will require you to put all the acquired skill and knowledge to good use. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus27.png"/>
+		<background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Lindum2.mp3"/>
+	</message>
+	
+	<message uid="wall1">
+		<title>(!) Foundations (!)</title>
+		<subtitle>Hadrian's Wall</subtitle>
+		<text> @G[c3 stills_12.png]@L 
+		@H Message @L
+		The first step in this massive construction project is to dig a foundation. For this I will require large amounts of @sand and @clay. @L@L
+		@G[decorative objetive .png] @H New Objective @L
+		Each time you accumulate 32 units of sand and clay, they will be automatically sent to the wall. After 5 such shipments, the next stage of the project will proceed, and you will be rewarded with +15 favor. From now on, you will lose 1 additional favor per year as time is of the essence. @G[wall1.png] @G[decorative objetive .png] @L@L@L
+		@H Historical Background @L
+		The length of the wall was 80 Roman miles, equivalent to 73 modern miles or 117 kilometers (1 Roman mile is equivalent to 1,620 yards or 1,480 m). @L@L
+		This traversed the entire width of the island, from Wallsend on the River Tyne in the east to Bowness-on-Solway in the west. @L@L
+		Not long after construction began, the wall's width was reduced from the originally planned 10 feet (3.0 m) to about 8 feet (2.4 m) or even less, depending on the terrain. @L@L
+		Some sections were originally constructed of turf and timber, and eventually replaced by stone years or decades later. @L@L
+		Bede, a monk and historian who died in 735 AD, wrote that the wall stood 12 feet (3.7 m) high, with evidence suggesting it could have been a few feet higher at its formation. Along the length of the wall there was a watchtower turret every third of a mile, also providing shelter and living accommodations for Roman troops. @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="wall2">
+		<title>(!) Walls (!)</title>
+		<subtitle>Hadrian's Wall</subtitle>
+		<text> @G[c3 stills_12.png]@L 
+		@H Message @L
+		The next step in building the wall is to erect walls and bastions. For this I will require large amounts of @stone and @bricks. @L@L
+		@G[decorative objetive .png] @H New Objective @L
+		Each time you accumulate 32 units of stone and bricks, they will be automatically sent to the wall. After 5 such shipments, the next stage of the project will proceed, and you will be rewarded with +15 favor. @G[wall2.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="wall3">
+		<title>(!) Barracks (!)</title>
+		<subtitle>Hadrian's Wall</subtitle>
+		<text> @G[c3 stills_12.png]@L 
+		@H Message @L
+		Construction is proceeding at a rapid rate. Next, it is necessary to accumulate large amounts of @timber and @furniture. @L@L
+		@G[decorative objetive .png] @H New Objective @L
+		Each time you accumulate 32 units of timber and furniture, they will be automatically sent to the wall. After 5 such shipments, the next stage of the project will proceed, and you will be rewarded with +15 favor. @G[wall3.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="wall4">
+		<title>(!) Officers' Quarters (!)</title>
+		<subtitle>Hadrian's Wall</subtitle>
+		<text> @G[c3 stills_12.png]@L 
+		@H Message @L
+		Lastly, we will need to erect baths, officers' quarters, and other services. It is necessary to accumulate large amounts of @marble and @gold. @L@L
+		@G[decorative objetive .png] @H New Objective @L
+		Each time you accumulate 4 units of marble and gold, they will be automatically sent to the wall. After 5 such shipments, the wall will be completed, and you will be rewarded with +15 favor. Yearly losses of extra 3 favor will be removed. @G[wall4.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="wall5">
+		<title>(!) Wall Stands (!)</title>
+		<subtitle>Hadrian's Wall</subtitle>
+		<text> @G[c3 stills_12.png]@L 
+		@H Message @L
+		That was a job well done governor! The wall now stands and Brittania is safer thanks to this mighty structure. I command that Lindum is to help with the upkeep, however, so make sure to maintain a heavy stockpile of @weapons. @L@L
+		
+		@G[decorative objetive .png] @H New Development @L
+		Your city will send 3 units of weapons each month automatically from warehouses to upkeep the wall's garrison. If you do not have at least 3 weapons left in warehouses at the end of each month, you will lose 1 favor.  @G[weapon_ware.png] @G[decorative objetive .png] @L@L
+		@H Reward @L
+		You acquired 15 favor, Hadrian's Wall can now be traded with (see the empire map), and favor loss of 3 per year is removed. Some of the raids and attacks will no longer occur. @G[wall5_2.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+</messages>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1">
+    <message uid="intro">
+        <title>Tingis</title>
+        <subtitle>At the Edge of the Roman World</subtitle>
+        <text>	@G[c3 stills_108.png]@L 
+		@H Historical Background @L
+		Situated near the Pillars of Hercules, which is the Strait of Gibraltar in modern parlance, the first settlement at Tingis was established by Phoenicians, later coming under Carthaginian control. It has long been a thorn in the side of Rome, and now after the Punic Wars have finally come to an end, it is time for Romans to colonize the area and claim dominion over this city at the edge of the known world. @L@L
+		Romans and Greeks believed that earth was surrounded by "filament" where the night sky would start, which was a place where gods resided. The filament would be wrapped around and above the earth, and the edge of it would be found in the distant oceans. As one would travel into the ocean, they believed that the ship would eventually reach silty murky shallow waters. You would then have to disembark and proceed through salt and mud on foot. After a while, there would be extremes of temperature, and mud and stone would cover the ground with nothing in sight. @L@L
+		After enduring this for a considerable while, there would be the end, a place where this mass would meet the filament itself and thus you would reach the end of the world. @L@L
+		There were some variations in this belief, but the shared idea is to discourage people from going into the wider oceans, as Romans were not aware of landmasses apart from Africa, Europe, Central Asia, and possibly China and the Indian subcontinent. @L@L
+		There is a debate as to a normal person perceived these religious concepts and how religious would an average citizen of ancient times be. It is likely that much like the medieval period, most people would see religion as part of the wider culture and thus follow basic rules and attend festivities and pay homage to deities, but true religious zeal or stern belief would be reserved to the clergy or individuals rather than being widespread. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Welcome governor, the edge of the known world is now within our reach as I have chosen you, one of my greatest administrators to oversee our efforts in Hispania. @L@L
+		Tingis has the benefit of a central climate with favorable agricultural and clay extraction potential. Use these products to establish your initial colony and trade them with other cities in the Republic. @L@L
+		Nearby settlements are also interested in buying goods that can only be made in Tingis from imported raw materials. An enterprising governor could export such finished products and still turn a handsome profit.  @L@L
+		The primary colony site is a river flanked by elevated plateaus, which offer locations to site housing blocks and industries. If you intend to construct any large monuments, importing marble, stone, and timber will be necessary. Marble is in especially high demand across the Republic at this time, so expect its price to be much higher than usual. @L@L
+		Concerning the military situation, Tingis is not a safe location. Despite the Republic's best efforts, the local Iberian tribes have resisted Roman influence fiercely. Your city might be targeted by their raids, but more importantly, the nearby city of Toletum is a hotbed of conflict and has struggled with public order ever since its inclusion in the Republic. Your legions will surely be requested to guard Toletum on more than one occasion. Do not let the city fall, Governor, or you will be deemed responsible for its destruction. @L@L
+		
+		@H Edicts @L
+		@Marble @Shortages - Marble and stone prices are much higher than usual (a side objective will allow for some adjustment later). @L@L
+		@Defender @of @the @Republic - The city of Toletum will call for military aid. Requests for troops will be common and large forces will be needed to emerge victorious. Do not underestimate this threat, as the favor penalties can be severe should you fail. Note that legionaries with academy training excel in fighting outside the city. @L@L
+		At the time of the mission, Rome is in its Republic stage, so treat requests from "Caesar" as if they were from the Roman Senate instead.@L@L
+		@H Persistent Events @L 
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+        <media type="background_image" filename="augustus20.png"/>
+        <background_music filename="ROME2.wav"/>
+        <media type="speech" filename="Tingis1.mp3"/>
+    </message>
+	
+    <message uid="bog iron">
+        <title>(!) Bog Iron (!)</title>
+        <subtitle>Using Local Resources</subtitle>
+        <text>	@G[c3 stills_74.png]@L 
+		@H Message @L
+		Governor, to safeguard the local province, equipping legionaries would ensure your forces are strong enough to handle any potential threat. @L@L
+		Unfortunately, Tingis has no access to iron ore veins and importing the ore may prove expensive. Fortunately, your surveyors report that the riverbed sediments have some low-grade iron content. If you employ large-scale extraction methods, your laborers can extract some iron as a byproduct.@L@L
+		@H New Development @L 
+		One cartload of @iron will be gained per month for the first 10 clay pits or sand pits. You can obtain a max of 2 @iron per month if you have 10 of each. Be sure to set up available warehouse space for iron to be able to receive it. @G[smithies_done.png] @L@L@L
+        
+		@H Historical Background @L
+        Roman Hispania was a crucial province for the Republic and later the Empire. Many natural resources, agricultural land, and, crucially, gold mines would be found within it. @L@L
+        Many legions would also be raised from the local populace, and it acted as an anchor in the west, securing the Roman territorial extent with a safe border that allowed for ample trade. @L@L
+        Despite the Romanization efforts, some tribes would still retain their original culture, in stark contrast to Romanized Gauls who saw their culture merge with the Roman one. While there were some developments during the crises of the 3rd century regarding Gallo-Roman culture, it never returned to its pre-invasion nature. @L@L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="Marble price event">
+        <title>(!) Marble Prices (!)</title>
+        <subtitle>Lobbying Efforts</subtitle>
+        <text>	@G[c3 stills_125.png]@L 
+		@H Message @L
+		Governor, current marble prices are outrageous! In order to begin any sizable construction projects, better prices will be needed for these crucial imports. @L@L
+		Perhaps if you were to obtain special favor with the Senate, they could pass an edict to curb these unreasonable prices. @L@L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Achieve 90 favor to reduce the price of marble and stone. @G[Marble_Prices.png] @G[decorative objetive .png] @L@L@L
+		</text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+	<message uid="subsidy">
+        <title>(!) Subsidy Expires (!)</title>
+        <subtitle>Workshops Unlocked</subtitle>
+        <text> @G[c3 stills_74.png]@L 
+        @H Message @L
+        The colonial subsidy has expired, and Tingis no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L@L
+        </text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+	<message uid="plaza">
+        <title>(!) Plaza Unlocked (!)</title>
+        <subtitle>Tiles and Mosaics</subtitle>
+        <text> @G[c3 stills_04.png]@L
+        @H Message @L
+        As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.  @L@L
+        @H Reward @L
+        Plaza unlocked. @G[plaza.png] @L@L
+        </text>
+        <media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+	<message uid="victory">
+        <title>Strong Tingis</title>
+        <subtitle>You are Victorious</subtitle>
+        <text> @G[c3 stills_127.png]@L
+        @H Assignment Completed @L
+        Great work governor, Tingis now stands as a city capable of securing Hispania. @L@L
+        The next assignment will take you to Valentia, where your ability to trade in high quantities will surely prove decisive. @L@L
+        </text>
+        <media type="video" filename="Victory_Senate.smk"/>
+        <media type="background_image" filename="augustus27.png"/>
+        <background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Tingis2.mp3"/>
+    </message>
+	
+</messages>

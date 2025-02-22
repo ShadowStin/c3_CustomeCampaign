@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<!DOCTYPE empire>
+<empire version="1" show_ireland="true">
+    <ornament type="all" />
+    <border density="28">
+        <edge x="873" y="614" />
+        <edge x="859" y="606" />
+        <edge x="850" y="580" />
+        <edge x="819" y="569" />
+        <edge x="799" y="544" />
+        <edge x="776" y="550" />
+        <edge x="680" y="455" />
+        <edge x="666" y="404" />
+        <edge x="600" y="380" />
+        <edge x="580" y="405" />
+        <edge x="555" y="380" />
+        <edge x="608" y="317" />
+        <edge x="703" y="327" />
+
+
+        <edge x="760" y="285" />
+        <edge x="832" y="288" />
+        <edge x="903" y="378" />
+        <edge x="1056" y="484" />
+
+        <edge x="1190" y="500" />
+        <edge x="1210" y="533" />
+        <edge x="1310" y="550" />
+        <edge x="1310" y="583" />
+
+        <edge x="1266" y="560" />
+        <edge x="1210" y="580" />
+        <edge x="1230" y="610" />
+        <edge x="1200" y="620" />
+        <edge x="1175" y="585" />
+        <edge x="1155" y="610" />
+        <edge x="1240" y="720" />
+        <edge x="1220" y="740" />
+        <edge x="1200" y="750" />
+        <edge x="1180" y="780" />
+        <edge x="1130" y="770" />
+        <edge x="1100" y="700" />
+        <edge x="1040" y="600" />
+        <edge x="1040" y="520" />
+        <edge x="865" y="400" />
+        <edge x="835" y="333" />
+        <edge x="815" y="360" />
+        <edge x="800" y="328" />
+        <edge x="813" y="315" />
+        <edge x="783" y="310" />
+
+
+        <edge x="760" y="318" />
+        <edge x="740" y="335" />
+        <edge x="750" y="370" />
+        <edge x="757" y="400" />
+        <edge x="795" y="430" />
+        <edge x="815" y="480" />
+        <edge x="833" y="497" />
+        <edge x="870" y="515" />
+        <edge x="905" y="515" />
+        <edge x="895" y="540" />
+        <edge x="997" y="605" />
+        <edge x="989" y="625" />
+        <edge x="973" y="603" />
+        <edge x="935" y="592" />
+        <edge x="920" y="633" />
+        <edge x="945" y="650" />
+        <edge x="940" y="670" />
+        <edge x="900" y="723" />
+        <edge x="870" y="733" />
+        <edge x="860" y="777" />
+        <edge x="755" y="740" />
+        <edge x="765" y="711" />
+        <edge x="794" y="715" />
+        <edge x="824" y="727" />
+        <edge x="863" y="714" />
+        <edge x="900" y="690" />
+
+        <edge x="905" y="668" />
+        <edge x="891" y="628" hidden="true" />
+
+        <!-- Sardinia, Corsica -->
+        <edge x="635" y="457" />
+        <edge x="604" y="490" />
+        <edge x="617" y="540" />
+        <edge x="621" y="562" />
+        <edge x="590" y="575" />
+        <edge x="605" y="678" />
+        <edge x="645" y="655" />
+        <edge x="640" y="563" />
+        <edge x="633" y="530" />
+        <edge x="635" y="457" hidden="true" />
+
+        <!-- Asia minor -->
+        <edge x="1364" y="765" />
+        <edge x="1345" y="741" />
+        <edge x="1351" y="721" />
+        <edge x="1327" y="713" />
+        <edge x="1297" y="660" />
+
+        <edge x="1307" y="622" />
+        <edge x="1341" y="596" />
+        <edge x="1420" y="600" />
+        <edge x="1436" y="644" />
+        <edge x="1440" y="710" />
+        <edge x="1370" y="805" />
+        <edge x="1364" y="765" hidden="true" />
+
+        <!-- Iberia -->
+        <edge x="413" y="455" />
+        <edge x="417" y="515" />
+        <edge x="378" y="547" />
+        <edge x="342" y="567" />
+        <edge x="315" y="613" />
+        <edge x="300" y="644" />
+        <edge x="317" y="682" />
+        <edge x="284" y="743" />
+        <edge x="245" y="772" />
+        <edge x="150" y="786" />
+        <edge x="128" y="805" />
+        <edge x="90" y="760" />
+
+        <edge x="24" y="762" />
+        <edge x="30" y="700" />
+
+        <edge x="9" y="686" />
+        <edge x="34" y="567" />
+
+        <edge x="25" y="510" />
+        <edge x="144" y="475" />
+        <edge x="205" y="475" />
+        <edge x="233" y="493" />
+        <edge x="374" y="462" />
+        <edge x="415" y="400" />
+        <edge x="500" y="415" />
+        <edge x="500" y="450" />
+        <edge x="440" y="430" />
+        <edge x="400" y="453" />
+        <edge x="390" y="452" hidden="true" />
+
+        <!-- Carthago -->
+        <edge x="590" y="769" />
+        <edge x="656" y="755" />
+        <edge x="672" y="774" />
+        <edge x="701" y="766" />
+        <edge x="675" y="800" />
+        <edge x="702" y="826" />
+        <edge x="690" y="846" />
+        <edge x="660" y="860" />
+        <edge x="577" y="786" hidden="true" />
+
+        <!-- <edge x="1000" y="1000" /> -->
+        <!-- <edge x="" y="" /> -->
+        <!-- <edge x="1000" y="300" hidden="true"/>  -->
+
+    </border>
+    <cities>
+        <city name="Valencia" x="289" y="661" type="ours">
+            <sells>
+                <resource type="wheat" />
+                <resource type="clay" />
+                <resource type="sand" />
+                <resource type="stone" />
+                <resource type="olives" />
+                <resource type="vines" />
+                <resource type="timber" />
+                <resource type="marble" />
+                <resource type="fish" />
+                <resource type="iron" />
+                <resource type="gold" />
+            </sells>
+        </city>
+
+        <city name="Emporiae" x="401" y="491" trade_route_cost="260" trade_route_type="land">
+            <buys>
+                <resource type="timber" amount="200" />
+                <resource type="clay" amount="200" />
+            </buys>
+            <sells>
+                <resource type="fruit" amount="2000" />
+            </sells>
+            <trade_points>
+                <point x="297" y="636" />
+                <point x="304" y="610" />
+                <point x="318" y="581" />
+                <point x="359" y="534" />
+            </trade_points>
+        </city>
+        <city name="Massilia" x="478" y="412" trade_route_cost="750" trade_route_type="sea">
+            <buys>
+                <resource type="wheat" amount="400" />
+                <resource type="sand" amount="200" />
+                <resource type="gold" amount="8" />
+            </buys>
+            <sells>
+                <resource type="wine" amount="40" />
+            </sells>
+            <trade_points>
+                <point x="320" y="644" />
+                <point x="350" y="580" />
+                <point x="430" y="510" />
+                <point x="422" y="470" />
+                <point x="440" y="440" />
+            </trade_points>
+
+        </city>
+
+        <city name="Rome" x="773" y="513" trade_route_cost="2000" trade_route_type="sea">
+            <buys>
+                <resource type="marble" amount="30" />
+                <resource type="gold" amount="8" />
+                <resource type="stone" amount="300" />
+            </buys>
+            <sells>
+                <resource type="fruit" amount="2000" />
+            </sells>
+            <trade_points>
+                <point x="330" y="660" />
+                <point x="360" y="660" />
+                <point x="385" y="662" />
+                <point x="515" y="695" />
+                <point x="550" y="675" />
+                <point x="575" y="650" />
+                <point x="580" y="610" />
+                <point x="570" y="585" />
+                <point x="575" y="560" />
+                <point x="595" y="540" />
+                <point x="620" y="545" />
+                <point x="665" y="553" />
+                <point x="713" y="555" />
+                <point x="750" y="545" />
+            </trade_points>
+
+        </city>
+        <city name="Tarraco" x="409" y="434" trade_route_cost="1200" trade_route_type="land">
+            <buys>
+                <resource type="iron" amount="300" />
+                <resource type="marble" amount="35" />
+            </buys>
+            <sells>
+            </sells>
+            <trade_points>
+                <point x="297" y="636" />
+                <point x="304" y="610" />
+                <point x="318" y="581" />
+                <point x="359" y="534" />
+                <point x="370" y="510" />
+                <point x="395" y="475" />
+            </trade_points>
+        </city>
+        <city name="Genua" x="600" y="375" trade_route_cost="2800" trade_route_type="sea">
+
+            <buys>
+                <resource type="olives" amount="200" />
+                <resource type="vines" amount="200" />
+            </buys>
+            <sells>
+            </sells>
+            <trade_points>
+                <point x="320" y="644" />
+                <point x="350" y="580" />
+                <point x="430" y="510" />
+                <point x="455" y="480" />
+                <point x="505" y="465" />
+                <point x="530" y="450" />
+                <point x="585" y="410" />
+            </trade_points>
+        </city>
+        <city name="Arminium" x="702" y="442" trade_route_cost="3200" trade_route_type="sea">
+
+            <buys>
+                <resource type="fish" amount="260" />
+                <resource type="iron" amount="140" />
+            </buys>
+            <sells>
+            </sells>
+            <trade_points>
+                <point x="330" y="660" />
+                <point x="360" y="660" />
+                <point x="385" y="662" />
+                <point x="515" y="695" />
+                <point x="550" y="675" />
+                <point x="575" y="650" />
+                <point x="580" y="610" />
+                <point x="570" y="585" />
+                <point x="575" y="560" />
+                <point x="595" y="540" />
+                <point x="620" y="545" />
+                <point x="655" y="532" />
+                <point x="680" y="495" />
+                <point x="683" y="470" />
+            </trade_points>
+        </city>
+        <city name="Alalia" x="631" y="502" trade_route_cost="1900" trade_route_type="sea">
+
+            <buys>
+                <resource type="clay" amount="200" />
+                <resource type="timber" amount="200" />
+            </buys>
+            <sells>
+            </sells>
+            <trade_points>
+                <point x="330" y="660" />
+                <point x="360" y="660" />
+                <point x="385" y="662" />
+                <point x="515" y="695" />
+                <point x="550" y="675" />
+                <point x="575" y="650" />
+                <point x="580" y="610" />
+                <point x="570" y="585" />
+                <point x="575" y="560" />
+                <point x="595" y="540" />
+                <point x="620" y="545" />
+                <point x="635" y="537" />
+            </trade_points>
+        </city>
+        <city name="Narbo Martius" x="440" y="405" trade_route_cost="1400" trade_route_type="land">
+
+            <buys>
+                <resource type="marble" amount="24" />
+                <resource type="stone" amount="300" />
+                <resource type="gold" amount="8" />
+            </buys>
+            <sells>
+            </sells>
+            <trade_points>
+                <point x="297" y="636" />
+                <point x="304" y="610" />
+                <point x="318" y="581" />
+                <point x="359" y="534" />
+                <point x="370" y="510" />
+
+                <point x="380" y="470" />
+                <point x="385" y="440" />
+                <point x="405" y="422" />
+            </trade_points>
+        </city>
+        <city name="Capua" x="852" y="570" trade_route_cost="2750" trade_route_type="sea">
+
+            <buys>
+                <resource type="sand" amount="200" />
+                <resource type="wheat" amount="280" />
+            </buys>
+            <sells>
+            </sells>
+            <trade_points>
+                <point x="330" y="660" />
+                <point x="360" y="660" />
+                <point x="385" y="662" />
+                <point x="515" y="695" />
+                <point x="595" y="690" />
+
+                <point x="625" y="690" />
+                <point x="650" y="675" />
+                <point x="670" y="650" />
+                <point x="725" y="625" />
+                <point x="815" y="605" />
+            </trade_points>
+        </city>
+        <city name="Caralis" x="623" y="649" trade_route_cost="4000" trade_route_type="sea">
+
+            <buys>
+                <resource type="clay" amount="200" />
+                <resource type="stone" amount="200" />
+            </buys>
+            <sells>
+                <resource type="fruit" amount="2000" />
+            </sells>
+            <trade_points>
+                <point x="330" y="660" />
+                <point x="360" y="660" />
+                <point x="385" y="662" />
+                <point x="515" y="695" />
+                <point x="595" y="690" />
+                <point x="620" y="680" />
+            </trade_points>
+        </city>
+
+        <city name="Syacusae" x="860" y="762" type="roman" />
+        <city name="Malaca" x="138" y="785" type="distant" />
+        <city name="Ruins of Carthago" x="658" y="775" type="distant" />
+        <city name="Patavium" x="725" y="329" type="vulnerable" />
+        <city name="Mediolanum" x="665" y="338" type="roman" />
+        <city name="Tarentum" x="947" y="582" type="roman" />
+
+
+    </cities>
+    <invasion_paths>
+        <path>
+            <battle x="170" y="766" />
+            <battle x="225" y="739" />
+            <battle x="262" y="708" />
+        </path>
+    </invasion_paths>
+    <distant_battle_paths>
+        <path type="roman" start_x="163" start_y="764">
+            <waypoint num_months="2" x="174" y="734" />
+            <waypoint num_months="3" x="170" y="683" />
+        </path>
+        <path type="enemy" start_x="69" start_y="646">
+            <waypoint num_months="6" x="112" y="668" />
+            <waypoint num_months="2" x="176" y="691" />
+        </path>
+    </distant_battle_paths>
+
+</empire>

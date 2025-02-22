@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>Conquest of Tarentum</title>
+		<subtitle>Aftermath of the Pyrrhic War</subtitle>
+        <text>@G[c3 stills_97.png]@L
+		@H Historical Background @L
+		The city of Tarentum was founded as a Spartan colony originally named Taras in 702 BC. As was the case for Brundisium, southern Italy was a popular site for Greek colonization resulting in a variety of different city-states, or poleis, at the times when Rome waged its wars of conquest in the area. @L@L
+		By the year 500 BC, the city was amongst the most populous cities in the whole world. An influential Tarentine general, or "strategos", named Archytas oversaw Tarentum being declared a hegemon over other Greek city-states in southern Italy during the city's golden age. @L@L
+		The city played its part in the Pyrrhic War which saw massive battles between the Roman Republic and Greek city-state of Epirus, which owned the area at the time. The city eventually fell to the Romans in the year 272 BC via the treachery of the Greek soldiers. Afterwards, Romans demolished the city's defensive walls. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Welcome governor, there is much to do for you so let us get to the task at hand: you are to rebuild Taras into Tarentum, a proper Roman colony. @L@L
+		The city lies in Magna Graecia, "Greater Greece", and the hinterlands are occupied mostly by Greek poleis (or city-states). They are expected to be resentful of Roman presence in the area with aggressive raids and incursions predicted to increase when Roman armies are occupied elsewhere.@L@L
+		This means that you will need to raise, train, equip, and feed a substantial defensive garrison at Tarentum to repel the attacks. My legates tell me that a force of around 6 @forts should suffice along with some defensive works to withstand even the combined strength of all the enemy poleis. @L@L
+		This will be of strategic importance. While Tarentum defends and bleeds the enemy dry, our legions will advance and conquer these cities once and for all. We are counting on your innovative approach to deal with any unforeseen occurrences as you have demonstrated before that you are a competent administrator that can be relied upon. @L@L
+		The terrain in Tarentum is not particularly rugged, with ample access to fertile lands and raw resources to establish a flourishing trade emporium and seat of Roman power. The only difficulty is that Tarentum is unable to grow locally, nor to even import, @olives. If you wish to supply your colonists with olive oil, you will need to import the finished good from abroad. @L@L
+		Surveyors have also reported rich veins of @iron @ore. Use this local resource to arm your forces and sell weapons to the rest of the Republic since at this time of near constant warfare, @weapons are always in high demand. @L@L
+		Good luck governor, your performance in Tarentum will determine our future endeavors in Magna Graecia for the foreseeable future. @L@L
+		
+		@H Edicts @L
+		@Military @Buildup - For the first 3 forts built and fully staffed with a complement of 16 soldiers each, your city will receive funding of 1500 denarii for each (the type of troops does not matter). @L@L
+		@Rich @Ore @Deposits - Iron and weapons produced locally are in high demand across the Republic. @L@L
+		
+		@H Additional Information @L
+		There are three invasion points: entry and exit zones are never foreign invasion points, but other exposed edges are potential threats. Take a good look at the map and evaluate where to build defensive works carefully. @L@L
+		Rome is still in its republic stage, so treat requests from "Caesar" as if they were from the Roman Senate instead. @L@L
+		@H Persistent Events @L 
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus30.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Tarentum1.mp3"/>
+    </message>
+	
+	<message uid="funding">
+		<title>(!) Extra Funding (!)</title>
+		<subtitle>Mustering Legions</subtitle>
+		<text> @G[c3 stills_108.png]@L 
+		@H Message @L
+		The Senate has sent extra funding to compensate for military buildup costs. 
+		@H Reward @L
+		1500 denarii acquired. @G[more_funds.png] @L@L
+		@H Historical Background @L
+		Roman military commanders were called legates, who were the people in charge of a single legion. These commanders held "imperium", or it could be said that they directly represented the power and being of the whole Roman state. Diplomats and consuls also held imperium, which to some extent explains the often-rude behavior of Roman diplomats sent to foreign courts and tribes. Bowing down to a barbarian king would be dishonoring imperium as if the whole of Roman civilization was bowing down. @L@L
+		There is much to talk about regarding Roman military systems and tactics. I will cover at least some of these aspects in future missions in bits where they're practical and topical. @L@L
+		For now, a basic explanation would be that much like the culture, early Roman military systems were heavily based upon the Greek phalanx tactics and formations along with skirmishers. @L@L
+		During the times of the Kingdom and early Republic, Roman troops were citizens who had to buy and upkeep their own kit. As such, poor citizens would only be able to act as skirmishers using slings/javelins or light infantry. @L@L 
+		Slings were common in Greek and Roman skirmishing roles due to their availability and the fact that many agrarian workers would use slings to drive off birds eating grain while farming or to protect a herd of sheep. This made for a natural pool of poorer recruits who knew how to use a sling effectively. @L@L
+		Slings would often be loaded with conical "bullets" made from lead or other metals, not just stones. Greek slingers would inscribe curses and mock enemies on the projectiles themselves. A hit from a sling at optimal range could cause significant concussion and damage even to troops wearing armor. Modern testing revealed slings would be capable of inflicting wounds similar to those caused by a small caliber firearm today. @L@L
+        Bows on the other hand were only rarely used, and due to the nature of the weapon, required years of training as well as higher upkeep and production costs of the weapon itself. Certain regions like the island of Crete, did have a strong archery tradition but it is an exception, rather than a rule. @L@L
+		Main armaments for heavy infantry included bronze or iron helmets, greaves, spears and an armor; swords only became popular later in Roman history. Heavy infantry would be called hoplites or Romanized "hoplitai", stemming from the Greek "hoplon" which is a word for equipment or "to equip". @L@L
+		Poorer soldiers would often only have a slab of bronze strapped to the chest to protect their center instead of a full thorax armor. Greeks were very fond of lino-thorax armor which, much like medieval gambeson armor, is made up of multiple layers of compressed cloth. This was highly effective for its cost and common in its use historically, in one form or another, from Mesoamerican civilizations to China where it was made of paper and silk. @L@L
+		Lino-thorax was however more than just layered cloth. It had less bulk since fewer layers were used and then resin or natural glue was applied. This offered great protection against cutting attacks especially. @L@L
+		As for tactics, phalanx formations fought in organized square or rectangle shapes of massed heavy infantry armed with spears and shields. Intimidation and organization often played a part in demoralizing enemies before a battle; but the main strength of the phalanx was the pushing power, as it was almost impossible to break through the side where the phalanx was facing. @L@L
+		Against disorganized foes, the only threat would be flanking since phalanx were very slow to turn which was its biggest weakness, or going over rough terrain which broke up the ranks. This was countered by massing more phalanx units to cover each other's flanks. If possible, cavalry and skirmishers would be used for harassment and flanking. @L@L
+		If two phalanxes met each other on the battlefield, the unit with longer spears, better overall armor and shield quality, and discipline were favored. If the units were evenly matched, they would often clash with their shields and push until the other unit broke apart. @L@L The typical Roman legion at this time would be comprised of 3000 hoplites, 1200 skirmishers, and 300 cavalry for a total of 4500 men. You can notice that even this early the Romans preferred and fielded very infantry-centered armies. @L@L
+		A final note about the use of bronze and iron in weapons and armor making. In European history, the Iron Age is dated to have begun around 1100 BC, thus even the earliest Romans could have had access to iron. We might think that iron is vastly superior in every way, but for ancient peoples, circumstances varied. Local deposits might be lacking or if present, smelting technology might be too primitive to effectively process it. Additionally, high-tin content bronze would often have strength comparable to iron. @L@L
+		The downside of bronze is the need for copper as well as tin ores, which were not as abundant in every region where these civilizations were established. @L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+
+	<message uid="side objective 1">
+		<title>(!) Trade Hub (!)</title>
+		<subtitle>A Resting Place</subtitle>
+		<text> @G[c3 stills_12.png]@L
+		@H Message @L
+		Governor, our advisors report that other cities in the Republic would gladly trade for our iron and weapons, but lack of safety and proper place to rest and recover after a long journey is discouraging. @L@L
+		If we construct a caravanserai in Tarentum, we could benefit from new potential trading partners becoming available to us. @L@L
+		@L@L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build a caravanserai to unlock 2 new land trade routes. @G[caravanserai.png] @G[decorative objetive .png] @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Tarentum no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+		
+	<message uid="side objective 1 completed">
+		<title>(!) Caravanserai (!)</title>
+		<subtitle>Trade Emporium Open for Business</subtitle>
+		<text> @G[c3 stills_12.png]@L
+		@H Message @L
+		Thanks to the comfort and hospitality provided by the caravanserai, traders can now rest and recover even after lengthy journeys within the safety of our city. @L@L
+		@H Reward @L
+		Two new cities can be negotiated with on the empire map. @G[ruta_nueva.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="wheat">
+		<title>(!) Agriculture (!)</title>
+		<subtitle>Wheat Farming</subtitle>
+		<text> @G[c3 stills_01.png]@L
+		@H Message @L
+		Governor, we could greatly benefit from wheat crops being grown in and around Tarentum. The climate is suitable for the crop, but we lack skilled workers. @L@L
+		Perhaps the goddess of fertility herself would hear our plea for help with the matter? @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build and staff 2 large temples to Ceres to unlock local wheat production.  @G[large_temple_ceres.png] @G[decorative objetive .png] @L@L
+		@H Historical Background @L
+		Romans believed the gods were real and their influence, happiness, or wrath could affect the mortal world in many ways. Not only did Romans think gods were real, but they thought that all gods were real. In their mind, enemies had powerful allies on their side if their pantheon and culture was well developed. @L@L
+		You may note the many similarities between Hellenic and Latin pantheons. This is no coincidence, since as was discussed before, Greeks had a significant presence in Italy dating back to the Bronze Age. Classical Greeks did not know about the Bronze Age collapse directly, but rather thought of it as a time of heroes, the conquest of Troy and Crete, as well as the time when gods walked the earth amongst the mortals, often in disguise. @L@L
+		Romans were envious of the Greek culture and how old and established their culture was. Their institutions, pantheon, and overall culture was heavily inspired by the Greeks, even going as far as to send envoys to bring democracy back to Rome after the Etruscan kings were banished from the city. @L@L
+		One other example would be how Romans envied the Odyssey and its cultural tradition on the Greeks as a whole. They developed a very likely fictional work by the Roman poet Virgil which was called Aeneid. In this epic poem, it's stated that Romans were escaped refugees from Troy after its conquest by the Mycenean Greeks, led by the Aeneas who was already a character mentioned in the Greek Odyssey. @L@L
+		One of the biggest strengths of the Roman state and why it was able to conquer much of the known world was the ability to integrate parts of the culture from conquered peoples into their own. @L@L@L
+		</text>
+		<media type="sound" filename="temple_love.wav"/>
+	</message>
+	
+	<message uid="wheat done">
+		<title>(!) New Crops (!)</title>
+		<subtitle>Ceres Rejoices</subtitle>
+		<text> @G[c3 stills_01.png]@L
+		@H Message @L
+		Wonderful news governor, I'm happy to report that Ceres must truly be happy with our dedications since wheat can now be reliably cultivated in our city! @L@L
+		@H Reward @L
+		Wheat unlocked for local production.  @G[wheat farm.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Fortified Tarentum</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L
+		@H Assignment Completed @L
+		I knew you would be a key to our plans, governor. As usual you did not disappoint my confidence in your abilities. In Tarraco, your skills in logistics are going to be used to their fullest potential. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus27.png"/>
+		<background_music filename="WinAssignment.wav"/>
+		<media type="speech" filename="Tarentum2.mp3"/>
+	</message>
+	
+</messages>

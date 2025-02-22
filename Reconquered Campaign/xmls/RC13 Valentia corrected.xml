@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1">
+    <message uid="intro">
+        <title>City of Valentia</title>
+        <subtitle>Crown Jewel of Hispania</subtitle>
+        <text>
+		@G[c3 stills_140.png]@L
+		@H Historical Background @L
+		The Roman city of Valentia Edetanorum was founded in 138 BC on the coast of the Balearic Sea in the province of Hispania. The name originates from the Latin word meaning "strength" or "valor", likely due to the Roman practice of recognizing the valor of former Roman soldiers after a war. The Roman historian Livy explains that the founding of Valentia in the 2nd century BC was due to the settling of the Roman soldiers who fought against the Lusitanian rebel Viriathus. @L@L
+		Many Roman cities were founded by settling veteran soldiers with their families. The success of this practice varied, as soldiers who were campaigning for 25 years would often know little about agriculture. @L@L
+		A Roman cultural belief was that every good politician would make an excellent general and vice versa. Similarly, they believed that every farmer would make a good soldier, and thus every soldier would make a good farmer. @L@L
+		Since there are no other major topics, let us cover the Roman triumph. A triumph was the highest military achievement a politician could attain and usually lead to a future political career, since during a triumph the armies and general would be invited by the Senate to Rome itself where they would parade in the streets and share the spoils of war, organize games, and show propaganda paintings. The biggest achievement would be to show and execute a monarch of the conquered peoples in one's triumphal procession, which is what happened to Vercingetorix during Caesar's eventual Gallic War triumph. @L@L
+		To be eligible to receive a triumph, there were two major requirements: a general had to successfully annex new territory for Rome and had to be acclaimed "imperator" by his own troops. Imperator can be understood as "one who commands" and would be a title reserved for generals who cultivated strong esprit de corps and were successful. @L@L
+		The Roman triumph was a celebration of achievements and thus, a form of rewarding merit amongst its leaders. Unfortunately, during the Late Republic even the act of awarding triumph was highjacked by factionalism and later during the Roman Empire, merit would be swept aside completely by rewarding people with familial ties to the emperor to centralize power. @L@L
+		This was one of the many reasons for the Roman Empire's eventual decline, as favoritism and cults of personality would erode and weaken institutions and see competence as a threat to the established order. Instead of granting competent generals a triumph, emperors would see them as rivals and threats. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+        Governor, the Republic is now in need of a colony on the coast of the Balearic Sea. The area chosen has plentiful local resources and fertile lands elevated on hillsides above the future city level. Most people will live on the hills surrounding the coastal center of trade. @L@L
+		As regards matters of commerce, many other cities in the region already have thriving industry and are not requesting manufactured goods. As such, your economy will need to rely on the bulk export of raw materials. You must wisely place your docks and warehouses to minimize transit delays; highways and even a lighthouse are also recommended, despite their high construction costs. @L@L
+		As the province is sparsely populated, your entertainment options will be limited until at least some patricians settle in Valentia. As you are far from the Roman heartland, corruption is expected to be a potential issue; monitor your city's treasury carefully to detect any accounting anomalies. @L@L
+		Rome is not currently involved in any large-scale conflicts in the area, so Valentia is in a safer position than many other cities in the Republic. However, the local Iberians are still a threat and may attack the city on more than one occasion. You will require a garrison of troops to ensure that peace reigns in Valentia. @L@L
+		Keep in mind that I will ask you to achieve levels of prosperity that have been unparalleled in your cities thus far. Good luck governor. @L@L
+		
+		@H Edicts @L
+		@Market @Saturation - You can only export raw materials and food, though in large quantities to many cities. Manufactured goods can be only used for local needs. @L
+		@Corruption - For every forum constructed, you will lose -2 favor per year, up to a max of -6 per year. This forum penalty is permanent. After subsidy expires, small amounts of money, scaled to your total population, will be embezzled from the city coffers each month. A city mint will generate additional personal savings if built and will reduce the severity of the embezzlement. @L
+		@Distant@ Province - Your entertainment options will be limited until 600 patricians are living in Valentia. @L@L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus10.png"/>
+		<background_music filename="ROME2.wav"/>
+        <media type="speech" filename="Valentia1.mp3"/>
+    </message>
+    
+	<message uid="corruption">
+        <title>(!) Corruption (!)</title>
+        <subtitle>Currency Standardization</subtitle>
+        <text>
+		@G[c3 stills_134.png]@L
+		@H Message @L
+		Governor, local corruption is causing significant losses each year. Building a city mint would allow more direct control over the quality of currency used. @L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build a city mint to gain an additional 50 denarii of personal savings each month. @G[city_mint_full.png] @G[decorative objetive .png] @L@L
+		@H Historical Background @L
+		Currency standards were very important even to pre-industrial and ancient societies. A system of weights and measurements would help to foster trade. @L@L
+		Tampering with currency by counterfeiting or clipping and damaging it would often be considered a major offense and a crime. @L@L
+		Clipping is shaving or shearing off edges of coins to accumulate extra silver or gold to sell. @L@L
+		Classical Roman currency can be seen in this picture. @L@L
+		@G[coins.png]@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="corruption solved">
+        <title>(!) Anti-Corruption (!)</title>
+        <subtitle>Currency Standards Implemented</subtitle>
+        <text>
+		@G[c3 stills_04.png]@L
+		@H Message @L
+		With the establishment of the new Valentia Mint, locally produced currency is now more resistant to damage and counterfeiting. These improvements, along with increased spending on anti-corruption enforcement, empower your civil servants to crack down on embezzlement and currency debasing.@L@L
+		@H Reward @L
+        Severity of embezzlement was reduced, and additional 50 denarii of personal savings will be gained per month. @G[add_personal_founds.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="patrican event">
+        <title>(!) Noble Tastes (!)</title>
+        <subtitle>Expanding the Ludi</subtitle>
+        <text>
+		@G[c3 stills_17.png]@L 
+		@H Message @L
+		Patricians of Valentia are demanding better entertainment! The taxes they pay can now fund an expansion of theatrical and sporting venues.@L
+		@G[c3 stills_118.png]
+		@H Reward @L
+		@P Arena, colosseum, and lion pits unlocked.@L @G[obj_ente_val.png] @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Valentia no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Rich Valentia</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		Well done governor, under your guidance Valentia has become a prosperous city in Hispania. @L@L
+		Your skills are needed back in Gaul once again. Lutetia awaits... @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus21.png"/>
+		<background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Valentia2.mp3"/>
+	</message>
+	
+</messages>

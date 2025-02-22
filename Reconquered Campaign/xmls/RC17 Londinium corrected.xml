@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>City of Londinium</title>
+		<subtitle>Capital of Roman Britain</subtitle>
+        <text> @G[c3 stills_73.png]@L 
+		@H Historical Background @L
+		Rome's first forays into Britain were under Gaius Julius Caesar during the Gallic Wars. On two separate occasions, he led a sizable expedition at the head of his legions. @L@L
+		Romans were intrigued by the rumors of gold laying openly on the beaches and immense riches for the taking in Brittania. This proved false, however. The invasion force was opposed right from the start. The Romans had to conduct a contested amphibious landing at the cliffs of Dover, where Briton tribes gathered an army for battle. @L@L
+		After a hard battle, Romans established their camps and found out that local villages were impoverished. Caesar's expedition had to retreat later due to supply difficulties and the fact he could not abandon Gaul for long for fear of a revolt. @L@L Britons, much like the Gauls, were a group of separate tribes, each ruling over their own territory. @L@L
+		In a second attempt, Rome defeated the Briton coalition which formed to oppose them and made allies and established client states. This would not last long, however, as Romans would not return to the island until 43 AD under Emperor Claudius. It was then when the Britons were finally brought under full Roman rule and large-scale colonization began. @L@L
+		Londinium was one of the biggest cities in Roman Britain and was founded at the site of an old Roman military camp. Even though the tribes were defeated, trouble would still be on the horizon for Romans in Britain, as mistreatment from the local armies would lead to widespread unrest. @L@L
+		To the north lay the land of Caledonia, inhabited by the Pictish people who were fiercely independent. The terrain and guerilla tactics would see Rome abandon the effort to try and subjugate them and instead they later built one of the largest fortifications in the ancient world, Hadrian's Wall. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, you are to travel to Britannia. For a provincial capital, Rome requires a large and prosperous city on the main island. The area selected for this task is on the banks of a large river, with plentiful clay and timber both for trade and for local construction projects. However, as it is far away from the rest of the empire, luxury goods and especially oil will be a challenge to import in large quantities. @L@L
+		You must establish an economy of scale, building a large city with mass production of pottery and furniture to export in bulk to other cities in Gaul and to fledgling colonies in Britain. Prices may be low, but the quantities of these goods demanded are immense. @L@L
+		Londinium is in a good position to establish itself as a major trade hub and support many cities with its exports. Though they are not available locally, if you import iron and vines, you could also expand into exports of weapons and wine. @L@L
+		If that was not enough of a challenge: I, Caesar, have decreed that taxes levied on Roman citizens in Britannia will remain low, to encourage colonists moving in to support our efforts; so do keep this in mind. @L@L
+		Lastly, I will take a moment to discuss military matters. Peace reigns in the Roman Empire and in the new province of Britannia, even though it remains a frontier province full of freshly subjugated peoples. @L@L
+		Despite the many peaceful Britons and the lack of any official wars, some local peoples remain hostile. Manage your legions well, governor, for they might be needed in the future, even if only as a deterrent against unrest. @L@L
+		
+		@H Edicts @L
+		@Roman @Britain - Academies are unavailable and the tax rate is locked at 4% (if exceeded, it will reset after one month and you suffer -5 favor penalty). @L@L
+		@Northern @Frontier - Oil, marble, and stone are expensive. Trade values are cheaper than usual, but you can export them in massive quantities. @L@L
+		@H Additional Information @L
+		In this assignment, the limitation of no academy means that you either must go for many 2x2 villas or build the Pantheon Grand Temple to allow one extra housing evolution to your main patrician block covered by its walker. @L@L
+		This is the first campaign mission that is in fact set during the period when Rome was an empire. @L@L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus21.png"/>
+		<media type="speech" filename="Londinium1.mp3"/>
+		<background_music filename="ROME2.wav"/>
+	</message>
+	
+	<message uid="Gladiator revolts">
+		<title>(!) Defiance (!)</title>
+		<subtitle>Briton Spirit Remains Unbroken</subtitle>
+		<text> @G[c3 stills_27.png]@L  
+		@H Message @L
+		Governor, the province has suffered a surge in slave unrest. Subjugated Britons are rising up against our practice of ludi. They refuse an honorable death in the arena and instead consider our practices cruel and unusual. There may be trouble on the horizon. @L@L
+		@G[decorative objetive .png] @H New Development @L
+		Persistent risk of gladiator riots. Building a colosseum would put a stop to such behavior (gladiator schools will spawn gladiators, but you can still use arenas and lion pits without issue). @G[coliseum.png] @G[decorative objetive .png] @L@L
+		@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="Revolts end">
+		<title>(!) Rule of Law (!)</title>
+		<subtitle>Let the Ludi Resume!</subtitle>
+		<text> @G[c3 stills_19.png]@L  
+		Governor, congratulations on your splendid new colosseum. The locals marvel at this feat of Roman might and engineering. They are sufficiently humbled, and you no longer need to worry about gladiator uprisings. @L@L
+		@H New Development @L
+		Gladiator revolt risk removed. If the colosseum stops working for any reason, the risk resumes. @G[mothball.png] @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Londinium no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="Iceni uprisings">
+		<title>(!) Queen Boudica (!)</title>
+		<subtitle>Revolt of the Iceni People</subtitle>
+		<text> @G[c3 stills_105.png]@L
+		@H Message @L
+		Governor, dire news has reached Londinium! The Iceni peoples are in open revolt against Roman presence, as a result of crimes, real or imagined, committed against them. Some other local groups are joining them, and there are reports of Romans being massacred by rampaging Britons. @L@L
+		A massive army is gathering near Londinium at this very moment. You must strengthen your defenses and prepare for a massive assault. Surrender is not an option; any Romans captured thus far have been brutally murdered. @L@L
+		@G[decorative objetive .png] @H New Development @L
+		Military activity will drastically increase, not unlike on Mediolanum, so prepare defensive works and recruit as many legions as possible. @G[Iceni_uprisings.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+	
+	<message uid="Boudica dies">
+		<title>(!) Boudica Defeated (!)</title>
+		<subtitle>Suetonius Crushes the Revolt</subtitle>
+		<text>  @G[c3 stills_108.png]@L
+		@H Message @L
+		This is a historical message of no gameplay significance. Attacks will continue, so as to provide challenging gameplay. @L@L
+		@H Historical Background @L
+		One year after the revolt began, the Roman general Suetonius utterly crushed the Iceni army, ending the uprising. Boudica later took her own life with poison and Roman forces reclaimed the province. However, the devastation that the revolt had caused was immense. Over 70,000 Romans and their Briton subjects were killed, and the largest cities in Roman Britain, including Londinium, were depopulated and razed. @L@L
+		The scale and nature of cruelty against civilians was unimaginable. Local soldiers valiantly attempted to defend civilians, often holding out for weeks inside temples or fortresses before being overwhelmed and slaughtered. Many Iceni looted Roman arms and armor and used them against the legions. Many of the settlers were retired Roman army veterans and, though aged, rallied under Suetonius, bolstering his numbers. Records written by Cassius Dio and Tacitus concerning the revolt portray the Iceni committing some of the worst acts of violence in all recorded history. @L@L
+		Roman Emperor Nero even considered abandoning the entire island during the revolt when it seemed all was lost before the surprising news of Suetonius' victory arrived. @L@L
+		The uprising came about due to the Romans' scornful dealings with the Iceni. They were treated as slaves even though they had peacefully entered into an association with Rome as part of an inheritance pact at the death of the king of the Iceni, Boudica's husband. The Roman forces ignored the king's will and violently seized Iceni lands, took slaves, flogged the queen, and raped her daughters. Even after such overt disrespect and oppression, Roman rulers ignored the signs of mounting unrest, allowing the situation to escalate into unprecedented disaster. @L@L
+		Suetonius was convinced that they would be defeated as the enemy advantages seemed insurmountable. His speech is often portrayed more flamboyantly but the most likely accurate version is as follows: @L@L
+		"Ignore the racket made by these savages. There are more women than men in their ranks. They are not soldiers - they are not even properly equipped. We have beaten them before and when they see our weapons and feel our spirit, they will crack. Stick together. Throw the javelins, then push forward: knock them down with your shields and finish them off with your swords. Forget about plunder. Just win and you will have everything." @L@L
+		After the battle turned into a rout, the Briton army was unable to disengage as their own wagons for supply and spectators blocked escape. Romans killed every person and animal that could be found in the Briton camp and on the battlefield, putting a brutal end to one of the most violent revolts in Roman history. @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+
+	<message uid="hint to build forts">
+		<title>(!) Mounting Unrest (!)</title>
+		<subtitle>Iceni Prepare for War</subtitle>
+		<text>@G[c3 stills_76.png]@L
+		@H Intelligence Report @L
+		Reports have arrived alleging that the Iceni tribe to the northeast has not planted any crops this year and are making weapons instead. This is most concerning.@L@L Consider raising legions to crush any potential uprising. @G[fort.png] @L@L
+		@H Historical Background @L
+		Ancient Britons would use tactics and equipment like the Celts, Gauls and to some extent, the Germans. Most of the armies would be made up of light infantry and skirmishers. Briton nobles preferred to use the chariot, however, which was mainly popular during the Bronze Age in other parts of the world. @L@L
+		Chariots would be used as a platform from which javelins would be thrown and it would goad enemies into breaking formation. In melee, chariots could charge but usually would dismount and fight as elite infantry to prevent damage to the chariot itself. @L@L
+		Most cultures abandoned the use of chariots for several reasons. Its high production and upkeep cost was one, and they could be too easily countered by massed skirmishers. Additionally, chariots required very flat land to operate, and battlefields often had obstacles, natural or man-made, on them thus keeping them out of certain areas. @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="oil alternatives">
+		<title>(!) Sunflower Oil (!)</title>
+		<subtitle>Local Substitute</subtitle>
+		<text>@G[c3 stills_74.png]@L 
+		@H Message @L
+		Governor, local apothecaries report that the local sunflower plants can be pressed for their oil content. This is not an efficient process, but it is the only viable source of entirely local-sourced oil, as olives cannot grow in the Britannic climate. @L@L
+		@H New Development @L
+		80 units of vegetables can be converted into 8 units of oil once every 6 months. Be sure to keep enough stockpile space open for the oil. This event only takes vegetables from warehouses. @G[oil_alternatives.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+    
+	<message uid="victory">
+		<title>Thriving Londinium</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		I'm impressed governor, not even the fierce Britons could put an end to your successful career. @L@L
+		Your talents are once more needed elsewhere however; Sarmizegetusa will test your resourcefulness. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus08.png"/>
+		<background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Londinium2.mp3"/>
+	</message>
+
+</messages>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE empire>
+<empire version="1" show_ireland="true">
+    <border density="29">
+        <edge x="805" y="545" />
+        <edge x="812" y="527" />
+        <edge x="786" y="512" />
+        <edge x="751" y="457" />
+        <edge x="703" y="480" />
+        <edge x="710" y="496" />
+        <edge x="728" y="494" />
+        <edge x="762" y="537" />
+        <edge x="774" y="544" />
+        <edge x="778" y="558" />
+    </border>
+
+    <cities>
+        <city name="Ostia" x="739" y="501" type="ours">
+            <sells>
+                <resource type="wheat" />
+                <resource type="timber" />
+                <resource type="clay" />
+            </sells>
+        </city>
+        <city name="Rome" x="765" y="480" trade_route_cost="100" trade_route_type="land">
+            <buys>
+                <resource type="clay" amount="30" />
+                <resource type="timber" amount="30" />
+                <resource type="wheat" amount="30" />
+            </buys>
+            <sells>
+                <resource type="fruit" amount="240" />
+            </sells>
+            <trade_points>
+                <point x="790" y="520" />
+            </trade_points>
+        </city>
+        <city name="Croton" x="934" y="657" type="future_trade" trade_route_cost="700"
+            trade_route_type="sea">
+            <buys>
+                <resource type="clay" amount="60" />
+                <resource type="timber" amount="60" />
+            </buys>
+            <sells>
+                <resource type="pottery" amount="35" />
+            </sells>
+
+            <trade_points>
+                <point x="745" y="530" />
+                <point x="777" y="557" />
+                <point x="800" y="580" />
+                <point x="826" y="600" />
+                <point x="873" y="632" />
+                <point x="888" y="673" />
+                <point x="875" y="725" />
+                <point x="880" y="730" />
+                <point x="892" y="735" />
+                <point x="905" y="730" />
+                <point x="930" y="695" />
+            </trade_points>
+        </city>
+        <city name="Campeva" x="834" y="565" type="distant" />
+        <city name="Carthago" x="656" y="771" type="distant" />
+        <city name="Veii" x="792" y="488" type="distant" />
+        <city name="Syracusae" x="856" y="764" type="distant" />
+        <city name="Tares" x="971" y="593" type="distant" />
+        <city name="Perusia" x="790" y="438" type="distant" />
+        <city name="Arretium" x="682" y="394" type="distant" />
+    </cities>
+</empire>

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>City of Damascus</title>
+		<subtitle>Roman Syria Established</subtitle>
+        <text> @G[c3 stills_120.png]@L  
+		@H Historical Background @L
+		Much like the founding of the province of Asia Minor after Pompey the Great's victory over Cilician pirates, the province of Roman Syria was also established. The area has been settled since 6300 BC and continuously inhabited by various cultures since. Damascus had been a significant trade hub throughout this entire time. It is believed that it would be through Syria where trade between Rome and ancient China would be established. @L@L
+		For most of Roman history, the largest foreign power at the border of Syria would be the Parthian Empire. This was a Macedonian successor state founded by generals of Alexander the Great, which merged Greek and Persian cultural and military traditions. Parthians would focus their armies heavily around the use of cavalry and archery. This was the direct opposite to the preferred way Romans fought at this time. @L@L
+		As mentioned before, Crassus' expedition into Parthian territory turned into a disaster at the Battle of Carrhae where virtually the whole force would be wiped out. After this defeat, Marcus Antonius would lead another expedition into Parthia this time using the mountains of Armenia whose king signed a treaty with the Romans. @L@L
+		Due to a lack of planning, strained logistics, and even Roman arrogance, this expedition was also a failure. The defeated Roman armies were pushed back and while lacking food and supplies the bands of survivors would look more like fugitives rather than soldiers. Following the Roman defeat, the Parthians subjugated the Armenian Kingdom. @L@L
+		In the year 53 BC, Parthians reconquered the province of Mesopotamia from the Romans, but they did not stop there. The conquest of Roman Syria followed, and many cities were lost. This only came to an end once a new general, Publius Ventidius Bassus, would defeat the Parthians, resulting in the death of the Parthian king and his successor on the battlefield. Heavy cavalry was beaten by holding high ground with infantry while behind them skirmishers inflicted losses and goaded the horsemen into disadvantageous combat. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Welcome to Syria governor, the assignment is not going to be simple. Local land is deprived of easy access to clean drinking water, which will impede the growth of any permanent settlement. The natives control each oasis that has access to clean water, so you will need to dig wells, at least until they have been dealt with. @L@L
+		Concerning economic matters, Damascus has no easy access to sea routes, so most of the western Republic is out of reach. Even so, the land trade potential is immense. The local area is also rich in high-grade iron ore, regionally prized and suitable for crafting quality weaponry. Olives and vines also grow easily near the oases, so your main concern will be procuring sufficient clay, as Damascus has no deposits of its own. @L@L
+		Military activity must not be underestimated. Parthia is at war with the Republic, and they would surely like to wrest control over the area out of Roman hands, so probing attacks and raids are to be expected. For this reason, your city would do well to establish adequate defenses, lest the Parthians find your city a tempting, easy target. Good luck, governor; make the Senate proud and expand Damascus into a thriving Roman city. @L@L
+		
+		@H Edicts @L@
+		Geography @of @Damascus - Iron and weapons are in high demand, while clay and pottery are expensive imports. Reservoir access is heavily restricted to start, with options to open it up in the future. Oracles, Mausoleums and Nymphaeums are unavailable. @L@L
+		@Eastern@ Provinces - You are only allowed to build and staff a single forum. Instead, the colony must subsist mainly by trade. If you build more than 1 forum, you will be penalized.@L@L
+		@H Additional Information @L
+		At the time of the mission, Rome was a republic so treat requests from "Caesar" as if they were from the Roman Senate instead. @L@L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus16.png"/>
+		<media type="speech" filename="Damascus1.mp3"/>
+		<background_music filename="ROME2.wav"/>
+		
+	</message>
+	<message uid="iron requests">
+		<title>(!) Damascene Steel (!)</title>
+		<subtitle>The Republic Demands Iron</subtitle>
+		<text> @G[c3 stills_142.png]@L  
+		@H Message @L
+		Governor, the Republic is in need of supplies of iron for weapons, tools, and other necessities. High-quality iron is absolutely necessary for the Senate and the people of Rome. Fortunately, Damascus is the perfect place to set up large-scale mining operations. @L@L
+		@G[decorative objetive .png] @H New Development @L
+		From now on, Rome will annually request iron. Requests for other goods may also happen concurrently. @G[Damascene_Steel.png] @G[decorative objetive .png] @L@L@L@L
+		@H Historical Background @L
+		Although not specifically tied to iron, we will review some aspects of Roman daily life. The classical Roman city dwelling was the insula, a tenement-like structure made of bricks and timber. Lower floors would be relegated to shops and workshops; a tavern or thermopolium (food court) was also a popular small business. @L@L
+		The higher up the insula, the less quality and thus cheaper the housing would be. At the top the apartments were shoddy and dangerous since building standards were rudimentary and often overlooked. @L@L
+		Richer Romans, would often have direct access to flowing water in their home from the local aqueduct, using gravity to pump water where needed. @L@L
+		Refuse and sewage would often run in the middle of the street in an indenture made for this purpose, or in larger cities, sewer systems like Cloaca Maxima in Rome would be constructed. This improved sanitation but poor citizens would still have to use public fountains, and sewage would still be running in the street in poor districts. @L@L
+		Most Romans would have a large breakfast of bread, cheese, cold meat, and olive oil for dipping the bread in. Even poor citizens needed large amount of nutrition due to the hard manual labor they had to perform. @L@L
+		Lunch would be smaller and often be bought while at work from one of the stalls, Romans were very fond of this "fast food". Popular snacks would be the precursor to pizza, where a sweet or savory base would be spread with cheese and herbs (tomatoes were not available to ancient peoples in Europe) and toppings would often be figs, meat, or olives. Other popular lunch options would be skewers of grilled meat and vegetables or similar food that could be eaten while walking. @L@L
+		Dinner would be a bigger course than lunch usually eaten at home, but breakfast was still the largest meal for most Romans. @L@L
+		As mentioned, the construction standards for buildings were rather rudimentary. Each household would also normally operate at least some source of open fire, making fire a real risk. Much like in the medieval period later, some cities suffered massive fires that caused much destruction. @L@L
+		Augustus founded the first public fire watch, called vigiles. Before Augustus, vigiles were privately owned slaves, dedicated for this purpose but it resulted in inefficiencies. Vigiles were organized much like military units and would patrol the streets to educate people on fire safety and prevent hazards. They would also help preserve public order and catch thieves. @L@L
+		During a fire, vigiles would be allowed to use sledgehammers to demolish houses to prevent fire from spreading, much like today's practice of making fire lines in a forest that is on fire to prevent its spread. @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="objective 1">
+		<title>(!) Missionaries (!)</title>
+		<subtitle>Securing Clean Water</subtitle>
+		<text> @G[c3 stills_67.png]@L  
+		@H Message @L
+		Governor, without clean water, the growth potential of Damascus is severely restricted. To secure access, you must petition the locals who currently refuse us access to the oases in the area. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Reach 2500 population and acquire 7000 dn. to unlock mission posts. 5000 dn. will then be spent for the unlock. @G[Missionaries.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Damascus no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="objective 1 completed">
+		<title>(!) Mission Posts (!)</title>
+		<subtitle>Locals Pacified</subtitle>
+		<text>  @G[c3 stills_04.png]@L 
+		@H Message @L
+		Governor, the locals have observed the growth of your colony and now have finally agreed to negotiations for allowing your engineers access to build reservoirs adjacent to their oases. Their terms are straightforward: they will sell the water rights for a sum of 5000 denarii and require regular Roman mission posts to attend to each oasis, as is standard practice for all Roman colonies. @L@L
+		@H Reward @L 
+		Mission posts unlocked. Paid 5000 denarii to mollify the local chiefs. @G[Locals_Pacified.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="Scouts">
+		<title>(!) Scouts (!)</title>
+		<subtitle>Equites Damasceni</subtitle>
+		<text> @G[c3 stills_122.png]@L 
+		@H Message @L
+		Governor, a report from your militia captain:@L
+		"Salve, governor. I have received conflicting reports from scouting parties concerning potential routes for invading armies. Some say that the terrain in the hinterlands is impassible to Parthian detachments, while others maintain that all the obvious attack avenues are potential threats. I implore you to recruit cavalry scouts so I can use them to thoroughly investigate all possible approach points that invading Parthian forces may take." @L@L
+		Your faithful captain, @L
+		Gaius Zaccharias Lusor" @L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Have 1 cavalry fort and 48 active soldiers to receive vital reconnaissance. @G[cavalry.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="scouts completed">
+		<title>(!) Safe Border (!)</title>
+		<subtitle>Cavalry Scouts Return</subtitle>
+		<text> @G[c3 stills_98.png]@L 
+		@H Message @L
+		Salve, governor. By the grace of Mars, your captain reports that scouts have discovered parts of the eastern areas safe from any possible attacks, due to impassable terrain. @L@L
+		@H Intelligence @L
+		The open map edge near the exit point is safe from any attacks. @G[free_invations.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+
+	<message uid="Far East">
+		<title>(!) Far-Eastern Empire (!)</title>
+		<subtitle>New Markets</subtitle>
+		<text> @G[c3 stills_14.png]@L
+		@H Message @L
+		Governor, explorers from an unknown empire in the east have arrived in Damascus. The foreign markets they represent could offer lucrative new trade opportunities, though the leader of their expedition indicates that a substantial tribute must first be paid to someone he calls the 'Son of Heaven' before trade convoys will be sent. @L@L
+		Perhaps mighty Jupiter or Mars once visited this land to the east and a descendant now rules there? In any event, your diplomats and scholars are extremely curious about these foreigners who have such exotic clothing and merchandise. @L@L
+		@H New Development @L
+		New trade partner unlocked. @G[ruta_nueva.png] @L@L
+		@H Historical Background @L
+		Historically speaking, Romans only began trading with China in 166 AD but for gameplay variety, an earlier trade route is included here. Envoys were sent even earlier but they were disrupted by the Parthians. Romans conducted trade with China even into Byzantine times buying spices and silk in exchange for Roman glassware and coinage. @L@L
+		This trade was conducted by land caravans as well as trade ships. Due to the sheer distance, this was never a massive undertaking, and the Roman economy would mostly stand on internal commerce as well as trade with its direct neighbors. @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="Forum">
+		<title>(!) Wrath of the Senate (!)</title>
+		<subtitle>Tax Violation</subtitle>
+		<text> @G[c3 stills_57.png]@L
+		@H Message @L
+		Governor, the local taxes and tariffs are to be managed directly by delegates from Rome, with a fixed remainder allocated for your city's upkeep. You are to cease any taxation in excess of this, or else suffer the consequences. @L@L
+		@H New Development @L
+		Lost 20 favor points and 1500 denarii. This can occur again; you are only allowed one forum in addition to a senate for taxation. @G[menos_favor_money.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Prosperous Damascus</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		I applaud you governor, Damascus is now a proper Roman city. It was no small feat achieving this in the inhospitable environment of Syria. @L@L
+		In Londinium, you will develop skills in use of economy of scale, selling many more goods but for lower prices to fund a massive city in Brittania. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus10.png"/>
+		<background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Damascus2.mp3"/>
+	</message>
+	
+</messages>

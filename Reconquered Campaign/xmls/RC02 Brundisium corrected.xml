@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1">
+    <message uid="intro">
+        <title>City of Brundisium</title>
+        <subtitle>Roman Expansion Begins</subtitle>
+        <text>@G[c3 stills_93.png]@L  
+			
+		@H Historical Background @L
+		In the year 245 BC, the Romans have conquered the city that will be henceforth known as Brundisium. The site was first settled in 16th century BC during the Bronze Age, archeologists have discovered shards of Mycenaean pottery in the area, and it is therefore likely that first settlers were ancient Mycenaean Greeks since ancient historian Herodotus spoke of the locals as of Mycenean origin. @L@L
+		At the time of Rome's rise to power, however, the locals were of Messapian culture, which is an Italic group of peoples. Its Messapian name of "Brention" which means "deer's head" likely referred to shape of the cities harbor. @L@L The city of Brundisium had vital importance as a trade hub and strategic port in southern Italia. In future conflicts and especially after the Punic Wars, it played a vital part as a crucial supply hub and naval base for the Romans. @L@L
+		Brundisium received its Roman citizenship rights in the Social War and was made a free port by Sulla. @L@L
+		Note that at the start of this assignment, Rome is no longer a kingdom but rather a republic, therefore you should treat requests from the "Emperor" as if they were from the Roman Senate. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Welcome to Brundisium governor. Roman armies sufficiently pacified the locals, so your only concern is still going to be city development. I wish for Brundisium to develop into a regional trade center. Use the ample local resources and fertile land in order to create a city of Roman standards, with adequate housing for all the workers as well as a sizable harbor area to facilitate overseas trade. @L@L
+		In Brundisium, you will familiarize yourself with a new step in each city's development. Before craftsmen who can create processed goods are attracted to your city, you will have to rely on agricultural activity, mining, or lumber industry to sustain the early growth of your colony. Fortunately, this process is helped by the monthly state subsidy of 100 denarii, granted to all fledgling colonies. @L@L
+		If you find the time in your busy schedule, I advise you to familiarize yourself with large scale constructions as well, as this vital skillset will be useful in the future assignments. Good luck governor, and do not disappoint the people of Rome. @L@L@L
+		
+		@H Edicts @L
+		@Abundant @Clay @Soil - Once the city has 5 active clay pits, you receive +2 clay and +2 sand into any warehouse that accepts these monthly. @L@L
+		@Cultural @Influence - Trading with any cities in Greece will cause an extra drop of -2 favor per year. Libraries are enabled at the start from this map onwards. (Cities in Greece are Corcyra and Epidamnos)@L
+		
+		@H Additional Information @L 
+		The terrain on most maps will retain its fundamental structure of the base campaign map, but with rocks/cliffs/water added to break up standard blocks and offer more of a challenge. Almost all maps should start with a pre-built city from historical standpoint, but since most people would not like to deal with pre-built areas, for the sake of gameplay, pre-built structures on the map will be limited. @L@L
+		You will also be introduced to a new concept also present on all future maps: the subsidy mechanic. This will be explained in detail in a separate message during this mission. @L@L@L
+		The military and peaceful paths have been merged into one, and you should play all the maps in order for the recommended experience. Economic missions will generally be more difficult, featuring logistical and space constraints, but military missions will have economic and developmental constraints as well. @L@L
+		If you wish to learn how to construct monuments, achieve 1500 population and a side objective with marble will be unlocked. @L@L
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L 
+		</text>
+		<media type="background_image" filename="augustus04.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Brundisium1.mp3"/>
+    </message>
+	
+    <message uid="subsidies">
+        <title>(!) Senate Subsidizes Colonization (!)</title>
+        <subtitle>Initial Funding</subtitle>
+        <text>@G[c3 stills_04.png]@L 
+		@H Message @L
+		The Senate is funding our efforts, sending 100 denarii monthly. This will last until the colony reaches a prosperity rating of 10. After this subsidy expires, the colony will then be able to build workshops. @L@L
+		This mechanic will be present in all subsequent maps. It is there to promote natural progression while also reducing the initial budget deficit and balancing overall growth.@L
+		@G[decorative objetive .png] @H New Objective @L
+		Achieve 10 prosperity to unlock workshops. @G[more_properity.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="workshops">
+        <title>(!) Subsidy Expires (!)</title>
+        <subtitle>Workshop Construction</subtitle>
+        <text>@G[c3 stills_74.png]@L @H Message @L Congratulations on achieving a moderately prosperous colony! The colonial subsidy has accordingly expired, but now you may construct workshops and manufacture goods of much higher value. @L@L These goods may be exported for profit or used to improve the living standards of our populace. @L@L @H Workshops Unlocked @L Workshops produce 4.8 cartloads of goods per year, so as a rule of thumb with couple of exceptions you need 2 workshops for a single raw resource producing building to run at maximum efficiency. @G[workshop.png] @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="elections">
+        <title>(!) Elections (!)</title>
+        <subtitle>Ascending Cursus Honorum</subtitle>
+        <text>@G[c3 stills_125.png]@L
+		@H Message @L
+		Governor, it is time for new elections in Rome. This is a great opportunity for you to gain additional personal funds to offset any potential favor repercussions for trading with the Greeks. To be victorious in the elections, you will need to organize games to cultivate support in Rome. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Import and stockpile 24 units of @wine and store 64 units of @wheat to send to Rome; this will be done automatically once the goods are accumulated. Rewards will be an extra 25 denarii monthly @salary which will be added automatically on top of your rank. @G[Elections.png] @G[decorative objetive .png] @L@L@L
+		@H Historical Background @L
+		Cursus Honorum or Course of Honors, is Roman system of political offices. Only people elected to one of the offices would hold a seat in the senate and, if elected to an office of praetor or consul, could be assigned tasks of governing provinces, administrating the Roman state and commanding legions. People who held an office in the past would have "pro" added before their title. As an example, a consul whose term has run out would be called a proconsul, allowing them to still participate in public life in the Senate and continue to serve in the provinces. Lower ranks such as quaestors would hold judiciary powers while aediles would be responsible for organizing festivities, upkeeping temples, and other aspects of public life and day-to-day operations of the Roman state. @L@L
+		One cannot say that the system was meritocratic, since even after the rise of the Republic, patricians still held vast majority of offices and actual power. In elections the poorest citizens would only get to vote if the upper and middle strata's vote did not result in a landslide victory, in which further voting was not held by the lower classes. @L@L
+		Before elections, it was common to organize festivities and games from personal funds to gather support from the people as well as make political alliances with other politicians. Running on a joint ticket was allowed and bribery was illegal but very common. @L@L
+		At the top of Cursus Honorum were two consuls, the highest elected officials who held power jointly for a period of one year. Each month consuls would switch initiative in introducing legislature which Romans refer to as holding "fasces". Fasces were bundles of sticks tied together and were a symbol of ultimate state and military power. Axes would be added if a consul was on a campaign in which case he held power over life and death of any citizen. @L@L
+		Fasces were carried by "lictors" who served as consular guard in the city of Rome and on campaign. In the city of Rome itself, there was a rule that prohibited citizens from carrying weapons, although clubs and knives were allowed. Military commanders had to resign from their command and were prohibited from bringing soldiers close to Rome unless they received special dispensation from the Roman Senate to allow a triumph. Gladiators would have an exception which some politicians used to create mercenary companies under their command. @L@L
+		The Roman custom of demilitarizing the capital city was based on a concept of "pomerium", an imaginative border of the city. Each city usually had a pomerium, but not every city prohibited carrying of weapons. Rome's pomerium was the most sacred since Romans believed it to go back all the way to times of Romulus and Remus at the mythical founding of the city, where Romulus and his group dug a defensive trench around the Capitoline Hill which would become the original pomerium. @L@L
+		As a justification for the fratricide Romans believed that the reason for violence was the "breach" of pomerium by Remus and thus justified his death. @L@L
+		Size of the pomerium was eventually entirely incapsulated by outlying urban sprawl, but the pomerium would still be demarked as a trench with gates. Even so, Romans took pomerium very seriously and kept the concept sacred even at the times of festivities, when for example Pompey Magnus with a chariot pulled by elephants could not fit through one of the gates during his triumph, no one suggested going around the gate and instead a new chariot was fetched. @L@L
+		In order for lower strata in Roman society to have a say in the matters of politics, offices of Tribunes of the Plebs were established. Tribunes would be elected solely out of the plebeian classes. Same as other elected officials, tribunes had a power of veto which could dismiss any legislation which was being proposed. This resulted in political crises in the times of Julius Caesar, where opposing parties would sandbag and veto any legislation for ideological reasons, paralyzing the whole Roman political system. @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+    </message>
+	
+    <message uid="Marble">
+        <title>(!) Marble Mining (!)</title>
+        <subtitle>Profitable Ventures</subtitle>
+        <text>@G[c3 stills_126.png]@L
+		@H Message @L
+		Salve governor, I'm Proconsul Atilius. My advisors have told me of immense riches ripe for exploitation in your new provincial capital. Within the mountains are hidden precious veins of marble, a commodity that is highly desired in all major cities of our Republic. @L@L
+		I offer you this opportunity so that we may, together, grow our wealth and influence. I will provide your city with skilled artisans for extracting the @marble, while you provide manual labor for use in daily quarrying operations.@L@L
+		Sincerely,@L
+		Marcus Atilius Regulus, Proconsul of Rome.@L@L@L
+		@H Unlocked @L
+		Monuments and marble quarries. @G[monuments_marble.png] @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		This is an optional objective that is not required to complete the scenario. It will introduce you to monument construction. In further missions, there will be similar side objectives for extra funding, new resources/buildings, and so forth. There will be a cost or task associated with them. @L@L
+		If you wish to sell marble overseas, it wil be necessary to allow new resource in the docks by checking its "special orders" menu. Resources that were not available at the start of a map but were unlocked later, will need to be permitted this way in docks and markets. @L@L
+		Build and staff 5 @marble @quarries, as a result quota of marble exports to Sena Gallica will increase. This will also grant access to academy, hospital, arena, and lion pit for those who want to push all the way to patricians. @L@L 
+		You can use marble to build advanced buildings that are called monuments. If you place down an oracle, clicking the construction site will bring up a message containing all necessary information about how monuments are constructed and their benefits. As a start, constructing a Grand Temple to Mercury would grant you access to plazas, which is a mechanic persistent in all the campaign maps. @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="plaza">
+        <title>(!) Plaza Unlocked (!)</title>
+        <subtitle>Tiles and Mosaics</subtitle>
+        <text>@G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Plaza unlocked @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="epithets">
+        <title>(!) Monuments (!)</title>
+        <subtitle>Augustus Mechanics</subtitle>
+        <text>@G26 
+		@H Message @L
+		This is a tutorial message for people who might not be familiar with monuments and their bonuses. To build monuments, you place a foundation and pay the upfront cost; then connect a middle tile of the construction site to the road network. Add an architects' guild and a work camp on the same road layout. Make sure to have access to warehouses stocked with timber, bricks, stone, marble, or gold (gold is only required for the Pantheon).
+		@G[camp_and_architect.png]
+		@L@L Work camps will collect resources from warehouses and deliver them to the sites that require them, then an architect from the guild will inspect the site, which can take multiple trips. Additional work camps closer to resources and architects' guilds closer to the building site will help to speed up construction. Note that some monuments have multiple stages to complete which are visually represented. Additionally, most monuments, all forts and temples, as well as highway tiles have a monthly levy (aka upkeep cost) associated with them. Consider building a highway when your city is unable to meet all the required quotas for speedier caravans as well as immigration. @L@L
+		@G[light_and_carava.png]
+		The caravanserai and lighthouse are monuments specifically related to trade. Both offer the city the choice of a trading policy which boosts trader capacity or prices for imports/exports. The caravanserai consumes 20 units of food (100 units is 1 granary/warehouse cartload) for any caravans that spawn into the map but reduces land interruption event length by 50 percent. Note that it will require a granary with market lady access enabled to collect the food or its benefits and policy will cease to function. Also note that caravans do not need to physically travel to the caravanserai so it will not impact your caravans' destinations on the map. @L@L
+		The lighthouse needs to be built near water and it burns 4.8 cartloads of timber per year to function (half the output of a single timber yard) and its benefit is that fishing boats travel 10 percent faster and sea trade disruptions are cleared 50 percent faster. If there is not enough timber to burn the lighthouse will cease to function. The lighthouse collects timber from a warehouse, and the warehouse needs to allow lighthouse access. @L@L
+		@G[city_mint_full.png]@L
+		The city mint requires a Senate to be built and will offer two options to the governor: either convert cartloads of gold into money for the city and if city contains a governor's residence, it also provides extra personal funds; or it can also be used to melt city money into cartloads of gold that can be used for building the Pantheon on maps without local or tradable gold, or exports if prices allow this to be viable.   @L@L
+		@G42 @L Why would a governor invest into monuments? I will list some examples of uses for monuments but there are many, and Augustus has converted some original structures into monuments as well so it's always up to the governor to decide. @L@L
+		@G[mausoleums.png]
+		- Mausoleums (first 5 large ones or 10 small ones) give the city a small global health bonus. Augustus features a global health malus mechanic, which impacts the city health as it grows in population. Mausoleums will help to mitigate this debuff. They are also undesirable in their immediate area but give bonuses to houses further away from them. Mausoleums also provide worship space for all gods, same as an oracle.  @L@L
+		@G[hippo_coli.png]
+		- Colosseum and hippodrome will give all houses, even without direct access to them, a +5 bonus to entertainment, regardless of where they are constructed. If you build both, houses get +10 so it stacks. For context, an increase of 10 entertainment points is a requirement to evolve from large to luxury palace or all the entertainment needed for large casa.  @L@L
+		- Grand temples have global bonuses for building them and provide 4000 worship space for their specific god. The Pantheon provides worship for all gods at once but less space. Note that to get access to any main bonus you only need to construct said temple. To get the benefits of epithets to your housing, they will need to have access to that god's priests. Any priests will do, even small temples will provide the required coverage in your blocks. @L@L
+		I will list the bonuses for building the grand temples and then also list their epithets. These are additional bonuses you can choose from after a grand temple is completed and fully staffed. Each grand temple can only have 1 epithet, and it cannot be changed unless you delete the monument so choose what would benefit your city the most wisely. Each grand temple has substantial upkeep and worker cost. You can increase the maximum number of grand temples you can have in the game's difficulty settings. @L@L
+		@G[gt_ceres.png] 
+		- Ceres grand temple: gives cart pushers from farms 50 percent speed bonus.@L Fecunda epithet - houses covered by a Ceres priest consume 20 percent less food.@L Frigifera epithet - Ceres temples act as markets and collect and distribute one locally produced food type as well as oil. @L@L
+		@G[gt_neptune.png]
+		- Neptune grand temple: boosts reservoir and fountain range by +1 tile, reduces water services labor costs by 50 percent, boosts trading ships travel time by 25 percent, as well as reduces sickness growth in all houses in the city.@L Equester epithet - sends chariots from the Neptune grand temple as destination walkers to hippodrome if one is present in the city.@L Adiutor epithet - gives houses covered by Neptune priests extra 5 percent population space and make the grand temple itself act as a reservoir coverage for nearby fountains, therefore allowing water access to areas previously inaccessible with water.  @L@L
+		@G[gt_mercury.png]
+		- Mercury grand temple: land and sea traders get 50 percent extra goods capacity, and land and native traders get extra 20% speed bonus.@L Fortunus epithet - reduces pottery and furniture consumption in houses covered by priests of Mercury by 20 percent.@L Mercurius Mercator epithet - reduces oil and wine consumption in houses covered by priests of Mercury by 20 percent.@L In the Reconquered Campaign, GT to Mercury also unlocks the plaza on every map. If you struggle with desirability, try to build blocks on high ground to get a free boost to all houses built on high ground; a similar bonus applies to houses adjacent to water.  @L@L
+		@G[gt_mars.png]
+		- Mars grand temple: allows your city to construct 4 extra forts, up to maximum of 10 total and acts as a second barracks.@L Ultor epithet - makes all priests of Mars generate food as they walk past houses which they will then later deliver to the supply post for the soldiers to eat, this food is generated so it does not increase consumption.@L Quirinus epithet - reduces all goods consumption in houses covered by all Mars priests by 10 percent.  @L@L
+		@G[gt_venus.png]
+		- Venus grand temple: decor has boosted desirability, houses can stockpile more goods in them and devolve slower.@L Verticordia epithet - acts as a second wine type produced within the city, Venus temples can also be set to distribute wine that they gather based on city pop.@L Genetrix epithet - Venus priests give +10 entertainment to housing and greatly boost desirability of houses they cover.  @L@L
+		@G[phanteon.png]
+		- Pantheon grand temple: reduces levy costs for religious buildings in the city by 25 percent, allows to hold annual festivals to chosen deity and when gods are happy, prevents events such as contaminated water, collapses of mines and clay pits from occurring in the city.@L Ara Maxima epithet - all small and large temples will send an extra priest as a destination walker to the pantheon.@L Roma Aetherna epithet - gives houses covered by the pantheon walker ability to evolve one extra step even without having the prerequisite needs met (helpful on maps without academies and high prosperity).  @L@L
+		As always consider reading the manual or watching my videos on feature breakdowns on YouTube for more information. @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+    </message>
+	
+    <message uid="marble completed">
+        <title>(!) Marble Quotas (!)</title>
+        <subtitle>Trading Opportunities</subtitle>
+        <text>@G[c3 stills_115.png]@L
+		 @H Message @L
+		 Proconsul Atilius used his political connections and pressured merchants from Sena Gallica to accept more of our marble exports. @L@L
+		 @H Reward @L
+		 Marble quotas increased. Academy, hospital, arena, colosseum, and lion pits unlocked. @G[marble_completed.png] @L@L
+		 From now on, in this scenario, if you achieve the population goal, your prosperity will rise by an additional +1 point every 3 months. @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="elections won">
+        <title>(!) Elections Won (!)</title>
+        <subtitle>Political Career</subtitle>
+        <text>@G[c3 stills_125.png]@L
+		 @H Message @L
+		The campaign was a success, you have won a seat in the Senate and have been granted additional salary. @L@L
+		@H Reward @L
+		Personal savings give +25 denarii extra each month from now on. @G[add_personal_founds.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+    </message>
+	
+    <message uid="victory">
+        <title>City of Brundisium</title>
+        <subtitle>You are Victorious</subtitle>
+        <text>@G[c3 stills_127.png]@L 
+		@H Assignment Completed @L
+		Brilliant performance governor, Brundisium has been developed exactly as I have envisioned it. We will see if the saying that a good statesman is a good general holds true soon. @L@L
+		Peaceful times are almost over as I'm in need of generals as well as governors. Before we delve into that, there is however one more peaceful assignment for you - Capua awaits! @L@L
+		</text>
+        <media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus21.png"/>
+		<background_music filename="WinAssignment.wav"/>
+		<media type="speech" filename="Brundisium2.mp3"/>
+    </message>
+</messages>

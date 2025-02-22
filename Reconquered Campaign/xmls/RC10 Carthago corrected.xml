@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>Second Carthago</title>
+		<subtitle>Rome Resettles in the Area</subtitle>
+        <text> @G[c3 stills_121.png]@L @L 
+		@H Historical Background @L
+		Roman Carthago was founded in 49 BC by the Romans in the area of the original Punic city which was razed to the ground in the year 146 BC after the conclusion of the Third Punic War and a long siege. Victorious Roman armies famously burned the city to the ground, eradicating or enslaving virtually all of its inhabitants, salting the ground so nothing would grow, and every structure and fortification that was left was destroyed stone by stone. @L@L
+		Since no substantial settlements were in the area for a hundred years, there were ruins and local natives remaining. The area, especially the old harbor, has fallen into a serious state of disrepair and sediment has accumulated in the harbor. This caused the Romans to eventually abandon this project and try to find a new natural harbor in the province of Africa. @L@L
+		The first triumvirate, or power pact between Caesar, Pompey, and Crassus, came to an end after the Gallic Wars. Crassus sought the glory of conquest and lead an army against the Parthians. He was never to return however, as his army was virtually destroyed and he was executed, some believe by pouring molten gold into his throat. This eroded the careful balance of the triumvirate, and Pompey started to make moves to distance himself from Caesar, cutting familial ties and political connections. @L@L
+		Pompey relegated command of his assigned provinces to his subordinates and while Caesar was still in Gaul, he enjoyed perks of being the most powerful man in Roman politics. The conservative faction saw their opportunity and pandered to him to secure his support against Caesar. @L@L 
+		As previously mentioned, the issue was that Caesar had held his office for longer than was normally allowed. The Senate had given him dispensation for this before but now Caesar's enemies spun the affair on a technicality and argued for his immediate resignation. @L@L
+		Caesar intended to immediately run in a new election for consulship which along with his current posting would allow him to keep political immunity from prosecution. His many enemies were waiting for an opportunity to have Ceasar exiled for his alleged and real trespasses against Roman law. Caesar did unrightfully imprison a fellow senator during his term and committed other small transgressions. @L@L
+		When the Senate refused to allow his extension, it eventually led to Caesar crossing the river Rubicon and starting a civil war. We will now refer to supporters of Caesar as Caesareans or the Caesarean faction rather than the reform faction and to the supporters of Pompey as Pompeians or the Pompeian faction rather than the conservative faction. @L@L
+		After crossing the Rubicon, Pompey started to raise legions in Italy, but it was too late. The decision was made to abandon Italy and, along with most of the Senate, evacuate to Greece. Since Pompeians controled most of the provinces and legions abroad, long war was favorable to them at least on paper. @L@L
+		
+		@G[c3 instructions icon.png]
+		@H Instructions @L
+		Governor, an important missive has arrived. Proconsul Julius Caesar has revolted against the Republic and crossed the river Rubicon. This means war and Pompey Magnus has already decided that we must abandon Italia to fight the long war in Greece where additional forces muster. This situation will have far reaching consequences and so I inform you, that if you are approached by any Caesarean officials, you must remain true and stand with the Senate and the Republic. @L@L
+		You will travel to Africa, where the old ruins of Carthage could still be resettled, despite the treatment victorious Roman armies administered a century ago. Local resources are relatively limited and there are still hostile Numidians in the area. The Carthaginian port should, however, allow for ample use of the available sea trade routes within the Republic. Vines and olives can be cultivated and so luxury goods are going to become your city's specialty. @L@L
+		Unfortunately, the trade options are currently somewhat limited. If we wish to trade with more cities, we should construct a lighthouse to guide more ships to our harbors. There are also natives still living in the local area; some of them seem to be willing to cooperate but enticing them with knowledge and Roman goods seems necessary. Expect hostile Numidians to start launching raids into the area as the turmoil in the civil war will draw attention to undefended colonies from all enemies of Rome. Be prepared governor and do not take this aspect of the assignment lightly.  @L@L@L
+		
+		@H Edicts @L
+		@Alea @Iacta @Est - A civil war has started between Gaius Julius Caesar and Gnaeus Pompey. Future events will have you choose a side, each with different benefits (the historical and @harder option is to side with Pompey but choose as you wish). @L@L
+		@Ruins - You start with several preplaced forums that cannot be rebuilt if destroyed. Building a lighthouse unlocks more trade routes (this is supposed to reflect rebuilding the Carthaginian harbor). @L@L
+		
+		@H Additional Information @L
+		There is substantial military activity; as always, look for invasion points in areas with open map edges. @L@L
+		Some goods on this map will start to be very expensive to import. Going forward, this will usually be the case for the reasons of scaling economy and large export quotas. If we are to preserve no need for labor sponging, as maps get larger and requirements higher, there will be a need to lower export prices as well; generally, trading in bulk is still very profitable. As an example, instead of selling 15 units of pottery at 140 denarii each, you can export 80+ units but for 90 denarii each.
+		@H Persistent Events @L
+		Grand Temple to Mercury unlocks plaza. Subsidy lasts until 10 prosperity is achieved and gives 100 dn. monthly until it expires. Workshops only unlock after subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L  
+		</text>
+		<media type="background_image" filename="augustus17.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Carthago1.mp3"/>
+        </message>
+	
+	<message uid="civil war event 1">
+		<title>(!) Battle of Pharsalus (!)</title>
+		<subtitle>Defeat of the Pompeians</subtitle>
+		<text> @G[c3 stills_32.png]@L @L 
+		@H Message @L 
+		Dire news governor, Pompey Magnus has been defeated in the battle of Pharsalus. We must now seek support in the wider provinces and carry on with the war there. Your city is not an exception, prove your loyalty by accommodating fleeing officials. @L@L
+		@G[decorative objetive .png] @H New Vital Objective @L
+		You can choose to either support the Pompeian or Caesarean forces in this event. How you choose will affect how the map will play out. Opening the trade route to @Utica will support@ Pompey. If you do not open this trade route within a year, you will support @Caesar. @L
+		@H Options @L
+		- Supporting@ Pompey lets you keep the trade route to Utica and gives 2000 denarii but will cause several Caesarean invasions later. This is the miltiary path with simpler economy management. @L@L
+		- Supporting @Caesar will reduce some of your export prices but you will gain +1 favor per year. This is the economic path with simpler military. @G[civil_war_event.png] @G[decorative objetive .png] @L@L@L
+			
+		@H Historical Background @L
+		When the Pompeians fled Rome, they left behind much of the Republic's treasury which Caesar confiscated. He did not, however, create any proscription lists. "Proscriptions" were a practice where a ruling party, usually during a civil war such as with Sulla and Marius, would create a list of political adversaries. Any people on the public list could be freely killed by any citizen and the killer would gain a portion of the victim's wealth as a reward; with the rest of the property going to the Roman state. @L@L
+		Caesar did not want to antagonize the Roman people and purposefully avoided this, as well as executing captives. He granted freedom to many opponents and even allowed them back into the Senate to gain legitimacy. @L@L
+		In short, Caesar wanted his regime to last. This act of mercy directly led to his eventual demise, as the masterminds of the conspiracy that was behind his eventual assassination were people who opposed him politically, or were those on the battlefield that he chose to pardon. @L@L
+		As for the fate of Pompey, after the battle of Pharsalus, he fled to Egypt which was a Roman client state. There, he was assassinated by the agents of the Ptolemaic court and his head presented to Caesar during his visit shortly after. @L@L
+		Caesar is said to have recoiled at the site and refused to look at it. He seemed to be genuinely heartbroken over Pompey's death as he knew him personally for a long time and they shared an agenda before. More than that, a pragmatist would say that Caesar wanted Pompey as a trophy to show to the people of Rome, so he could say how merciful he is by bringing him back. This would undoubtedly boost Caesar's legitimacy even further. @L@L
+		Skeptics would remind you that during one of his later triumphs, Caesar presented art depicting Pompeians taking their life and dying as part of the propaganda parade. @L@L
+		The civil war saw Caesar fight battles in Greece, Egypt, Asia Minor, and Spain. Eventually, all remnants of the Pompeian faction were defeated and Caesar sat atop the Roman political system as the victor. His behavior became increasingly authoritative, and his rump Senate showered him with titles. @L@L
+		He would be granted a right to openly wear a purple toga reserved for triumphators and generally act in a way that showed the Senate as his inferior. @L@L
+		Caesar also expanded the Senate, since the civil war left it severely understaffed. He allowed Italian aristocrats to hold positions, and even invited Romanized Gauls and his retired centurions as well. @L@L
+		Even though many actions may seem borderline authoritarian, Caesar's efforts undoubtedly improved a lot of the broken institutions, and Caesar himself was an extremely talented statesman and general. @L@L
+		His legacy would survive his assassination since the political maneuvering of Marcus Antonius and Caesar's adoptive son Octavian resulted in the assassins being effectively exiled from Rome for their own safety and later, they would nearly all be killed in the following civil war. @L@L
+		People loved Caesar and his reforms. When Antony held speech at his funeral, the crowds were riled up when a figurine with indications of a stab wound and bloody clothes were displayed. The crowds seized Caesar's body and went to build him a pyre in the middle of the Forum. At first, benches were broken and piled up, then anything from nearby buildings. The pyre was set alight, and women spontaneously threw their jewelry into the flames and people ripped clothes off to throw them in. Soldiers threw in weapons and armor. @L@L
+		As others have put it before: Caesar's victories almost made him a king, but his assassination and funeral made him a God. @L@L@L@L	
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+	</message>
+	
+	<message uid="civil war pompei">
+		<title>(!) Loyalty First (!)</title>
+		<subtitle>Senatus Consultum Ultimum</subtitle>
+		<text>@G[c3 stills_04.png]@L @L 
+		@H Message @L
+		You have chosen wisely governor; thanks to your support we can now continue our war efforts from Africa. Muster additional legions, for they will surely be needed. @L@L 
+		@G[decorative objetive .png] @H New Development @L
+		Caesarean forces are expected to invade in about 30 months. Prepare defenses and raise additional legions. To fund these preparations, the Senate has sent you 2000 denarii (after 3 attacks you will be informed about developments). @G[civil_war_pompei.png] @G[decorative objetive .png] @L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="civil war caesar">
+		<title> (!) Caesarean Coup (!)</title>
+		<subtitle>Africa Joins Caesareans?</subtitle>
+		<text> @G[c3 stills_132.png]@L
+		@H Message @L
+		Ave governor, you have done well by siding with me in this senseless war. It pains me to see so many good Romans die but this injustice cannot be allowed to continue. Not only have I risen up in arms justly, but my actions prove it. I did not proscribe any of my many enemies, even though many say I should not show mercy where I would receive none, if the situation were the opposite. @L@L
+		I believe in giving people a chance to correct their mistakes. Unfortunately for many, this was impossible, and they chose a foolish death on the battlefield instead of accepting my mercy. You on the other hand have made me appreciate how reasonable some of the governors can be. @L@L
+		I will be blunt with you, the only thing that I seek is legitimacy and so every city that follows your example is a boon and saves lives in this struggle. I will remember this favor, and if any Pompeian officials remain in your colony, send them to Rome. They are free men, and I wish them no harm. It's a political victory when your enemy is humbled by your mercy and reason. @L@L
+		@H New Development @L
+		+1 Favor per year but prices of some exports have been lowered. @G[civil_war_caesar.png]@L@L@L@L 
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="civil war caesar attack">
+		<title>(!) Invasion (!)</title>
+		<subtitle>Several Legions have Invaded from Sicily</subtitle>
+		<text> @G[c3 stills_120.png]@L
+		@H Message @L
+		Governor, the traitors have landed. We need to push them back into the sea! @G[civil_war_caesar_attack.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="wheat">
+		<title> (!) Wheat cultivation (!)</title>
+		<subtitle>Carthago a Breadbasket?</subtitle>
+		<text> @G[c3 stills_03.png]@L
+		@H Message @L
+		Traders have brought us number of grain seeds, some of which have proven suitable to our climate. This new food source should complement our citizens diet well. @L@L
+		@H New Development @L 
+		Wheat unlocked for farming. @G[wheat farm.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+		
+	<message uid="caesar gives up">
+		<title>(!) Civil War Ends (!)</title>
+		<subtitle>Roma Victrix</subtitle>
+		<text> @G[c3 stills_08.png]@L@L
+		Have it your way governor, time will show you the error of your ways. Even now my legions are marching on other cities that resist the natural order of things. The leaders of the Pompeian faction have taken their life or died on the battlefield. We have not seen each other last. @L@L
+		@H New Development @L
+		The civil war ends and attacks from Caesareans will cease. Your city will gain +1 weapons each month from scavenging the battlefields. @G[caesar_gives_up.png]@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="lighthouse">
+		<title>(!) Lighthouse (!)</title>
+		<subtitle>Trade Networks</subtitle>
+		<text> @G[c3 stills_51.png]@L
+		@H Message @L
+		Thanks to our lighthouse, new cities are now open as possible trade partners from across the Republic. @L@L
+		Several new trade routes have been unlocked. @G[ruta_nueva.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Roman Carthago</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		I'm impressed governor, dealing with internal struggles such as this war was no easy matter. Whatever your decision, I'm sure you have done your utmost to serve Rome and her people. @L@L
+		In Tarsus you will face another challenge: significant food imports. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus18.png"/>
+		<background_music filename="WinAssignment.wav"/>
+		<media type="speech" filename="Carthago2.mp3"/>
+	</message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Carthago no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+		
+</messages>

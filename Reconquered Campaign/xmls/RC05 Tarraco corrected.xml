@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE messages>
+<messages version="1" language="english">
+	<message uid="intro">
+		<title>Claiming Tarraco</title>
+		<subtitle>Punic War on the Horizon</subtitle>
+        <text>@G[c3 stills_73.png]@L
+		@H Historical Background @L
+		Tarraco had been inhabited by Iberian natives and Greco-Phoenician traders since its founding in the 5th century BC. Its name likely stems from the tall cliff on which a major part of the city stood. @L@L
+		In the year 270 BC, Roman armies arrived in Hispania and claimed Tarraco for their base of operations, swiftly turning it into a major weapons manufacturing center and a supply hub. @L@L
+		At this time, Rome had solidified its grip on southern Italy and turned towards Sicily, where another ancient superpower, the state of Carthage, held significant territories. Carthago was originally established as a Phoenician colony benefiting greatly from its superb location in North Africa (modern day Tunisia). It offered opportunities to control trade in the Mediterranean Sea. @L@L
+		During the first millennium BC, it developed into a capital of the Punic Empire. After the First Punic War ended, the empire collapsed and gave rise to a republic and a new system of government. Like Greek or Roman political systems at the time, the democracy of ancient times would be much closer to a modern-day oligarchy. @L@L
+		Carthage would remain a major threat to Roman influence and the war would return twice more in the future, leaving Rome eventually triumphant as the sole power in the Mediterranean region.@L@L 
+		
+		@G[c3 instructions icon.png]	
+		@H Instructions @L
+		Welcome to Hispania governor. The city of Tarraco is now under our control and the task now falls to you to turn it into a major manufacturing hub and supply base for future Iberian expeditions. You will not directly take part in any active warfare, for you only need to supply Roman officers with ample provisions as the land around the city is incredibly fertile. @L@L
+		Thanks to the winding rivers depositing rich sediments in the soil around Tarraco, you can expect bountiful harvests of wheat and other products. Another valuable local commodity is the marble which can be quarried for both local use and profitable export. Unfortunately, there are no suitable veins of iron ore within the city limits, so you will need to bring in iron ingots for your arms workshops via trade. A report from the initial Roman expedition indicated that there may be a way to extract iron, but the required workforce does not suit the small nature of the initial settlement. Perhaps later you will be able to establish large scale mining operations. @L@L
+		The terrain in Tarraco will prove the most challenging you have dealt with thus far, but with your experience, governor, you will surely thrive even in the rugged environment of Hispania. @L@L
+		
+		@H Edicts @L
+		@Iron @Veins - After your colony reaches 1500 population, you will be presented with a side objective to deal with iron shortages. @L@L
+		@Urban@ Poverty - Labor is cheap and wages start at 20 denarii, but prices for exports of goods are lower. Rome may ask for large quantities of wheat and other common goods. @L@L
+		
+		@H Additional Information @L
+		On this map, mining spots are marked with a 2x2 road circle. Rocks that aren't marked will not allow mines to be placed near them. @L
+		Housing placed on high ground will benefit from increased desirability. @L
+		From a historical perspective you should start with a pre-built city on this map, but few players would like that. It will be up to you to build everything from scratch. There is no military activity on this map.@L@L
+		At the time of the mission Rome is in its republic stage, so treat requests from "Caesar" as if they were from the Roman Senate instead.
+		@H Persistent Events @L 
+		Grand Temple to Mercury unlocks plaza. Subsidies, lasting until 10 prosperity rating, give 100 dn. per month. Workshops only unlock after the subsidy expires. @L@L
+		Due to game limitations, starting prices for goods will be adjusted after 1 in-game month has passed. @L@L@L@L
+		</text>
+		<media type="background_image" filename="augustus06.png"/>
+		<background_music filename="ROME2.wav"/>
+		<media type="speech" filename="Tarraco1.mp3"/>
+	</message>
+	
+	<message uid="Iron deposits">
+		<title>(!) Iron Deposits (!)</title>
+		<subtitle></subtitle>
+		<text> @G[c3 stills_122.png]@L
+		@H Message @L
+		Governor, the local development gave us access to much more labor and skillful workers who helped us determine that mining for iron ore is viable in the local area, albeit at a cost. @L@L
+		For each 3 iron mines we will need to supply 1 unit of timber per month to reinforce the mineshafts. If we fail to provide the timber necessary, we may suffer accidents. @L@L
+		@L@L
+		@H Reward @L
+		Iron has been unlocked locally, but for each 3 active iron mines you will lose 1 unit of timber per month. If no timber is available for the upkeep of the mines, some of the mines might collapse. @L@L
+		
+		@H Historical Background @L
+		Romans were quite advanced for their time in terms of mining technology and knowledge. Many large-scale mines were developed to fuel the economy as well as provide jobs in large scale projects. Some large mines and plantations would also be fully staffed by slave labor. @L@L
+		This resulted in a crisis and was one of the reasons why the Late Republic had many societal issues. Rich aristocrats would buy land from farmers in Italy and buy out any competition to their operations, eradicating small farms and forcing the population into cities which swelled. @L@L
+		Many of these people would have no skills in craftsmanship and would become fully dependent on the Roman free-food program called the "grain dole". @L@L
+		This increased the tension in Roman society and meant that if state granaries ran low on grain, massive riots and unrest would soon follow. Maintaining large scale stockpiles and expanding Roman territory was therefore vital for its continuous survival. @L@L
+		Julius Caesar, who led a reform faction during the Late Republic, proposed much legislation during his year as consul. Some of it was exclusively targeted at expanding the grain dole and buying out unprofitable plantations to redistribute land back to the urban poor, via lottery. @L@L
+		This was met with resentment from the conservative faction which had a vested interest in keeping the status quo and not addressing any of these issues. This eventually boiled over when Caesar completed his conquest of Gaul. The Senate, led by the conservatives refused to ratify the conquest, give veterans their land handout as retirement payment, and demanded his resignation despite prior legislation that gave him permission to retain his command and provinces for an extended duration. @L@L
+		As mentioned before, this was a precursor to the eventual civil war, when political factionalism would break the Roman political system. @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="side objective 1">
+		<title>(!) Weapon Smithies (!)</title>
+		<subtitle>Military Supplies</subtitle>
+		<text> @G[c3 stills_49.png]@L
+		@H Message @L
+		Governor, we should start to establish a large-scale weapons industry. Tensions with Carthage are at their height, and we will surely be tasked to support the war effort. If large-scale manufacturing is planned properly, we should see a rise in smelting efficiency and more availability of raw materials for further expansion. @L@L
+		@L@L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build and staff 12 weapons workshops to gain +2 iron each month directly into stockpiles. @G[weapons_full.png] @G[decorative objetive .png] @L@L
+		
+		@H Historical Background @L
+		Roman armor evolved in similar fashion to their weaponry and organization as they encountered new enemies and adapted. Some of the armor used during specific periods were: @L@L
+		Bronze or boiled-leather muscle cuirass, @lorica @musculata - First appeared in late Archaic Greece and became widespread throughout the 5th and 4th centuries BC. It was later used by Romans for generals or emperors as it depicted optimal muscle physique. @L@L
+		Iron chainmail armor, @lorica @hamata - Romans learned of this invention from Celts living in northern Italy. Very robust armor that was very labor intensive to produce, offered great overall protection and flexibility. Starting kit of Late Republic legionaries. @L@L
+		Iron or steel banded armor, @lorica @segmentata - Also called lorica lamminata, its introduction is not exactly known. Some argue that it was introduced after Crassus’ defeat by the Parthians in the year 53 BC, while others argue that it was after a revolt in 21 AD. This armor is overused in popular media and would not reflect the armor used by most Roman soldiers during times of Caesar or even Augustus. It was not unique to the Romans, as Parthians and other eastern people used similar banded armor even before the Romans adopted it. @L@L
+		Scale mail armor, @lorica @squamata - Used mostly during the decline of the Western Roman Empire and by Byzantine armies. It falls short of other armor, but its main advantage was lower production costs, fitting well into the environment where Rome was in heavy decline and could not afford to arm or equip its troops with quality equipment. It still served its purpose and was not worthless by any means. @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu3.wav"/>
+	</message>
+	
+	<message uid="subsidy">
+		<title>(!) Subsidy Expires (!)</title>
+		<subtitle>Workshops Unlocked</subtitle>
+		<text> @G[c3 stills_74.png]@L 
+		@H Message @L
+		The colonial subsidy has expired, and Tarraco no longer receives 100 dn. per month. However, you may now order the construction of @workshops. @G[workshop.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="side objective 2">
+		<title>(!) Governance (!)</title>
+		<subtitle>A Place to Call Home</subtitle>
+		<text> @G[c3 stills_64.png]@L  
+		@H Message @L
+		It is not fitting that a respectable Roman patrician and governor is living amid the rabble. Build a governor's mansion to provide comfortable lodging for yourself, your family, and councilors. @L@L
+		@G[decorative objetive .png] @H New Side Objective @L
+		Build a governor's residence (must be a governor's villa) for a secret reward. @G[gob_villa.png]  @G[decorative objetive .png] @L@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="side objective 2 completed">
+		<title>(!) Discovery (!)</title>
+		<subtitle>Iberian Gold</subtitle>
+		<text> @G[c3 stills_64.png]@L  @H Message @L
+		While excavating the foundations for your new home, workers discovered a hidden stash of Iberian gold coins, no doubt hidden away before the conquest of the area. It is only rightful that the new Roman administrator keeps this boon. 
+		@H Reward @L
+		4000 denarii acquired and added to your private savings. @G[add_personal_founds.png] @L
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+		</message>
+		
+	<message uid="Punic War">
+		<title>(!) Punic War (!)</title>
+		<subtitle>The Roman Republic's Greatest Struggle</subtitle>
+		<text> @G[c3 stills_97.png]@L 
+		@H Message @L
+		On the island of Sicily, tensions have boiled over. Roman diplomats were insulted, and colonization efforts were hindered by the Carthaginians living there. This insult to all Romans has caused an outrage in the Senate, and a declaration of war swiftly followed. This conflict will put all Roman cities to the test, as all citizens are expected to contribute to the war effort. @L@L
+		Weapons, denarii, and manpower will need to be sent to fuel the Roman war machine. Your growing city is in a good position to capitalize on these conditions. However, be warned: if you fail to provide the requested supplies, you will not only fall out of favor with the Senate but will also jeopardize the war effort with severe consequences. @L@L
+		@G[decorative objetive .png] @H New Development @L
+		The Senate will now start to request weapons, denarii, and wheat in large amounts. Your favor will naturally decline by an additional -2 per year. @G[weapon_taken.png] @G[decorative objetive .png] @L@L
+		
+		@H Historical Background @L
+		Since the Carthaginian state was a direct inheritor of the Phoenician culture, their armies fought in a similar manner to the Greek phalanx. Specialist units like mercenary or auxiliary light infantry and cavalry were often included. Slingers from the Balearic Islands were popular as well. Amongst the cavalry, Carthage often employed Numidian light cavalry who excelled at skirmishing and screening. @L@L
+		For infantry, Iberians and Celts would see wide use to boost the ranks of the citizen hoplites. Famously, Carthage was also fond of using war elephants. This did sometimes result in a disaster for the Carthaginians, however, as in the Battle of Zama during the Second Punic War. The 80 war elephants were likely newly captured and only partially trained. @L@L
+		When Romans opened gaps in the line of their infantry, the animals ran into them and were pelted by skirmishers, killing many and driving the rest of them back. The elephants then charged and severely damaged the Carthaginian cavalry which led to Roman superiority and eventual victory. @L@L
+		We previously discussed early Roman military organization with Greek style phalanx. This was no longer in practice even during the Samnite Wars. Instead, around 315 BC the Romans invented the manipular system. This system developed smaller scale units where a maniple would typically be comprised of 120 soldiers arrayed in 3 ranks of 40 men. @L@L
+		This system would also see the creation of the familiar 3-line system and separation into designated units of velites (skirmishers), hastati (young and poor infantry), principes (middle aged wealthier heavy infantry) and triarii (the oldest and most experienced and best equipped infantry). @L@L
+		The echelons differed not only in their roles, but also in their equipment. Polybius describes their panoply in detail. First, the velites were armed with a sword, javelins, and a small shield called a parma. They wore no armor, apart from a helmet which was often covered in animal skins. Polybius asserts that these skins not only protected the helmet, but also served as a means of identification, such that soldiers could be remembered and later rewarded for acts of bravery. Next, the hastati were armed in "full panoply". Their armament included a sword, javelins, and a large, reinforced shield. For armor, they wore a helmet decorated with tall plumes designed to make its wearer appear larger, as well as a sheet of metal called a "heart plate" to protect the chest. Principes were equipped in the same manner as the hastati. Wealthier soldiers (of a property value greater than 10,000 drachmas) could afford a chain mail cuirass. Finally, the triarii were equipped like the other infantry, except for a thrusting spear in place of javelins. @L@L
+		This equipment was generally lighter and cheaper than that of the Servian hoplites that preceded the maniple. It emphasized the flexibility of the maniple system and allowed for lightly armored, highly mobile soldiers. Moreover, because purchasing the equipment was the responsibility of the individual soldier, its affordability helped increase the number of citizens eligible for military service. @L@L
+		Hastati and principes would carry "pila" or throwing javelins to break up enemy charges and to give them the capability to use projectiles in case of a siege of defenses. @L@L Romans would also employ skirmishers and cavalry made up of auxiliary from their Italic allies and later also Celts, Germans, and Greeks as well as various other peoples. @L@L
+		The Roman strategy shifted and relied on tiring the enemy out while holding significant parts of the army, up to 2/3, in reserve. Large shields or scutum would be ideal for defensive tactics and letting the enemy tire themselves out attacking the Romans. When the enemy tired, the Romans would start to push back. @L@L
+		Some historians believe there was a system for rotating out tired units on the frontline, but this is debated, as disengaging would often be difficult. @L@L 
+		One reason for adopting the manipular system was also that Rome now found itself fighting Samnites and other hill peoples, who preferred to fight as light infantry in rough terrain and the phalanx had difficulties traversing such terrain effectively. Smaller more flexible units who preferred a line formation were much better used in this environment. @L@L
+		From the new makeup of the Roman legion, heavy infantry was more dominant than ever and thus started to see Romans favoring open pitched battles where armies would advance into each other without much in terms of flanking maneuvers. This also made the Romans develop a strong martial culture and similar mindset. The word for ambush was used interchangeably for lie or dishonor. @L@L
+		Roman strategy also revolved strongly around logistics. To force enemies to give battle and make mistakes, Roman armies in the field would try to remain highly supplied and be able to take defensive position on a hill or in a chokepoint and starve the enemy army into attacking them. Armies at this time often relied predominantly on foraging or trying to live off the land. Romans would send parties to harass the enemy and deprive them of forage, forcing them into a position where they had to attack. @L@L
+		Contrary to popular belief, two armies meeting each other would often not result in an immediate battle. Often you would see skirmishing, harassing of supply lines, and an effort to take better tactical position first, which could sometimes take weeks at a time before the major engagement was fought. @L@L@L@L
+		</text>
+		<media type="sound" filename="fanfare_nu2.wav"/>
+		</message>
+		
+	<message uid="smithies done">
+		<title>(!) Industrialization (!)</title>
+		<subtitle>Weapon Smithies Completed</subtitle>
+		<text> @G[c3 stills_117.png]@L 
+		@H Message @L
+		The planned large-scale manufacturing operation is already bearing fruit. Your city should enjoy an increased number of raw materials available. @L@L
+		@H Reward @L
+		Receive +2 units of iron per month into any warehouse that accepts it. @G[smithies_done.png]
+		@L@L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="plaza">
+		<title>(!) Plaza Unlocked (!)</title>
+		<subtitle>Tiles and Mosaics</subtitle>
+		<text> @G[c3 stills_04.png]@L
+		@H Message @L
+		As a result of the plentiful donations received at the new Grand Temple to Mercury, renowned artisan guilds have established shops in our city for the production of sensational tiles and mosaics for public display.@L@L
+		@H Reward @L
+		Plaza unlocked. @G[plaza.png] @L@L
+		</text>
+		<media type="sound" filename="FANFARE.WAV"/>
+	</message>
+	
+	<message uid="victory">
+		<title>Prosperous Tarraco</title>
+		<subtitle>You are Victorious</subtitle>
+		<text> @G[c3 stills_127.png]@L @L 
+		@H Assignment Completed @L
+		That was a task well done governor. The Carthaginians have suffered several defeats, and it was your resourcefulness that played a major part in it. @L@L
+		Next, we will see how you manage to face them directly. Syracusae will be a true test of your skills. @L@L
+		</text>
+		<media type="video" filename="Victory_Senate.smk"/>
+		<media type="background_image" filename="augustus08.png"/>
+		<background_music filename="WinAssignment.wav"/>
+        <media type="speech" filename="Tarraco2.mp3"/>
+	</message>
+
+	<message uid="collapse">
+		<title>(!) Mining Accident (!)</title>
+		<subtitle>Mines Collapsed</subtitle>
+		<text>@G[c3 stills_53.png]@L 
+		@H Message @L
+		Due to a lack of safety precautions, a severe accident happened in one of our mines. We had to pay out 1000 denarii to the families of workers that were lost. This could occur again unless there is sufficient timber for supports. @G[collapse.png] @L@L
+		</text>
+		<media type="sound" filename="EXPLOD1.WAV"/>
+	</message>
+
+</messages>

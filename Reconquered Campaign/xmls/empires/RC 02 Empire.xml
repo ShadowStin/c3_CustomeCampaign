@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE empire>
+<empire version="1" show_ireland="true">
+    <border density="28">
+        <edge x="754" y="323" />
+        <edge x="743" y="336" />
+        <edge x="758" y="356" />
+        <edge x="748" y="365" />
+        <edge x="751" y="393" />
+        <edge x="803" y="430" />
+        <edge x="818" y="478" />
+        <edge x="861" y="514" />
+        <edge x="901" y="517" />
+        <edge x="893" y="538" />
+        <edge x="968" y="577" />
+        <edge x="1000" y="608" />
+        <edge x="993" y="624" />
+        <edge x="972" y="601" />
+        <edge x="938" y="589" />
+        <edge x="916" y="629" />
+        <edge x="942" y="649" />
+        <edge x="943" y="670" />
+        <edge x="947" y="674" />
+        <edge x="921" y="682" />
+        <edge x="921" y="700" />
+        <edge x="897" y="727" />
+        <edge x="882" y="712" />
+        <edge x="908" y="676" />
+        <edge x="883" y="613" />
+        <edge x="856" y="606" />
+        <edge x="850" y="580" />
+        <edge x="820" y="572" />
+        <edge x="804" y="548" />
+        <edge x="779" y="548" />
+        <edge x="683" y="460" />
+        <edge x="667" y="405" />
+        <edge x="609" y="383" />
+        <edge x="612" y="359" />
+        <edge x="680" y="348" />
+        <edge x="693" y="330" />
+    </border>
+
+    <cities>
+        <city name="Brundisium" x="988" y="605" type="ours">
+            <sells>
+                <resource type="wheat" />
+                <resource type="vegetables" />
+                <resource type="fish" />
+                <resource type="clay" />
+                <resource type="sand" />
+                <resource type="stone" />
+            </sells>
+        </city>
+
+        <city name="Apulia" x="907" y="560" trade_route_cost="250" trade_route_type="land">
+            <buys>
+                <resource type="clay" amount="50" />
+                <resource type="sand" amount="50" />
+                <resource type="stone" amount="20" />
+            </buys>
+            <sells>
+                <resource type="timber" amount="50" />
+                <resource type="furniture" amount="28" />
+                <resource type="oil" amount="30" />
+            </sells>
+            <trade_points>
+                <point x="979" y="594" />
+                <point x="945" y="565" />
+            </trade_points>
+        </city>
+
+        <city name="Sena Gallica" x="780" y="427" trade_route_cost="400" trade_route_type="sea">
+            <buys>
+                <resource type="marble" amount="15" />
+                <resource type="bricks" amount="30" />
+                <resource type="vegetables" amount="40" />
+            </buys>
+            <sells>
+                <resource type="fish" amount="320" />
+            </sells>
+            <trade_points>
+                <point x="1000" y="590" />
+                <point x="995" y="574" />
+                <point x="980" y="556" />
+                <point x="950" y="539" />
+                <point x="915" y="514" />
+                <point x="890" y="492" />
+                <point x="865" y="484" />
+                <point x="840" y="466" />
+                <point x="825" y="450" />
+                <point x="820" y="441" />
+                <point x="815" y="435" />
+            </trade_points>
+        </city>
+        <city name="Corcyra" x="1054" y="631" trade_route_cost="750" trade_route_type="sea">
+            <buys>
+                <resource type="clay" amount="40" />
+                <resource type="sand" amount="40" />
+                <resource type="pottery" amount="20" />
+            </buys>
+            <sells>
+                <resource type="gold" amount="15" />
+                <resource type="wine" amount="15" />
+            </sells>
+            <trade_points>
+                <point x="1016" y="615" />
+                <point x="1050" y="620" />
+            </trade_points>
+        </city>
+        <city name="Rome" x="772" y="524" trade_route_cost="1500" trade_route_type="sea">
+            <buys>
+                <resource type="pottery" amount="20" />
+                <resource type="furniture" amount="20" />
+                <resource type="wheat" amount="300" />
+            </buys>
+            <sells>
+                <resource type="olives" amount="60" />
+                <resource type="vines" amount="60" />
+            </sells>
+            <trade_points>
+                <point x="936" y="696" />
+                <point x="905" y="730" />
+                <point x="892" y="735" />
+                <point x="880" y="730" />
+                <point x="880" y="725" />
+                <point x="888" y="673" />
+                <point x="873" y="632" />
+                <point x="826" y="600" />
+                <point x="800" y="580" />
+                <point x="777" y="557" />
+            </trade_points>
+        </city>
+        <city name="Epidamnos" x="1053" y="541" trade_route_cost="1200" trade_route_type="sea">
+            <buys>
+                <resource type="sand" amount="40" />
+                <resource type="stone" amount="30" />
+            </buys>
+            <sells>
+                <resource type="timber" amount="70" />
+                <resource type="furniture" amount="28" />
+            </sells>
+            <trade_points>
+                <point x="1021" y="595" />
+                <point x="1028" y="570" />
+            </trade_points>
+        </city>
+
+        <city name="Syracusae" x="860" y="762" type="distant" />
+        <city name="Croton" x="932" y="659" type="roman" />
+        <city name="Carthago" x="662" y="775" type="distant" />
+        <city name="Alalia" x="624" y="527" type="roman" />
+        <city name="Athenae" x="1211" y="717" type="distant" />
+        <city name="Apollonia" x="1046" y="587" type="distant" />
+
+
+    </cities>
+</empire>
